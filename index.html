@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="utf-8">
+	<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>ECS163 Final</title>
+    <link href="css/main.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div id="nav">
+      <button class="typeOne" id="0" type="button">San Francisco</button>
+      <button class="typeOne" id="1" type="button">Seattle</button>
+      <button class="typeOne" id="2" type="button">New York</button>
+      <button class="typeOne" id="3" type="button">Chicago</button>
+      <button class="typeOne" id="4" type="button">Washington D.C</button>
+    </div>
+    
+    <div id="content">
+        <div id="rightBar">
+          <div class="wc">
+            <span class="wctitle">Wordcloud of High Frequence Word in<br/></span>
+            <span class="wctitle"> Name and Description</span>
+          </div>
+          <div id="polygon">
+            <span class="wctitle">Rating</span>
+          </div>
+        </div>
+
+				<div id="filterBar">
+          <div class="filter1">
+            <h5 class="priceFilter">Price: 
+              <select class="getPrice select-style">
+                <option value="0" class="option" selected>None</option>
+                <option value="1" class="option">0-200</option>
+                <option value="2" class="option">200-400</option>
+                <option value="3" class="option">400-600</option>
+                <option value="4" class="option">600-800</option>
+                <option value="5" class="option">800-1000</option>
+                <option value="6" class="option">1000+</option>
+              </select>
+            </h5>
+          </div>
+          <div class="filter2">
+            <h5 class="priceFilter">Room Type: 
+              <select class="getType select-style">
+                <option value="0" class="option" selected>None</option>
+                <option value="1" class="option">Entire House/Apt</option>
+                <option value="2" class="option">Private Room</option>
+                <option value="3" class="option">Shared Room</option>
+              </select>
+            </h5>
+          </div>
+          <button class="filterClicker" type="button">Filter</button>
+          <div>
+          	<h5 class="famousText"><input type="checkbox" class="famousClicker" value="Bike">Tourist Attractions</h5>
+          </div>
+        </div>
+      </div>
+      
+      <div class="map"></div>
+      
+      
+    </div>
+
+    <script>
+			document.getElementById("rightBar").style.height = (screen.availHeight - 60) + "px";
+			document.getElementById("filterBar").style.width = (screen.availWidth - 500) + "px";
+    </script>
+    <script src="js/jquery.js"></script>
+    <script src="js/d3/d3.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/d3cloud.js"></script>
+    <script src="js/liquidFillGauge.js" ></script>
+  </body>
+</html>

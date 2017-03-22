@@ -1,0 +1,7074 @@
+,count,word,neighbourhood
+0,4336,seattle,
+1,3201,downtown,
+2,3034,bedroom,
+3,2991,kitchen,
+4,2954,home,
+5,2690,bed,
+6,2634,space,
+7,2573,apartment,
+8,2457,house,
+9,2455,private,
+10,2154,access,
+11,2135,one,
+12,2054,neighborhood,
+13,2048,bathroom,
+14,2018,full,
+15,2011,living,
+16,1995,queen,
+17,1925,located,
+18,1921,bus,
+19,1917,walk,
+20,1892,restaurants,
+21,1756,hill,
+22,1685,two,
+23,1629,great,
+24,1627,floor,
+25,1496,away,
+26,1445,guests,
+27,1415,available,
+28,1408,parking,
+29,1404,place,
+30,1390,quiet,
+31,1374,large,
+32,1371,blocks,
+33,1334,area,
+34,1281,street,
+35,1274,capitol,
+36,1265,city,
+37,1257,lake,
+38,1192,close,
+39,1173,also,
+40,1164,walking,
+41,1154,new,
+42,1148,coffee,
+43,1125,minutes,
+44,1035,comfortable,
+45,1034,stay,
+46,1030,enjoy,
+47,1028,easy,
+48,1027,location,
+49,1023,park,
+50,1011,bath,
+51,996,free,
+52,964,light,
+53,963,tv,
+54,959,distance,
+55,958,studio,
+56,941,unit,
+57,935,view,
+58,901,modern,
+59,896,beautiful,
+60,890,views,
+61,869,center,
+62,868,well,
+63,857,heart,
+64,856,cozy,
+65,853,use,
+66,829,shops,
+67,818,size,
+68,814,deck,
+69,811,within,
+70,808,building,
+71,792,market,
+72,780,wifi,
+73,776,dining,
+74,760,need,
+75,756,bedrooms,
+76,754,shared,
+77,744,bars,
+78,733,small,
+79,728,spacious,
+80,724,block,
+81,716,guest,
+82,700,ballard,
+83,693,please,
+84,688,fully,
+85,688,everything,
+86,686,perfect,
+87,685,people,
+88,683,seattles,
+89,674,clean,
+90,670,right,
+91,629,near,
+92,629,main,
+93,627,garden,
+94,622,best,
+95,600,washington,
+96,600,like,
+97,599,entrance,
+98,597,pike,
+99,597,laundry,
+100,592,open,
+101,575,university,
+102,566,minute,
+103,561,floors,
+104,556,back,
+105,555,patio,
+106,553,front,
+107,536,basement,
+108,529,closet,
+109,526,dryer,
+110,524,lots,
+111,522,around,
+112,522,needle,
+113,520,many,
+114,519,door,
+115,514,top,
+116,510,fremont,
+117,508,includes,
+118,505,furnished,
+119,504,shower,
+120,495,suite,
+121,492,get,
+122,487,live,
+123,483,amenities,
+124,478,yard,
+125,478,district,
+126,476,family,
+127,472,shopping,
+128,469,anne,
+129,465,condo,
+130,464,min,
+131,463,feel,
+132,463,west,
+133,457,make,
+134,456,entire,
+135,455,windows,
+136,455,union,
+137,454,offer,
+138,451,love,
+139,451,separate,
+140,450,time,
+141,447,plenty,
+142,447,couch,
+143,446,take,
+144,445,youll,
+145,444,master,
+146,441,welcome,
+147,438,washer,
+148,434,cable,
+149,432,mattress,
+150,427,equipped,
+151,426,level,
+152,426,features,
+153,425,lines,
+154,424,uw,
+155,423,green,
+156,422,short,
+157,420,water,
+158,419,amazing,
+159,417,beds,
+160,415,sofa,
+161,414,internet,
+162,405,tub,
+163,404,upstairs,
+164,404,backyard,
+165,401,high,
+166,399,day,
+167,399,beach,
+168,398,friendly,
+169,397,miles,
+170,394,first,
+171,385,including,
+172,383,sized,
+173,381,central,
+174,378,parks,
+175,378,steps,
+176,374,car,
+177,374,local,
+178,374,gas,
+179,370,rail,
+180,366,microwave,
+181,364,air,
+182,363,table,
+183,361,work,
+184,360,privacy,
+185,354,second,
+186,351,town,
+187,350,rooms,
+188,349,three,
+189,346,may,
+190,344,nice,
+191,344,north,
+192,344,next,
+193,343,grocery,
+194,339,airport,
+195,338,nearby,
+196,338,provided,
+197,337,us,
+198,336,outdoor,
+199,334,sound,
+200,333,want,
+201,329,ride,
+202,329,see,
+203,327,happy,
+204,327,lovely,
+205,326,night,
+206,324,lower,
+207,323,craftsman,
+208,319,charming,
+209,319,towels,
+210,315,neighborhoods,
+211,315,sleeps,
+212,312,bright,
+213,310,rooftop,
+214,309,help,
+215,309,apt,
+216,309,sleep,
+217,307,brand,
+218,306,public,
+219,303,king,
+220,301,offers,
+221,300,south,
+222,299,check,
+223,299,provide,
+224,297,convenient,
+225,296,little,
+226,296,urban,
+227,291,bathrooms,
+228,291,twin,
+229,290,share,
+230,289,go,
+231,289,cottage,
+232,289,etc,
+233,288,much,
+234,286,across,
+235,284,remodeled,
+236,282,townhouse,
+237,282,appliances,
+238,280,built,
+239,279,art,
+240,278,hardwood,
+241,277,youre,
+242,277,key,
+243,276,im,
+244,275,loft,
+245,275,questions,
+246,272,would,
+247,272,fireplace,
+248,271,big,
+249,271,stop,
+250,270,drive,
+251,270,property,
+252,269,waterfront,
+253,269,mile,
+254,268,hot,
+255,267,washerdryer,
+256,267,find,
+257,266,downstairs,
+258,266,comfortably,
+259,266,old,
+260,265,cafes,
+261,265,desk,
+262,264,belltown,
+263,263,flat,
+264,263,come,
+265,261,linens,
+266,260,comfy,
+267,260,line,
+268,258,renovated,
+269,258,areas,
+270,258,good,
+271,256,relax,
+272,255,rental,
+273,255,experience,
+274,255,natural,
+275,254,entry,
+276,254,outside,
+277,253,convention,
+278,251,style,
+279,250,fun,
+280,249,square,
+281,243,breakfast,
+282,243,stores,
+283,242,balcony,
+284,242,sq,
+285,242,phone,
+286,241,puget,
+287,240,major,
+288,240,via,
+289,240,listing,
+290,240,food,
+291,239,nightlife,
+292,239,stocked,
+293,238,foot,
+294,238,spot,
+295,237,residential,
+296,236,extra,
+297,235,newly,
+298,234,fridge,
+299,231,screen,
+300,231,unique,
+301,230,mountains,
+302,228,store,
+303,227,additional,
+304,227,corner,
+305,227,vacation,
+306,227,ave,
+307,226,bike,
+308,225,whole,
+309,223,wallingford,
+310,222,ft,
+311,220,always,
+312,220,looking,
+313,220,garage,
+314,219,common,
+315,218,score,
+316,217,know,
+317,217,netflix,
+318,216,transportation,
+319,216,plus,
+320,216,fresh,
+321,214,dishwasher,
+322,214,side,
+323,212,trail,
+324,212,centrally,
+325,211,included,
+326,211,historic,
+327,209,single,
+328,207,huge,
+329,207,throughout,
+330,207,super,
+331,206,working,
+332,206,greenlake,
+333,205,staying,
+334,205,every,
+335,204,needed,
+336,204,note,
+337,203,give,
+338,203,stove,
+339,202,wonderful,
+340,202,transit,
+341,201,ceilings,
+342,201,furniture,
+343,200,sleeping,
+344,198,upper,
+345,196,airbnb,
+346,196,less,
+347,196,hidden,
+348,195,cooking,
+349,195,station,
+350,195,vibrant,
+351,194,theres,
+352,194,four,
+353,193,anything,
+354,192,refrigerator,
+355,192,business,
+356,191,safe,
+357,190,bbq,
+358,189,futon,
+359,189,set,
+360,189,dont,
+361,188,attractions,
+362,188,cook,
+363,187,sleeper,
+364,186,feet,
+365,186,conveniently,
+366,186,maker,
+367,185,bay,
+368,185,vintage,
+369,184,buses,
+370,184,wood,
+371,184,couple,
+372,184,double,
+373,183,tea,
+374,183,long,
+375,182,fantastic,
+376,181,include,
+377,181,person,
+378,181,visit,
+379,180,end,
+380,180,lot,
+381,180,grill,
+382,180,let,
+383,179,luxury,
+384,179,alki,
+385,179,part,
+386,177,music,
+387,177,oven,
+388,177,wireless,
+389,176,hotel,
+390,176,yet,
+391,176,foam,
+392,175,columbia,
+393,175,several,
+394,174,quick,
+395,174,amazon,
+396,174,keep,
+397,173,along,
+398,173,olympic,
+399,170,meet,
+400,169,cool,
+401,169,accommodate,
+402,168,completely,
+403,167,explore,
+404,167,updated,
+405,166,complete,
+406,165,host,
+407,165,gorgeous,
+408,165,things,
+409,165,warm,
+410,164,kitchenette,
+411,164,plan,
+412,164,summer,
+413,163,pikes,
+414,163,designed,
+415,161,upon,
+416,161,morning,
+417,161,ideal,
+418,160,bar,
+419,157,walkable,
+420,157,way,
+421,157,sunny,
+422,156,storage,
+423,155,office,
+424,155,porch,
+425,155,leave,
+426,154,ask,
+427,154,stairs,
+428,153,even,
+429,152,sink,
+430,151,doors,
+431,150,community,
+432,149,memory,
+433,149,easily,
+434,149,french,
+435,148,comfort,
+436,148,email,
+437,147,hospital,
+438,147,middle,
+439,146,rent,
+440,146,book,
+441,146,broadway,
+442,145,gym,
+443,145,stops,
+444,144,range,
+445,143,rest,
+446,142,popular,
+447,141,world,
+448,139,classic,
+449,138,sheets,
+450,138,spaces,
+451,137,relaxing,
+452,137,filled,
+453,137,charm,
+454,137,toaster,
+455,136,seating,
+456,136,village,
+457,136,accessible,
+458,136,places,
+459,135,bunk,
+460,135,third,
+461,134,glass,
+462,134,play,
+463,134,original,
+464,134,townhome,
+465,133,gardens,
+466,133,directly,
+467,133,half,
+468,132,request,
+469,132,window,
+470,131,movie,
+471,131,board,
+472,131,pool,
+473,131,recently,
+474,130,fire,
+475,130,text,
+476,130,chairs,
+477,129,children,
+478,129,ceiling,
+479,129,tons,
+480,129,dishes,
+481,129,phinney,
+482,128,chair,
+483,127,makes,
+484,127,greenwood,
+485,127,mt,
+486,126,dog,
+487,126,east,
+488,126,ridge,
+489,126,kids,
+490,126,comes,
+491,125,bungalow,
+492,124,traveling,
+493,124,situated,
+494,124,another,
+495,124,overlooking,
+496,124,decorated,
+497,124,madison,
+498,124,zoo,
+499,123,inside,
+500,52,queen,West Queen Anne
+501,47,anne,West Queen Anne
+502,14,private,West Queen Anne
+503,14,home,West Queen Anne
+504,12,apartment,West Queen Anne
+505,10,view,West Queen Anne
+506,10,cozy,West Queen Anne
+507,10,craftsman,West Queen Anne
+508,10,beautiful,West Queen Anne
+509,9,modern,West Queen Anne
+510,9,studio,West Queen Anne
+511,9,seattle,West Queen Anne
+512,8,bedroom,West Queen Anne
+513,7,charming,West Queen Anne
+514,7,house,West Queen Anne
+515,5,vintage,West Queen Anne
+516,5,enjoy,West Queen Anne
+517,5,located,West Queen Anne
+518,5,hill,West Queen Anne
+519,5,bath,West Queen Anne
+520,5,top,West Queen Anne
+521,5,one,West Queen Anne
+522,4,suite,West Queen Anne
+523,4,floor,West Queen Anne
+524,4,stunning,West Queen Anne
+525,4,lower,West Queen Anne
+526,4,garden,West Queen Anne
+527,4,new,West Queen Anne
+528,4,downtown,West Queen Anne
+529,4,space,West Queen Anne
+530,4,airy,West Queen Anne
+531,4,basement,West Queen Anne
+532,4,upper,West Queen Anne
+533,3,urban,West Queen Anne
+534,3,remodeled,West Queen Anne
+535,3,close,West Queen Anne
+536,3,bed,West Queen Anne
+537,3,bright,West Queen Anne
+538,3,little,West Queen Anne
+539,3,stay,West Queen Anne
+540,3,cottage,West Queen Anne
+541,3,heart,West Queen Anne
+542,3,cute,West Queen Anne
+543,3,views,West Queen Anne
+544,3,wagon,West Queen Anne
+545,3,apt,West Queen Anne
+546,2,tiny,West Queen Anne
+547,2,townhouse,West Queen Anne
+548,2,family,West Queen Anne
+549,2,gypsy,West Queen Anne
+550,2,unit,West Queen Anne
+551,2,sits,West Queen Anne
+552,2,love,West Queen Anne
+553,2,open,West Queen Anne
+554,2,bay,West Queen Anne
+555,2,spectacular,West Queen Anne
+556,2,location,West Queen Anne
+557,2,cent,West Queen Anne
+558,2,perfect,West Queen Anne
+559,2,spacious,West Queen Anne
+560,2,micro,West Queen Anne
+561,2,full,West Queen Anne
+562,2,garage,West Queen Anne
+563,2,everything,West Queen Anne
+564,2,daylight,West Queen Anne
+565,2,best,West Queen Anne
+566,2,neighborhood,West Queen Anne
+567,2,backyard,West Queen Anne
+568,2,relax,West Queen Anne
+569,2,getaway,West Queen Anne
+570,2,clean,West Queen Anne
+571,2,quiet,West Queen Anne
+572,2,conveniently,West Queen Anne
+573,2,finished,West Queen Anne
+574,2,light,West Queen Anne
+575,2,near,West Queen Anne
+576,2,built,West Queen Anne
+577,2,comfortable,West Queen Anne
+578,2,make,West Queen Anne
+579,2,lovely,West Queen Anne
+580,2,cabin,West Queen Anne
+581,1,book,West Queen Anne
+582,1,loc,West Queen Anne
+583,1,designer,West Queen Anne
+584,1,kitchenet,West Queen Anne
+585,1,two,West Queen Anne
+586,1,retreat,West Queen Anne
+587,1,newly,West Queen Anne
+588,1,rental,West Queen Anne
+589,1,amazing,West Queen Anne
+590,1,lounge,West Queen Anne
+591,1,updated,West Queen Anne
+592,1,sweeping,West Queen Anne
+593,1,inlaid,West Queen Anne
+594,1,wpatio,West Queen Anne
+595,1,level,West Queen Anne
+596,1,guest,West Queen Anne
+597,1,small,West Queen Anne
+598,1,august,West Queen Anne
+599,1,gorgeous,West Queen Anne
+600,1,entrance,West Queen Anne
+601,1,beautifully,West Queen Anne
+602,1,cra,West Queen Anne
+603,1,size,West Queen Anne
+604,1,grand,West Queen Anne
+605,1,elliott,West Queen Anne
+606,1,qa,West Queen Anne
+607,1,cottagehouse,West Queen Anne
+608,1,stylish,West Queen Anne
+609,1,turn,West Queen Anne
+610,1,weve,West Queen Anne
+611,1,historic,West Queen Anne
+612,1,sp,West Queen Anne
+613,1,style,West Queen Anne
+614,1,costing,West Queen Anne
+615,1,highly,West Queen Anne
+616,1,mansion,West Queen Anne
+617,1,retre,West Queen Anne
+618,1,greetings,West Queen Anne
+619,1,sleep,West Queen Anne
+620,1,century,West Queen Anne
+621,1,floors,West Queen Anne
+622,1,carriage,West Queen Anne
+623,1,desirable,West Queen Anne
+624,1,place,West Queen Anne
+625,1,furnished,West Queen Anne
+626,1,seating,West Queen Anne
+627,1,sanctuary,West Queen Anne
+628,1,designsponge,West Queen Anne
+629,1,center,West Queen Anne
+630,56,ballard,Adams
+631,18,bedroom,Adams
+632,17,heart,Adams
+633,16,apartment,Adams
+634,15,private,Adams
+635,10,cozy,Adams
+636,8,bath,Adams
+637,8,modern,Adams
+638,7,house,Adams
+639,7,blocks,Adams
+640,7,charming,Adams
+641,6,old,Adams
+642,6,home,Adams
+643,6,townhouse,Adams
+644,5,bright,Adams
+645,5,beautiful,Adams
+646,5,bathroom,Adams
+647,5,clean,Adams
+648,5,condo,Adams
+649,5,townhome,Adams
+650,4,two,Adams
+651,4,walk,Adams
+652,4,near,Adams
+653,4,apt,Adams
+654,4,sunny,Adams
+655,4,cottage,Adams
+656,3,studio,Adams
+657,3,everything,Adams
+658,3,victorian,Adams
+659,3,downtown,Adams
+660,3,location,Adams
+661,3,plum,Adams
+662,3,bal,Adams
+663,3,large,Adams
+664,3,lovely,Adams
+665,3,located,Adams
+666,3,sq,Adams
+667,3,comfy,Adams
+668,3,ft,Adams
+669,3,spacious,Adams
+670,3,bed,Adams
+671,2,quite,Adams
+672,2,central,Adams
+673,2,listing,Adams
+674,2,tiny,Adams
+675,2,place,Adams
+676,2,space,Adams
+677,2,patio,Adams
+678,2,kitchen,Adams
+679,2,awesome,Adams
+680,2,dt,Adams
+681,2,hip,Adams
+682,2,locat,Adams
+683,2,bunkhouse,Adams
+684,2,cute,Adams
+685,2,enjoy,Adams
+686,2,nice,Adams
+687,2,master,Adams
+688,2,onebedroom,Adams
+689,2,loft,Adams
+690,2,comfortable,Adams
+691,2,lots,Adams
+692,2,one,Adams
+693,2,upstairs,Adams
+694,2,upper,Adams
+695,2,urban,Adams
+696,2,sweet,Adams
+697,2,sunfilled,Adams
+698,2,sho,Adams
+699,2,nautical,Adams
+700,2,outdoor,Adams
+701,2,artists,Adams
+702,2,bungalow,Adams
+703,2,middle,Adams
+704,2,charm,Adams
+705,2,th,Adams
+706,2,seattle,Adams
+707,2,bdrm,Adams
+708,2,perfect,Adams
+709,1,second,Adams
+710,1,party,Adams
+711,1,world,Adams
+712,1,stay,Adams
+713,1,entire,Adams
+714,1,endunit,Adams
+715,1,library,Adams
+716,1,doors,Adams
+717,1,retreat,Adams
+718,1,topbunkairstream,Adams
+719,1,tech,Adams
+720,1,artsy,Adams
+721,1,pad,Adams
+722,1,spot,Adams
+723,1,renovated,Adams
+724,1,view,Adams
+725,1,description,Adams
+726,1,new,Adams
+727,1,buildin,Adams
+728,1,plus,Adams
+729,1,garage,Adams
+730,1,kitchenette,Adams
+731,1,queen,Adams
+732,1,hillballard,Adams
+733,1,bars,Adams
+734,1,right,Adams
+735,1,art,Adams
+736,1,appartment,Adams
+737,1,conditioned,Adams
+738,1,historic,Adams
+739,1,gi,Adams
+740,1,tv,Adams
+741,1,everthing,Adams
+742,1,stai,Adams
+743,1,reviews,Adams
+744,1,subtle,Adams
+745,1,additional,Adams
+746,1,short,Adams
+747,1,loftcrash,Adams
+748,1,traveling,Adams
+749,1,request,Adams
+750,1,green,Adams
+751,1,homes,Adams
+752,1,ballardwalk,Adams
+753,1,dist,Adams
+754,1,bedro,Adams
+755,1,vibrant,Adams
+756,1,tall,Adams
+757,1,remodeled,Adams
+758,1,units,Adams
+759,1,clo,Adams
+760,1,dayli,Adams
+761,1,ensuite,Adams
+762,1,stonetiled,Adams
+763,1,see,Adams
+764,1,read,Adams
+765,1,views,Adams
+766,1,garden,Adams
+767,1,ki,Adams
+768,1,neighbor,Adams
+769,1,famil,Adams
+770,41,ballard,West Woodland
+771,20,home,West Woodland
+772,16,private,West Woodland
+773,11,cozy,West Woodland
+774,11,modern,West Woodland
+775,9,apartment,West Woodland
+776,8,new,West Woodland
+777,7,seattle,West Woodland
+778,7,bedroom,West Woodland
+779,7,enjoy,West Woodland
+780,7,cottage,West Woodland
+781,7,located,West Woodland
+782,6,townhome,West Woodland
+783,6,spacious,West Woodland
+784,6,floor,West Woodland
+785,6,view,West Woodland
+786,5,craftsman,West Woodland
+787,5,basement,West Woodland
+788,5,sunny,West Woodland
+789,5,house,West Woodland
+790,4,ballardfremont,West Woodland
+791,4,duplex,West Woodland
+792,4,studio,West Woodland
+793,4,suite,West Woodland
+794,4,two,West Woodland
+795,4,great,West Woodland
+796,4,one,West Woodland
+797,4,bed,West Woodland
+798,4,heart,West Woodland
+799,4,walk,West Woodland
+800,4,neighborhood,West Woodland
+801,3,large,West Woodland
+802,3,bright,West Woodland
+803,3,olympic,West Woodland
+804,3,lovely,West Woodland
+805,3,comfort,West Woodland
+806,3,townhouse,West Woodland
+807,3,loft,West Woodland
+808,3,gorgeous,West Woodland
+809,3,friendly,West Woodland
+810,2,crows,West Woodland
+811,2,apt,West Woodland
+812,2,sweet,West Woodland
+813,2,charming,West Woodland
+814,2,el,West Woodland
+815,2,brand,West Woodland
+816,2,central,West Woodland
+817,2,artsy,West Woodland
+818,2,wonderful,West Woodland
+819,2,quiet,West Woodland
+820,2,flat,West Woodland
+821,2,artists,West Woodland
+822,2,garden,West Woodland
+823,2,charm,West Woodland
+824,2,quintessential,West Woodland
+825,2,nest,West Woodland
+826,2,clean,West Woodland
+827,2,rooftop,West Woodland
+828,2,queen,West Woodland
+829,2,brewery,West Woodland
+830,2,lots,West Woodland
+831,2,away,West Woodland
+832,2,rey,West Woodland
+833,2,retro,West Woodland
+834,2,light,West Woodland
+835,2,full,West Woodland
+836,2,newly,West Woodland
+837,2,clos,West Woodland
+838,2,brandnew,West Woodland
+839,2,centrally,West Woodland
+840,2,phinneyballard,West Woodland
+841,2,fremont,West Woodland
+842,2,charmer,West Woodland
+843,2,bungalow,West Woodland
+844,2,zeroenergy,West Woodland
+845,2,bath,West Woodland
+846,2,upper,West Woodland
+847,1,remodelballard,West Woodland
+848,1,charmernew,West Woodland
+849,1,inside,West Woodland
+850,1,comfortable,West Woodland
+851,1,wqueen,West Woodland
+852,1,seat,West Woodland
+853,1,escape,West Woodland
+854,1,back,West Woodland
+855,1,rec,West Woodland
+856,1,best,West Woodland
+857,1,foot,West Woodland
+858,1,microbreweries,West Woodland
+859,1,hidde,West Woodland
+860,1,tow,West Woodland
+861,1,privat,West Woodland
+862,1,th,West Woodland
+863,1,walkable,West Woodland
+864,1,upstair,West Woodland
+865,1,remodeled,West Woodland
+866,1,craftsmen,West Woodland
+867,1,la,West Woodland
+868,1,breakfast,West Woodland
+869,1,url,West Woodland
+870,1,style,West Woodland
+871,1,airstream,West Woodland
+872,1,corner,West Woodland
+873,1,parking,West Woodland
+874,1,everything,West Woodland
+875,1,live,West Woodland
+876,1,story,West Woodland
+877,1,twobedroom,West Woodland
+878,1,furnished,West Woodland
+879,1,sleeps,West Woodland
+880,1,dist,West Woodland
+881,1,hip,West Woodland
+882,1,line,West Woodland
+883,1,privrm,West Woodland
+884,1,views,West Woodland
+885,1,southern,West Woodland
+886,1,soft,West Woodland
+887,1,quit,West Woodland
+888,1,classicconvenientpriv,West Woodland
+889,1,homeawayfrom,West Woodland
+890,1,minihome,West Woodland
+891,1,miles,West Woodland
+892,1,split,West Woodland
+893,1,accommodates,West Woodland
+894,1,welcome,West Woodland
+895,1,fully,West Woodland
+896,1,entire,West Woodland
+897,1,retreat,West Woodland
+898,23,queen,East Queen Anne
+899,21,anne,East Queen Anne
+900,19,view,East Queen Anne
+901,18,apartment,East Queen Anne
+902,14,lake,East Queen Anne
+903,13,location,East Queen Anne
+904,13,home,East Queen Anne
+905,12,seattle,East Queen Anne
+906,11,union,East Queen Anne
+907,10,downtown,East Queen Anne
+908,9,condo,East Queen Anne
+909,9,spacious,East Queen Anne
+910,9,apt,East Queen Anne
+911,8,bedroom,East Queen Anne
+912,7,cozy,East Queen Anne
+913,6,located,East Queen Anne
+914,6,top,East Queen Anne
+915,6,private,East Queen Anne
+916,5,large,East Queen Anne
+917,5,right,East Queen Anne
+918,5,quiet,East Queen Anne
+919,5,great,East Queen Anne
+920,5,craftsman,East Queen Anne
+921,4,place,East Queen Anne
+922,4,one,East Queen Anne
+923,4,suite,East Queen Anne
+924,4,city,East Queen Anne
+925,4,close,East Queen Anne
+926,4,basement,East Queen Anne
+927,4,space,East Queen Anne
+928,4,central,East Queen Anne
+929,4,walk,East Queen Anne
+930,4,lower,East Queen Anne
+931,3,centrally,East Queen Anne
+932,3,near,East Queen Anne
+933,3,house,East Queen Anne
+934,3,walking,East Queen Anne
+935,3,best,East Queen Anne
+936,3,views,East Queen Anne
+937,3,bath,East Queen Anne
+938,3,level,East Queen Anne
+939,3,modern,East Queen Anne
+940,3,urban,East Queen Anne
+941,3,fremont,East Queen Anne
+942,3,heart,East Queen Anne
+943,3,minute,East Queen Anne
+944,3,hill,East Queen Anne
+945,3,luxury,East Queen Anne
+946,2,distance,East Queen Anne
+947,2,score,East Queen Anne
+948,2,charming,East Queen Anne
+949,2,cute,East Queen Anne
+950,2,bus,East Queen Anne
+951,2,away,East Queen Anne
+952,2,wo,East Queen Anne
+953,2,loft,East Queen Anne
+954,2,available,East Queen Anne
+955,2,unit,East Queen Anne
+956,2,daylight,East Queen Anne
+957,2,elegant,East Queen Anne
+958,2,mibbett,East Queen Anne
+959,2,love,East Queen Anne
+960,2,family,East Queen Anne
+961,2,din,East Queen Anne
+962,2,hollow,East Queen Anne
+963,2,ann,East Queen Anne
+964,2,center,East Queen Anne
+965,2,comfortable,East Queen Anne
+966,2,remodeled,East Queen Anne
+967,2,ideal,East Queen Anne
+968,2,se,East Queen Anne
+969,2,easy,East Queen Anne
+970,2,access,East Queen Anne
+971,2,takes,East Queen Anne
+972,2,beautiful,East Queen Anne
+973,2,amazing,East Queen Anne
+974,2,historic,East Queen Anne
+975,2,welcome,East Queen Anne
+976,2,garden,East Queen Anne
+977,2,conveniently,East Queen Anne
+978,2,clean,East Queen Anne
+979,2,sleeps,East Queen Anne
+980,2,min,East Queen Anne
+981,2,turn,East Queen Anne
+982,2,bungalow,East Queen Anne
+983,2,spectacular,East Queen Anne
+984,2,perfect,East Queen Anne
+985,1,bloc,East Queen Anne
+986,1,fireplace,East Queen Anne
+987,1,accessed,East Queen Anne
+988,1,cleaning,East Queen Anne
+989,1,floors,East Queen Anne
+990,1,westlk,East Queen Anne
+991,1,lakefront,East Queen Anne
+992,1,deck,East Queen Anne
+993,1,intimate,East Queen Anne
+994,1,zen,East Queen Anne
+995,1,parking,East Queen Anne
+996,1,sleep,East Queen Anne
+997,1,really,East Queen Anne
+998,1,incredible,East Queen Anne
+999,1,qa,East Queen Anne
+1000,1,bright,East Queen Anne
+1001,1,freepark,East Queen Anne
+1002,1,crafts,East Queen Anne
+1003,1,ground,East Queen Anne
+1004,1,qu,East Queen Anne
+1005,1,yet,East Queen Anne
+1006,1,coffee,East Queen Anne
+1007,1,guest,East Queen Anne
+1008,1,places,East Queen Anne
+1009,1,group,East Queen Anne
+1010,1,safe,East Queen Anne
+1011,1,converted,East Queen Anne
+1012,1,traveling,East Queen Anne
+1013,1,cool,East Queen Anne
+1014,1,luxurious,East Queen Anne
+1015,1,beaut,East Queen Anne
+1016,1,world,East Queen Anne
+1017,1,contained,East Queen Anne
+1018,1,steps,East Queen Anne
+1019,1,shops,East Queen Anne
+1020,1,side,East Queen Anne
+1021,1,tv,East Queen Anne
+1022,1,xb,East Queen Anne
+1023,1,jan,East Queen Anne
+1024,1,walkable,East Queen Anne
+1025,1,retro,East Queen Anne
+1026,1,hardwood,East Queen Anne
+1027,1,neighborhood,East Queen Anne
+1028,1,en,East Queen Anne
+1029,1,moder,East Queen Anne
+1030,1,yearold,East Queen Anne
+1031,1,stays,East Queen Anne
+1032,1,first,East Queen Anne
+1033,1,everything,East Queen Anne
+1034,1,tidy,East Queen Anne
+1035,1,pleasant,East Queen Anne
+1036,1,queenanne,East Queen Anne
+1037,1,vintage,East Queen Anne
+1038,1,floor,East Queen Anne
+1039,1,balcony,East Queen Anne
+1040,1,bd,East Queen Anne
+1041,1,need,East Queen Anne
+1042,1,aw,East Queen Anne
+1043,1,high,East Queen Anne
+1044,1,centr,East Queen Anne
+1045,1,retreat,East Queen Anne
+1046,1,gym,East Queen Anne
+1047,1,dec,East Queen Anne
+1048,1,look,East Queen Anne
+1049,1,twobath,East Queen Anne
+1050,1,landmark,East Queen Anne
+1051,1,bed,East Queen Anne
+1052,1,getaway,East Queen Anne
+1053,1,homey,East Queen Anne
+1054,1,comfortably,East Queen Anne
+1055,1,flat,East Queen Anne
+1056,1,beautifully,East Queen Anne
+1057,1,apartmen,East Queen Anne
+1058,1,appointed,East Queen Anne
+1059,1,relaxing,East Queen Anne
+1060,1,dream,East Queen Anne
+1061,1,hilltop,East Queen Anne
+1062,22,wallingford,Wallingford
+1063,20,apartment,Wallingford
+1064,15,home,Wallingford
+1065,12,cozy,Wallingford
+1066,12,private,Wallingford
+1067,11,bedroom,Wallingford
+1068,11,lake,Wallingford
+1069,9,green,Wallingford
+1070,9,house,Wallingford
+1071,7,craftsman,Wallingford
+1072,7,bed,Wallingford
+1073,7,new,Wallingford
+1074,6,uw,Wallingford
+1075,6,remodeled,Wallingford
+1076,6,studio,Wallingford
+1077,6,modern,Wallingford
+1078,5,suite,Wallingford
+1079,5,seattle,Wallingford
+1080,5,charming,Wallingford
+1081,5,one,Wallingford
+1082,5,greenlake,Wallingford
+1083,5,near,Wallingford
+1084,4,basement,Wallingford
+1085,4,located,Wallingford
+1086,4,clean,Wallingford
+1087,4,garden,Wallingford
+1088,4,great,Wallingford
+1089,4,union,Wallingford
+1090,4,spacious,Wallingford
+1091,4,location,Wallingford
+1092,4,bungalow,Wallingford
+1093,4,apt,Wallingford
+1094,4,beautiful,Wallingford
+1095,3,view,Wallingford
+1096,3,downtown,Wallingford
+1097,3,sunny,Wallingford
+1098,3,bathroom,Wallingford
+1099,3,views,Wallingford
+1100,3,renovated,Wallingford
+1101,3,charm,Wallingford
+1102,3,fremont,Wallingford
+1103,3,furnished,Wallingford
+1104,3,ft,Wallingford
+1105,3,newly,Wallingford
+1106,3,central,Wallingford
+1107,3,enjoy,Wallingford
+1108,2,airy,Wallingford
+1109,2,hacker,Wallingford
+1110,2,updated,Wallingford
+1111,2,well,Wallingford
+1112,2,loft,Wallingford
+1113,2,super,Wallingford
+1114,2,recently,Wallingford
+1115,2,relax,Wallingford
+1116,2,apartme,Wallingford
+1117,2,historic,Wallingford
+1118,2,brand,Wallingford
+1119,2,right,Wallingford
+1120,2,old,Wallingford
+1121,2,city,Wallingford
+1122,2,ap,Wallingford
+1123,2,fremontwallingford,Wallingford
+1124,2,quiet,Wallingford
+1125,2,wonderful,Wallingford
+1126,2,queen,Wallingford
+1127,2,floating,Wallingford
+1128,2,built,Wallingford
+1129,2,motherinlaw,Wallingford
+1130,2,bath,Wallingford
+1131,2,bright,Wallingford
+1132,2,fits,Wallingford
+1133,2,supported,Wallingford
+1134,2,tech,Wallingford
+1135,2,perfect,Wallingford
+1136,2,luxurious,Wallingford
+1137,2,separate,Wallingford
+1138,2,run,Wallingford
+1139,2,manor,Wallingford
+1140,2,nice,Wallingford
+1141,2,designer,Wallingford
+1142,2,heart,Wallingford
+1143,2,contemporary,Wallingford
+1144,2,rent,Wallingford
+1145,2,classic,Wallingford
+1146,2,bdrm,Wallingford
+1147,2,cannacation,Wallingford
+1148,2,sq,Wallingford
+1149,2,light,Wallingford
+1150,1,wa,Wallingford
+1151,1,colonial,Wallingford
+1152,1,walking,Wallingford
+1153,1,away,Wallingford
+1154,1,please,Wallingford
+1155,1,note,Wallingford
+1156,1,living,Wallingford
+1157,1,terrace,Wallingford
+1158,1,beautifuly,Wallingford
+1159,1,equippe,Wallingford
+1160,1,seatt,Wallingford
+1161,1,comfortable,Wallingford
+1162,1,retreat,Wallingford
+1163,1,sh,Wallingford
+1164,1,bring,Wallingford
+1165,1,level,Wallingford
+1166,1,motherinlaws,Wallingford
+1167,1,levels,Wallingford
+1168,1,completely,Wallingford
+1169,1,comfort,Wallingford
+1170,1,comfortableapartment,Wallingford
+1171,1,temperpedic,Wallingford
+1172,1,mattress,Wallingford
+1173,1,cute,Wallingford
+1174,1,walkable,Wallingford
+1175,1,welcome,Wallingford
+1176,1,th,Wallingford
+1177,1,orange,Wallingford
+1178,1,water,Wallingford
+1179,1,clo,Wallingford
+1180,1,daylight,Wallingford
+1181,1,entire,Wallingford
+1182,1,local,Wallingford
+1183,1,cott,Wallingford
+1184,1,neighbor,Wallingford
+1185,1,inwallingford,Wallingford
+1186,1,miss,Wallingford
+1187,1,large,Wallingford
+1188,1,convenience,Wallingford
+1189,1,prices,Wallingford
+1190,1,skyline,Wallingford
+1191,1,welllit,Wallingford
+1192,1,vibr,Wallingford
+1193,1,back,Wallingford
+1194,1,neighborh,Wallingford
+1195,1,style,Wallingford
+1196,1,safe,Wallingford
+1197,1,lovingly,Wallingford
+1198,1,duplex,Wallingford
+1199,1,upper,Wallingford
+1200,1,zoocentral,Wallingford
+1201,1,two,Wallingford
+1202,1,distance,Wallingford
+1203,1,sparse,Wallingford
+1204,1,ensuite,Wallingford
+1205,1,restored,Wallingford
+1206,1,ba,Wallingford
+1207,1,lakeuw,Wallingford
+1208,1,need,Wallingford
+1209,1,chic,Wallingford
+1210,1,honey,Wallingford
+1211,1,lit,Wallingford
+1212,1,ac,Wallingford
+1213,1,bet,Wallingford
+1214,1,getaway,Wallingford
+1215,1,seattlewallingford,Wallingford
+1216,1,mi,Wallingford
+1217,1,wview,Wallingford
+1218,1,tudor,Wallingford
+1219,1,ha,Wallingford
+1220,1,cottage,Wallingford
+1221,1,warm,Wallingford
+1222,1,jus,Wallingford
+1223,1,mainfloor,Wallingford
+1224,1,floor,Wallingford
+1225,1,convenient,Wallingford
+1226,1,constructed,Wallingford
+1227,1,newspacious,Wallingford
+1228,1,nw,Wallingford
+1229,1,fresh,Wallingford
+1230,1,artistic,Wallingford
+1231,1,northwest,Wallingford
+1232,1,sweet,Wallingford
+1233,1,unit,Wallingford
+1234,1,tangletown,Wallingford
+1235,1,decorated,Wallingford
+1236,1,panoramic,Wallingford
+1237,1,wallingfo,Wallingford
+1238,1,spot,Wallingford
+1239,1,restore,Wallingford
+1240,1,description,Wallingford
+1241,1,blocks,Wallingford
+1242,1,beautifully,Wallingford
+1243,1,wi,Wallingford
+1244,1,freshly,Wallingford
+1245,1,blue,Wallingford
+1246,1,luscious,Wallingford
+1247,1,seattles,Wallingford
+1248,1,elegance,Wallingford
+1249,1,construction,Wallingford
+1250,1,dont,Wallingford
+1251,1,tranquility,Wallingford
+1252,1,selfcontained,Wallingford
+1253,1,features,Wallingford
+1254,1,fantastic,Wallingford
+1255,1,backya,Wallingford
+1256,1,makes,Wallingford
+1257,1,deck,Wallingford
+1258,1,place,Wallingford
+1259,1,standalone,Wallingford
+1260,1,kitchen,Wallingford
+1261,1,ecofriendly,Wallingford
+1262,1,loc,Wallingford
+1263,1,oasis,Wallingford
+1264,1,includes,Wallingford
+1265,1,everything,Wallingford
+1266,1,moder,Wallingford
+1267,1,chefs,Wallingford
+1268,1,complete,Wallingford
+1269,1,king,Wallingford
+1270,1,full,Wallingford
+1271,1,fabulous,Wallingford
+1272,1,centrally,Wallingford
+1273,1,incity,Wallingford
+1274,1,extra,Wallingford
+1275,1,homekayakssupsbikes,Wallingford
+1276,1,bedroombathroom,Wallingford
+1277,1,air,Wallingford
+1278,1,entrance,Wallingford
+1279,1,grea,Wallingford
+1280,1,lovely,Wallingford
+1281,1,brick,Wallingford
+1282,1,across,Wallingford
+1283,1,gorgeous,Wallingford
+1284,1,neighborhoo,Wallingford
+1285,1,calm,Wallingford
+1286,1,master,Wallingford
+1287,1,anyone,Wallingford
+1288,1,custom,Wallingford
+1289,1,three,Wallingford
+1290,1,top,Wallingford
+1291,1,privacy,Wallingford
+1292,1,sales,Wallingford
+1293,1,fab,Wallingford
+1294,1,open,Wallingford
+1295,1,townhouse,Wallingford
+1296,1,four,Wallingford
+1297,1,visiting,Wallingford
+1298,38,queen,North Queen Anne
+1299,31,anne,North Queen Anne
+1300,22,home,North Queen Anne
+1301,19,bedroom,North Queen Anne
+1302,12,beautiful,North Queen Anne
+1303,10,private,North Queen Anne
+1304,10,quiet,North Queen Anne
+1305,7,charming,North Queen Anne
+1306,7,apartment,North Queen Anne
+1307,7,location,North Queen Anne
+1308,7,cozy,North Queen Anne
+1309,6,view,North Queen Anne
+1310,6,bath,North Queen Anne
+1311,6,one,North Queen Anne
+1312,6,craftsman,North Queen Anne
+1313,5,near,North Queen Anne
+1314,5,close,North Queen Anne
+1315,5,seattle,North Queen Anne
+1316,4,bathroom,North Queen Anne
+1317,4,bungalow,North Queen Anne
+1318,4,townhouse,North Queen Anne
+1319,4,located,North Queen Anne
+1320,4,size,North Queen Anne
+1321,4,bed,North Queen Anne
+1322,4,newly,North Queen Anne
+1323,4,fremont,North Queen Anne
+1324,4,br,North Queen Anne
+1325,4,apt,North Queen Anne
+1326,4,lovely,North Queen Anne
+1327,4,modern,North Queen Anne
+1328,4,great,North Queen Anne
+1329,4,new,North Queen Anne
+1330,3,spacious,North Queen Anne
+1331,3,downtown,North Queen Anne
+1332,3,stylish,North Queen Anne
+1333,3,comfortable,North Queen Anne
+1334,3,gorgeous,North Queen Anne
+1335,3,views,North Queen Anne
+1336,3,centrally,North Queen Anne
+1337,3,urban,North Queen Anne
+1338,3,basement,North Queen Anne
+1339,3,welcome,North Queen Anne
+1340,3,large,North Queen Anne
+1341,3,oasis,North Queen Anne
+1342,3,house,North Queen Anne
+1343,3,condo,North Queen Anne
+1344,3,enjoy,North Queen Anne
+1345,2,studio,North Queen Anne
+1346,2,north,North Queen Anne
+1347,2,neighborhood,North Queen Anne
+1348,2,bb,North Queen Anne
+1349,2,retreat,North Queen Anne
+1350,2,hill,North Queen Anne
+1351,2,renovated,North Queen Anne
+1352,2,daylight,North Queen Anne
+1353,2,two,North Queen Anne
+1354,2,three,North Queen Anne
+1355,2,peaceful,North Queen Anne
+1356,2,furnished,North Queen Anne
+1357,2,amazing,North Queen Anne
+1358,2,walking,North Queen Anne
+1359,2,bright,North Queen Anne
+1360,2,bri,North Queen Anne
+1361,2,distance,North Queen Anne
+1362,2,duplex,North Queen Anne
+1363,2,floor,North Queen Anne
+1364,2,breeze,North Queen Anne
+1365,2,remodeled,North Queen Anne
+1366,1,level,North Queen Anne
+1367,1,perfect,North Queen Anne
+1368,1,weekly,North Queen Anne
+1369,1,rooms,North Queen Anne
+1370,1,yr,North Queen Anne
+1371,1,thi,North Queen Anne
+1372,1,beautify,North Queen Anne
+1373,1,natural,North Queen Anne
+1374,1,everything,North Queen Anne
+1375,1,access,North Queen Anne
+1376,1,ann,North Queen Anne
+1377,1,colonial,North Queen Anne
+1378,1,outdoor,North Queen Anne
+1379,1,deck,North Queen Anne
+1380,1,resi,North Queen Anne
+1381,1,suns,North Queen Anne
+1382,1,lots,North Queen Anne
+1383,1,bdrbath,North Queen Anne
+1384,1,story,North Queen Anne
+1385,1,rest,North Queen Anne
+1386,1,ft,North Queen Anne
+1387,1,sunrise,North Queen Anne
+1388,1,largest,North Queen Anne
+1389,1,li,North Queen Anne
+1390,1,tub,North Queen Anne
+1391,1,lo,North Queen Anne
+1392,1,safe,North Queen Anne
+1393,1,premium,North Queen Anne
+1394,1,garden,North Queen Anne
+1395,1,spectacular,North Queen Anne
+1396,1,mos,North Queen Anne
+1397,1,gables,North Queen Anne
+1398,1,pr,North Queen Anne
+1399,1,choice,North Queen Anne
+1400,1,old,North Queen Anne
+1401,1,retreatgreat,North Queen Anne
+1402,1,world,North Queen Anne
+1403,1,dt,North Queen Anne
+1404,1,day,North Queen Anne
+1405,1,qa,North Queen Anne
+1406,41,lake,Green Lake
+1407,37,green,Green Lake
+1408,20,home,Green Lake
+1409,18,greenlake,Green Lake
+1410,12,seattle,Green Lake
+1411,10,cozy,Green Lake
+1412,10,beautiful,Green Lake
+1413,9,apartment,Green Lake
+1414,9,modern,Green Lake
+1415,9,one,Green Lake
+1416,8,craftsman,Green Lake
+1417,8,charming,Green Lake
+1418,7,house,Green Lake
+1419,7,private,Green Lake
+1420,7,bedroom,Green Lake
+1421,6,two,Green Lake
+1422,6,located,Green Lake
+1423,5,enjoy,Green Lake
+1424,5,suite,Green Lake
+1425,5,spacious,Green Lake
+1426,5,block,Green Lake
+1427,5,location,Green Lake
+1428,5,studio,Green Lake
+1429,4,steps,Green Lake
+1430,4,getaway,Green Lake
+1431,4,guest,Green Lake
+1432,4,tudor,Green Lake
+1433,4,view,Green Lake
+1434,4,quiet,Green Lake
+1435,3,bath,Green Lake
+1436,3,near,Green Lake
+1437,3,park,Green Lake
+1438,3,sunny,Green Lake
+1439,3,large,Green Lake
+1440,3,basement,Green Lake
+1441,3,bright,Green Lake
+1442,3,amazing,Green Lake
+1443,3,upstairs,Green Lake
+1444,3,walk,Green Lake
+1445,3,place,Green Lake
+1446,3,well,Green Lake
+1447,3,great,Green Lake
+1448,3,apt,Green Lake
+1449,3,floor,Green Lake
+1450,3,stay,Green Lake
+1451,2,nice,Green Lake
+1452,2,gorgeous,Green Lake
+1453,2,brick,Green Lake
+1454,2,newly,Green Lake
+1455,2,new,Green Lake
+1456,2,neighborhood,Green Lake
+1457,2,flat,Green Lake
+1458,2,area,Green Lake
+1459,2,storybook,Green Lake
+1460,2,directly,Green Lake
+1461,2,renovated,Green Lake
+1462,2,townhome,Green Lake
+1463,2,br,Green Lake
+1464,2,welcome,Green Lake
+1465,2,comfortable,Green Lake
+1466,2,main,Green Lake
+1467,2,blocks,Green Lake
+1468,2,end,Green Lake
+1469,2,furnished,Green Lake
+1470,2,clean,Green Lake
+1471,2,al,Green Lake
+1472,2,bed,Green Lake
+1473,2,balconies,Green Lake
+1474,2,bungalow,Green Lake
+1475,2,bedrooms,Green Lake
+1476,1,take,Green Lake
+1477,1,hip,Green Lake
+1478,1,seat,Green Lake
+1479,1,yearold,Green Lake
+1480,1,everything,Green Lake
+1481,1,details,Green Lake
+1482,1,dead,Green Lake
+1483,1,stucco,Green Lake
+1484,1,contemporary,Green Lake
+1485,1,month,Green Lake
+1486,1,twobedroom,Green Lake
+1487,1,historic,Green Lake
+1488,1,closet,Green Lake
+1489,1,living,Green Lake
+1490,1,north,Green Lake
+1491,1,rental,Green Lake
+1492,1,level,Green Lake
+1493,1,incredible,Green Lake
+1494,1,retreat,Green Lake
+1495,1,love,Green Lake
+1496,1,apartme,Green Lake
+1497,1,miradina,Green Lake
+1498,1,ho,Green Lake
+1499,1,quintessential,Green Lake
+1500,1,half,Green Lake
+1501,1,beauti,Green Lake
+1502,1,views,Green Lake
+1503,1,centrally,Green Lake
+1504,1,cra,Green Lake
+1505,1,friendly,Green Lake
+1506,1,somewhere,Green Lake
+1507,1,min,Green Lake
+1508,1,parke,Green Lake
+1509,1,quick,Green Lake
+1510,1,stylish,Green Lake
+1511,1,kitche,Green Lake
+1512,1,walkable,Green Lake
+1513,1,nestled,Green Lake
+1514,8,lake,Westlake
+1515,8,apartment,Westlake
+1516,5,seattle,Westlake
+1517,5,union,Westlake
+1518,4,yacht,Westlake
+1519,4,condo,Westlake
+1520,4,south,Westlake
+1521,4,view,Westlake
+1522,3,houseboat,Westlake
+1523,3,beautiful,Westlake
+1524,3,views,Westlake
+1525,2,located,Westlake
+1526,2,bed,Westlake
+1527,2,pvt,Westlake
+1528,2,downtown,Westlake
+1529,2,one,Westlake
+1530,2,city,Westlake
+1531,2,centrally,Westlake
+1532,2,lillie,Westlake
+1533,2,br,Westlake
+1534,2,bath,Westlake
+1535,2,private,Westlake
+1536,2,townhome,Westlake
+1537,2,central,Westlake
+1538,2,queen,Westlake
+1539,2,center,Westlake
+1540,2,bedroom,Westlake
+1541,2,lo,Westlake
+1542,1,featured,Westlake
+1543,1,available,Westlake
+1544,1,everything,Westlake
+1545,1,looking,Westlake
+1546,1,unique,Westlake
+1547,1,gone,Westlake
+1548,18,private,Mann
+1549,16,modern,Mann
+1550,16,central,Mann
+1551,14,bedroom,Mann
+1552,14,hill,Mann
+1553,14,home,Mann
+1554,12,house,Mann
+1555,12,capitol,Mann
+1556,9,located,Mann
+1557,9,district,Mann
+1558,9,new,Mann
+1559,8,seattle,Mann
+1560,8,apartment,Mann
+1561,7,apt,Mann
+1562,7,charming,Mann
+1563,7,studio,Mann
+1564,7,near,Mann
+1565,7,downtown,Mann
+1566,7,quiet,Mann
+1567,6,brand,Mann
+1568,6,cozy,Mann
+1569,6,beautiful,Mann
+1570,6,one,Mann
+1571,6,centrally,Mann
+1572,5,craftsman,Mann
+1573,5,bed,Mann
+1574,5,garden,Mann
+1575,4,townhome,Mann
+1576,4,cottage,Mann
+1577,4,bath,Mann
+1578,4,large,Mann
+1579,4,green,Mann
+1580,3,lot,Mann
+1581,3,great,Mann
+1582,3,suite,Mann
+1583,3,easy,Mann
+1584,3,close,Mann
+1585,3,newly,Mann
+1586,3,light,Mann
+1587,3,everything,Mann
+1588,3,basement,Mann
+1589,3,convenient,Mann
+1590,3,renovated,Mann
+1591,3,madison,Mann
+1592,3,cute,Mann
+1593,3,urban,Mann
+1594,3,stylish,Mann
+1595,2,bathroom,Mann
+1596,2,quietly,Mann
+1597,2,duplex,Mann
+1598,2,tl,Mann
+1599,2,two,Mann
+1600,2,nove,Mann
+1601,2,extra,Mann
+1602,2,bright,Mann
+1603,2,townhouse,Mann
+1604,2,total,Mann
+1605,2,artists,Mann
+1606,2,welcome,Mann
+1607,2,level,Mann
+1608,2,valley,Mann
+1609,2,daylight,Mann
+1610,2,magnificent,Mann
+1611,2,neighborhood,Mann
+1612,2,enjoy,Mann
+1613,2,view,Mann
+1614,2,roombath,Mann
+1615,2,midcentury,Mann
+1616,2,access,Mann
+1617,2,walkout,Mann
+1618,2,spacious,Mann
+1619,2,uw,Mann
+1620,2,sq,Mann
+1621,2,queen,Mann
+1622,2,walking,Mann
+1623,2,ft,Mann
+1624,2,renovation,Mann
+1625,2,cap,Mann
+1626,2,comfortable,Mann
+1627,2,backyard,Mann
+1628,2,floo,Mann
+1629,2,bungalow,Mann
+1630,2,need,Mann
+1631,2,unit,Mann
+1632,2,rent,Mann
+1633,1,five,Mann
+1634,1,porch,Mann
+1635,1,experience,Mann
+1636,1,desi,Mann
+1637,1,fantastic,Mann
+1638,1,description,Mann
+1639,1,minute,Mann
+1640,1,va,Mann
+1641,1,fullyremodeled,Mann
+1642,1,rental,Mann
+1643,1,staying,Mann
+1644,1,sea,Mann
+1645,1,seattles,Mann
+1646,1,centr,Mann
+1647,1,ce,Mann
+1648,1,businessthemed,Mann
+1649,1,wes,Mann
+1650,1,luxury,Mann
+1651,1,lovely,Mann
+1652,1,comforts,Mann
+1653,1,suffrage,Mann
+1654,1,fields,Mann
+1655,1,nice,Mann
+1656,1,entire,Mann
+1657,1,dreams,Mann
+1658,1,historic,Mann
+1659,1,bedr,Mann
+1660,1,famous,Mann
+1661,1,farm,Mann
+1662,1,style,Mann
+1663,1,piece,Mann
+1664,1,ground,Mann
+1665,1,natural,Mann
+1666,1,corner,Mann
+1667,1,transit,Mann
+1668,1,solarpowered,Mann
+1669,1,drive,Mann
+1670,1,cr,Mann
+1671,1,casana,Mann
+1672,1,available,Mann
+1673,1,twobedroom,Mann
+1674,1,deck,Mann
+1675,1,sleeps,Mann
+1676,1,roomb,Mann
+1677,1,sanctuary,Mann
+1678,1,entry,Mann
+1679,1,older,Mann
+1680,1,downtow,Mann
+1681,1,features,Mann
+1682,24,home,Madrona
+1683,24,madrona,Madrona
+1684,10,private,Madrona
+1685,10,seattle,Madrona
+1686,9,suite,Madrona
+1687,9,charming,Madrona
+1688,9,craftsman,Madrona
+1689,9,cozy,Madrona
+1690,9,studio,Madrona
+1691,8,bedroom,Madrona
+1692,8,lake,Madrona
+1693,7,apartment,Madrona
+1694,7,heart,Madrona
+1695,6,central,Madrona
+1696,6,comfortable,Madrona
+1697,4,beautiful,Madrona
+1698,4,views,Madrona
+1699,4,cottage,Madrona
+1700,4,one,Madrona
+1701,4,family,Madrona
+1702,4,sweet,Madrona
+1703,3,quiet,Madrona
+1704,3,filled,Madrona
+1705,3,perfect,Madrona
+1706,3,location,Madrona
+1707,3,near,Madrona
+1708,3,blocks,Madrona
+1709,3,neighborhood,Madrona
+1710,3,district,Madrona
+1711,3,view,Madrona
+1712,3,modern,Madrona
+1713,3,large,Madrona
+1714,2,floor,Madrona
+1715,2,great,Madrona
+1716,2,acc,Madrona
+1717,2,washington,Madrona
+1718,2,place,Madrona
+1719,2,like,Madrona
+1720,2,retreat,Madrona
+1721,2,garden,Madrona
+1722,2,special,Madrona
+1723,2,th,Madrona
+1724,2,spacious,Madrona
+1725,2,remodeled,Madrona
+1726,2,br,Madrona
+1727,2,best,Madrona
+1728,2,fabulous,Madrona
+1729,2,house,Madrona
+1730,2,cosy,Madrona
+1731,2,cute,Madrona
+1732,2,casita,Madrona
+1733,2,downtown,Madrona
+1734,2,welcome,Madrona
+1735,2,minutes,Madrona
+1736,2,walking,Madrona
+1737,2,chic,Madrona
+1738,2,located,Madrona
+1739,2,seattles,Madrona
+1740,2,easy,Madrona
+1741,2,loft,Madrona
+1742,2,quite,Madrona
+1743,2,entrance,Madrona
+1744,1,residential,Madrona
+1745,1,victorian,Madrona
+1746,1,new,Madrona
+1747,1,luxury,Madrona
+1748,1,incredible,Madrona
+1749,1,wanting,Madrona
+1750,1,nice,Madrona
+1751,1,residence,Madrona
+1752,1,detached,Madrona
+1753,1,bright,Madrona
+1754,1,woods,Madrona
+1755,1,fully,Madrona
+1756,1,fr,Madrona
+1757,1,artistic,Madrona
+1758,1,fro,Madrona
+1759,1,two,Madrona
+1760,1,worlds,Madrona
+1761,1,bald,Madrona
+1762,1,madison,Madrona
+1763,1,ea,Madrona
+1764,1,close,Madrona
+1765,1,month,Madrona
+1766,1,stylish,Madrona
+1767,1,unobstruct,Madrona
+1768,1,upstairs,Madrona
+1769,1,apt,Madrona
+1770,1,clean,Madrona
+1771,1,amazing,Madrona
+1772,1,parks,Madrona
+1773,1,fur,Madrona
+1774,1,downstairs,Madrona
+1775,1,description,Madrona
+1776,35,uw,University District
+1777,19,walk,University District
+1778,15,cozy,University District
+1779,11,apt,University District
+1780,11,spacious,University District
+1781,10,bedroom,University District
+1782,9,private,University District
+1783,9,seattle,University District
+1784,9,score,University District
+1785,9,clean,University District
+1786,8,apartment,University District
+1787,8,district,University District
+1788,8,quiet,University District
+1789,7,location,University District
+1790,7,studio,University District
+1791,6,university,University District
+1792,6,comfortable,University District
+1793,6,home,University District
+1794,6,one,University District
+1795,6,close,University District
+1796,5,large,University District
+1797,5,run,University District
+1798,5,remodeled,University District
+1799,5,house,University District
+1800,5,hacker,University District
+1801,5,built,University District
+1802,5,bed,University District
+1803,5,flr,University District
+1804,5,tech,University District
+1805,5,baths,University District
+1806,5,supported,University District
+1807,5,center,University District
+1808,4,view,University District
+1809,4,breakfast,University District
+1810,4,townhouse,University District
+1811,4,near,University District
+1812,4,new,University District
+1813,3,hardwood,University District
+1814,3,located,University District
+1815,3,craftsman,University District
+1816,3,wbreakfast,University District
+1817,3,heart,University District
+1818,2,paradise,University District
+1819,2,bathroom,University District
+1820,2,wdview,University District
+1821,2,comfy,University District
+1822,2,listing,University District
+1823,2,peaceful,University District
+1824,2,steps,University District
+1825,2,block,University District
+1826,2,great,University District
+1827,2,oasis,University District
+1828,2,roosevelt,University District
+1829,2,fast,University District
+1830,2,bdr,University District
+1831,2,elegant,University District
+1832,2,floors,University District
+1833,2,com,University District
+1834,2,lgreenlake,University District
+1835,2,charming,University District
+1836,2,many,University District
+1837,2,ravenna,University District
+1838,2,min,University District
+1839,2,bath,University District
+1840,2,two,University District
+1841,2,udistrict,University District
+1842,2,lake,University District
+1843,2,luxuries,University District
+1844,2,perfect,University District
+1845,2,duplex,University District
+1846,2,rooftop,University District
+1847,2,high,University District
+1848,2,east,University District
+1849,2,english,University District
+1850,2,basement,University District
+1851,2,floor,University District
+1852,2,wifi,University District
+1853,1,situated,University District
+1854,1,summer,University District
+1855,1,four,University District
+1856,1,gorgeous,University District
+1857,1,go,University District
+1858,1,dist,University District
+1859,1,corner,University District
+1860,1,crossw,University District
+1861,1,tangerine,University District
+1862,1,queen,University District
+1863,1,parking,University District
+1864,1,bright,University District
+1865,1,doublesized,University District
+1866,1,natural,University District
+1867,1,furnished,University District
+1868,1,retreat,University District
+1869,1,cup,University District
+1870,1,ba,University District
+1871,1,convenience,University District
+1872,1,motherinlaw,University District
+1873,1,bedrooms,University District
+1874,1,sunny,University District
+1875,1,seat,University District
+1876,1,ceil,University District
+1877,1,accessible,University District
+1878,1,vibrant,University District
+1879,1,basic,University District
+1880,1,craftsmen,University District
+1881,1,rental,University District
+1882,1,beautiful,University District
+1883,1,udist,University District
+1884,1,reasonable,University District
+1885,1,unfurnished,University District
+1886,1,residential,University District
+1887,1,serene,University District
+1888,1,modern,University District
+1889,1,wood,University District
+1890,1,tudo,University District
+1891,1,french,University District
+1892,1,cool,University District
+1893,1,upstairs,University District
+1894,1,neighborhood,University District
+1895,1,year,University District
+1896,1,within,University District
+1897,1,suite,University District
+1898,1,bamboo,University District
+1899,1,charm,University District
+1900,1,patio,University District
+1901,1,univer,University District
+1902,1,uvillage,University District
+1903,1,wi,University District
+1904,1,shoji,University District
+1905,1,take,University District
+1906,1,distrc,University District
+1907,1,amazing,University District
+1908,1,balcony,University District
+1909,1,shared,University District
+1910,1,im,University District
+1911,1,walki,University District
+1912,1,minutes,University District
+1913,1,vi,University District
+1914,1,island,University District
+1915,1,bedrom,University District
+1916,1,charmer,University District
+1917,1,old,University District
+1918,1,centrally,University District
+1919,1,aptdowntown,University District
+1920,1,meets,University District
+1921,1,entry,University District
+1922,1,edge,University District
+1923,1,greek,University District
+1924,1,beds,University District
+1925,1,st,University District
+1926,1,beamed,University District
+1927,1,light,University District
+1928,1,parisian,University District
+1929,1,sqft,University District
+1930,1,short,University District
+1931,1,parts,University District
+1932,1,rare,University District
+1933,1,nice,University District
+1934,1,ravennauniver,University District
+1935,1,uwviewserene,University District
+1936,1,description,University District
+1937,1,ft,University District
+1938,1,join,University District
+1939,1,tudor,University District
+1940,1,identity,University District
+1941,1,simple,University District
+1942,1,co,University District
+1943,1,sleeps,University District
+1944,1,rece,University District
+1945,1,british,University District
+1946,1,country,University District
+1947,1,convenient,University District
+1948,1,central,University District
+1949,1,kitchen,University District
+1950,1,superma,University District
+1951,1,br,University District
+1952,1,enjoy,University District
+1953,1,thats,University District
+1954,1,well,University District
+1955,1,bedroo,University District
+1956,1,unit,University District
+1957,1,bd,University District
+1958,1,nestled,University District
+1959,1,newly,University District
+1960,1,herbal,University District
+1961,1,locatio,University District
+1962,1,us,University District
+1963,1,screened,University District
+1964,1,tons,University District
+1965,1,space,University District
+1966,1,hi,University District
+1967,1,southwestern,University District
+1968,1,downtown,University District
+1969,1,park,University District
+1970,1,cute,University District
+1971,1,offer,University District
+1972,1,loft,University District
+1973,1,closet,University District
+1974,1,airy,University District
+1975,1,art,University District
+1976,1,sq,University District
+1977,1,top,University District
+1978,1,union,University District
+1979,1,spot,University District
+1980,1,loc,University District
+1981,1,sty,University District
+1982,1,efficiency,University District
+1983,1,quality,University District
+1984,1,village,University District
+1985,1,guests,University District
+1986,1,renting,University District
+1987,5,seattle,Harrison/Denny-Blaine
+1988,4,bedroom,Harrison/Denny-Blaine
+1989,4,suite,Harrison/Denny-Blaine
+1990,4,cozy,Harrison/Denny-Blaine
+1991,4,madison,Harrison/Denny-Blaine
+1992,3,garden,Harrison/Denny-Blaine
+1993,3,one,Harrison/Denny-Blaine
+1994,3,valley,Harrison/Denny-Blaine
+1995,3,private,Harrison/Denny-Blaine
+1996,3,studio,Harrison/Denny-Blaine
+1997,3,apartment,Harrison/Denny-Blaine
+1998,2,small,Harrison/Denny-Blaine
+1999,2,hill,Harrison/Denny-Blaine
+2000,2,convenient,Harrison/Denny-Blaine
+2001,2,welcome,Harrison/Denny-Blaine
+2002,2,lowerlevel,Harrison/Denny-Blaine
+2003,2,home,Harrison/Denny-Blaine
+2004,2,capitol,Harrison/Denny-Blaine
+2005,2,restroom,Harrison/Denny-Blaine
+2006,1,cute,Harrison/Denny-Blaine
+2007,1,basement,Harrison/Denny-Blaine
+2008,1,park,Harrison/Denny-Blaine
+2009,1,thee,Harrison/Denny-Blaine
+2010,1,relax,Harrison/Denny-Blaine
+2011,1,sleeps,Harrison/Denny-Blaine
+2012,1,cottage,Harrison/Denny-Blaine
+2013,1,deck,Harrison/Denny-Blaine
+2014,1,charming,Harrison/Denny-Blaine
+2015,24,hill,Minor
+2016,16,modern,Minor
+2017,15,capitol,Minor
+2018,14,home,Minor
+2019,14,central,Minor
+2020,12,seattle,Minor
+2021,11,private,Minor
+2022,11,house,Minor
+2023,10,bedroom,Minor
+2024,8,townhouse,Minor
+2025,7,lovely,Minor
+2026,7,cherry,Minor
+2027,7,near,Minor
+2028,6,downtown,Minor
+2029,6,loft,Minor
+2030,6,heart,Minor
+2031,5,townhome,Minor
+2032,5,walk,Minor
+2033,5,close,Minor
+2034,4,location,Minor
+2035,4,cottage,Minor
+2036,4,large,Minor
+2037,4,studio,Minor
+2038,4,bath,Minor
+2039,4,bed,Minor
+2040,4,located,Minor
+2041,4,condo,Minor
+2042,4,one,Minor
+2043,4,garden,Minor
+2044,3,cozy,Minor
+2045,3,spacious,Minor
+2046,3,great,Minor
+2047,3,everything,Minor
+2048,3,parking,Minor
+2049,3,trendy,Minor
+2050,3,away,Minor
+2051,3,cabin,Minor
+2052,3,apt,Minor
+2053,3,beautifully,Minor
+2054,3,charming,Minor
+2055,3,apartment,Minor
+2056,3,welcome,Minor
+2057,3,stay,Minor
+2058,3,sweet,Minor
+2059,3,guesthouse,Minor
+2060,2,residential,Minor
+2061,2,back,Minor
+2062,2,special,Minor
+2063,2,cap,Minor
+2064,2,floor,Minor
+2065,2,family,Minor
+2066,2,action,Minor
+2067,2,two,Minor
+2068,2,kitchen,Minor
+2069,2,flat,Minor
+2070,2,events,Minor
+2071,2,full,Minor
+2072,2,steps,Minor
+2073,2,paradise,Minor
+2074,2,seattles,Minor
+2075,2,happy,Minor
+2076,2,city,Minor
+2077,2,comfortable,Minor
+2078,2,urban,Minor
+2079,2,venue,Minor
+2080,2,victorian,Minor
+2081,2,bedrooms,Minor
+2082,2,tree,Minor
+2083,2,truly,Minor
+2084,2,friendly,Minor
+2085,2,three,Minor
+2086,2,street,Minor
+2087,2,carriage,Minor
+2088,2,district,Minor
+2089,2,pikepine,Minor
+2090,2,floors,Minor
+2091,2,open,Minor
+2092,2,bright,Minor
+2093,2,super,Minor
+2094,2,marion,Minor
+2095,2,quiet,Minor
+2096,2,br,Minor
+2097,2,sea,Minor
+2098,1,sunlit,Minor
+2099,1,ecoretreat,Minor
+2100,1,entrance,Minor
+2101,1,peaceful,Minor
+2102,1,freshly,Minor
+2103,1,sparkling,Minor
+2104,1,shopping,Minor
+2105,1,note,Minor
+2106,1,aug,Minor
+2107,1,dist,Minor
+2108,1,queen,Minor
+2109,1,sleek,Minor
+2110,1,town,Minor
+2111,1,corner,Minor
+2112,1,appointed,Minor
+2113,1,painted,Minor
+2114,1,available,Minor
+2115,1,next,Minor
+2116,1,based,Minor
+2117,1,nested,Minor
+2118,1,award,Minor
+2119,1,bedden,Minor
+2120,1,remodeled,Minor
+2121,1,everywhere,Minor
+2122,1,sunny,Minor
+2123,1,wprivate,Minor
+2124,1,direct,Minor
+2125,1,wh,Minor
+2126,1,enough,Minor
+2127,1,distr,Minor
+2128,1,small,Minor
+2129,1,east,Minor
+2130,1,enjoy,Minor
+2131,1,neighborhood,Minor
+2132,1,new,Minor
+2133,1,convenien,Minor
+2134,1,capital,Minor
+2135,1,see,Minor
+2136,1,score,Minor
+2137,1,outside,Minor
+2138,1,boutique,Minor
+2139,1,customdesigned,Minor
+2140,1,ho,Minor
+2141,1,luxurious,Minor
+2142,1,arty,Minor
+2143,1,thats,Minor
+2144,1,th,Minor
+2145,1,enjoying,Minor
+2146,1,centrally,Minor
+2147,1,seattl,Minor
+2148,1,abode,Minor
+2149,1,wall,Minor
+2150,1,comes,Minor
+2151,1,geek,Minor
+2152,1,furnished,Minor
+2153,1,gem,Minor
+2154,1,cool,Minor
+2155,1,dista,Minor
+2156,1,rests,Minor
+2157,1,lovelycottage,Minor
+2158,1,gutted,Minor
+2159,1,recently,Minor
+2160,1,awardwinning,Minor
+2161,1,walkers,Minor
+2162,1,loc,Minor
+2163,1,story,Minor
+2164,1,wal,Minor
+2165,1,renovated,Minor
+2166,1,area,Minor
+2167,1,top,Minor
+2168,1,custom,Minor
+2169,1,che,Minor
+2170,1,master,Minor
+2171,1,ceiling,Minor
+2172,1,park,Minor
+2173,1,major,Minor
+2174,1,amber,Minor
+2175,1,south,Minor
+2176,1,bd,Minor
+2177,1,bathroo,Minor
+2178,1,modernminimalist,Minor
+2179,1,seclusion,Minor
+2180,1,pea,Minor
+2181,1,chefs,Minor
+2182,1,sept,Minor
+2183,1,free,Minor
+2184,1,july,Minor
+2185,1,california,Minor
+2186,1,geeks,Minor
+2187,1,wviews,Minor
+2188,1,turn,Minor
+2189,1,hi,Minor
+2190,1,immaculate,Minor
+2191,1,space,Minor
+2192,1,artfilled,Minor
+2193,1,nice,Minor
+2194,1,separate,Minor
+2195,1,description,Minor
+2196,1,decorated,Minor
+2197,1,america,Minor
+2198,1,share,Minor
+2199,1,land,Minor
+2200,1,outskirts,Minor
+2201,1,size,Minor
+2202,1,artistic,Minor
+2203,1,bustle,Minor
+2204,1,capito,Minor
+2205,1,min,Minor
+2206,1,built,Minor
+2207,1,king,Minor
+2208,1,financing,Minor
+2209,1,apartme,Minor
+2210,1,double,Minor
+2211,1,stories,Minor
+2212,1,woriginal,Minor
+2213,1,ecofriendly,Minor
+2214,1,comfortably,Minor
+2215,1,need,Minor
+2216,1,border,Minor
+2217,1,squire,Minor
+2218,1,barclay,Minor
+2219,1,spot,Minor
+2220,1,fe,Minor
+2221,1,backyard,Minor
+2222,1,ikea,Minor
+2223,1,short,Minor
+2224,1,center,Minor
+2225,1,light,Minor
+2226,1,lightfilled,Minor
+2227,1,stunning,Minor
+2228,1,green,Minor
+2229,1,hipp,Minor
+2230,1,tall,Minor
+2231,1,vacation,Minor
+2232,1,clean,Minor
+2233,1,blocks,Minor
+2234,1,sham,Minor
+2235,1,want,Minor
+2236,1,beautiful,Minor
+2237,1,century,Minor
+2238,1,folksy,Minor
+2239,1,bedbath,Minor
+2240,1,walking,Minor
+2241,1,chic,Minor
+2242,1,corridor,Minor
+2243,1,huge,Minor
+2244,1,booki,Minor
+2245,1,court,Minor
+2246,1,hou,Minor
+2247,1,lined,Minor
+2248,1,patio,Minor
+2249,1,growth,Minor
+2250,1,parsonage,Minor
+2251,1,lady,Minor
+2252,1,retreat,Minor
+2253,1,quietude,Minor
+2254,1,ideal,Minor
+2255,1,dwntown,Minor
+2256,1,sofa,Minor
+2257,1,university,Minor
+2258,1,queenfull,Minor
+2259,1,densest,Minor
+2260,1,upstairs,Minor
+2261,1,spring,Minor
+2262,1,slee,Minor
+2263,1,unique,Minor
+2264,1,front,Minor
+2265,1,opens,Minor
+2266,1,style,Minor
+2267,1,deck,Minor
+2268,1,seatt,Minor
+2269,1,perfect,Minor
+2270,1,rooftop,Minor
+2271,1,cedar,Minor
+2272,1,winning,Minor
+2273,1,listing,Minor
+2274,1,main,Minor
+2275,1,tucked,Minor
+2276,1,ensuite,Minor
+2277,1,historic,Minor
+2278,1,dreamy,Minor
+2279,20,home,Leschi
+2280,12,modern,Leschi
+2281,11,bedroom,Leschi
+2282,11,seattle,Leschi
+2283,9,lake,Leschi
+2284,8,private,Leschi
+2285,7,madrona,Leschi
+2286,7,house,Leschi
+2287,7,located,Leschi
+2288,6,city,Leschi
+2289,6,cozy,Leschi
+2290,6,floor,Leschi
+2291,5,near,Leschi
+2292,5,convenient,Leschi
+2293,5,built,Leschi
+2294,5,central,Leschi
+2295,5,downtown,Leschi
+2296,4,enjoy,Leschi
+2297,4,apartment,Leschi
+2298,4,min,Leschi
+2299,4,master,Leschi
+2300,4,views,Leschi
+2301,4,bed,Leschi
+2302,4,heart,Leschi
+2303,4,leschi,Leschi
+2304,4,beautiful,Leschi
+2305,3,charming,Leschi
+2306,3,bath,Leschi
+2307,3,bathroom,Leschi
+2308,3,lovely,Leschi
+2309,3,townhome,Leschi
+2310,3,top,Leschi
+2311,3,unit,Leschi
+2312,3,view,Leschi
+2313,3,washington,Leschi
+2314,3,nest,Leschi
+2315,3,blue,Leschi
+2316,3,quiet,Leschi
+2317,3,craftsman,Leschi
+2318,3,clean,Leschi
+2319,3,newly,Leschi
+2320,3,cute,Leschi
+2321,2,lower,Leschi
+2322,2,level,Leschi
+2323,2,cottage,Leschi
+2324,2,larks,Leschi
+2325,2,new,Leschi
+2326,2,miles,Leschi
+2327,2,studio,Leschi
+2328,2,apt,Leschi
+2329,2,family,Leschi
+2330,2,townhouse,Leschi
+2331,2,teds,Leschi
+2332,2,second,Leschi
+2333,2,street,Leschi
+2334,2,escape,Leschi
+2335,2,district,Leschi
+2336,2,great,Leschi
+2337,2,br,Leschi
+2338,2,large,Leschi
+2339,2,town,Leschi
+2340,2,northwest,Leschi
+2341,2,open,Leschi
+2342,2,nice,Leschi
+2343,2,gets,Leschi
+2344,2,ba,Leschi
+2345,2,remodeled,Leschi
+2346,2,spacious,Leschi
+2347,2,close,Leschi
+2348,2,suite,Leschi
+2349,2,secluded,Leschi
+2350,2,description,Leschi
+2351,2,panoramic,Leschi
+2352,2,access,Leschi
+2353,2,green,Leschi
+2354,2,centrally,Leschi
+2355,2,basement,Leschi
+2356,2,luxury,Leschi
+2357,2,garden,Leschi
+2358,1,viewing,Leschi
+2359,1,boasts,Leschi
+2360,1,yellow,Leschi
+2361,1,bright,Leschi
+2362,1,quintessential,Leschi
+2363,1,easy,Leschi
+2364,1,west,Leschi
+2365,1,best,Leschi
+2366,1,oasis,Leschi
+2367,1,corner,Leschi
+2368,1,mansion,Leschi
+2369,1,tree,Leschi
+2370,1,drive,Leschi
+2371,1,desi,Leschi
+2372,1,daylight,Leschi
+2373,1,woo,Leschi
+2374,1,everything,Leschi
+2375,1,area,Leschi
+2376,1,dbl,Leschi
+2377,1,ce,Leschi
+2378,1,creative,Leschi
+2379,1,le,Leschi
+2380,1,queen,Leschi
+2381,1,please,Leschi
+2382,1,exper,Leschi
+2383,1,furnished,Leschi
+2384,1,space,Leschi
+2385,20,seattle,Atlantic
+2386,15,home,Atlantic
+2387,15,downtown,Atlantic
+2388,12,private,Atlantic
+2389,10,modern,Atlantic
+2390,10,house,Atlantic
+2391,9,located,Atlantic
+2392,8,central,Atlantic
+2393,7,studio,Atlantic
+2394,7,one,Atlantic
+2395,7,bedroom,Atlantic
+2396,7,near,Atlantic
+2397,6,quiet,Atlantic
+2398,5,apartment,Atlantic
+2399,5,neighborhood,Atlantic
+2400,5,floor,Atlantic
+2401,5,cozy,Atlantic
+2402,5,loft,Atlantic
+2403,5,space,Atlantic
+2404,4,great,Atlantic
+2405,4,residential,Atlantic
+2406,4,city,Atlantic
+2407,4,close,Atlantic
+2408,4,location,Atlantic
+2409,4,miles,Atlantic
+2410,4,built,Atlantic
+2411,4,green,Atlantic
+2412,4,townhouse,Atlantic
+2413,3,family,Atlantic
+2414,3,district,Atlantic
+2415,3,hi,Atlantic
+2416,3,old,Atlantic
+2417,3,suite,Atlantic
+2418,3,condo,Atlantic
+2419,3,roombath,Atlantic
+2420,2,min,Atlantic
+2421,2,apar,Atlantic
+2422,2,unit,Atlantic
+2423,2,friendly,Atlantic
+2424,2,story,Atlantic
+2425,2,guest,Atlantic
+2426,2,next,Atlantic
+2427,2,jimi,Atlantic
+2428,2,urban,Atlantic
+2429,2,cabin,Atlantic
+2430,2,call,Atlantic
+2431,2,apt,Atlantic
+2432,2,new,Atlantic
+2433,2,wi,Atlantic
+2434,2,available,Atlantic
+2435,2,oasis,Atlantic
+2436,2,judkins,Atlantic
+2437,2,two,Atlantic
+2438,2,sweet,Atlantic
+2439,2,pioneer,Atlantic
+2440,2,cottage,Atlantic
+2441,2,large,Atlantic
+2442,2,bed,Atlantic
+2443,2,square,Atlantic
+2444,2,wellfurnished,Atlantic
+2445,2,center,Atlantic
+2446,2,third,Atlantic
+2447,2,luxury,Atlantic
+2448,2,clean,Atlantic
+2449,2,cl,Atlantic
+2450,2,style,Atlantic
+2451,2,minutes,Atlantic
+2452,2,hendrixs,Atlantic
+2453,2,beautiful,Atlantic
+2454,1,acce,Atlantic
+2455,1,tow,Atlantic
+2456,1,ameni,Atlantic
+2457,1,mod,Atlantic
+2458,1,store,Atlantic
+2459,1,retreat,Atlantic
+2460,1,inviting,Atlantic
+2461,1,fully,Atlantic
+2462,1,east,Atlantic
+2463,1,renovated,Atlantic
+2464,1,vaulted,Atlantic
+2465,1,wanting,Atlantic
+2466,1,queen,Atlantic
+2467,1,see,Atlantic
+2468,1,wpatio,Atlantic
+2469,1,ho,Atlantic
+2470,1,street,Atlantic
+2471,1,second,Atlantic
+2472,1,enjoy,Atlantic
+2473,1,seat,Atlantic
+2474,1,tree,Atlantic
+2475,1,townhome,Atlantic
+2476,1,simplicity,Atlantic
+2477,1,bathroom,Atlantic
+2478,1,ft,Atlantic
+2479,1,norman,Atlantic
+2480,1,year,Atlantic
+2481,1,farmhouse,Atlantic
+2482,1,explore,Atlantic
+2483,1,freestanding,Atlantic
+2484,1,designed,Atlantic
+2485,1,unique,Atlantic
+2486,1,dt,Atlantic
+2487,1,camp,Atlantic
+2488,1,nei,Atlantic
+2489,1,hey,Atlantic
+2490,1,quaint,Atlantic
+2491,20,place,Pike-Market
+2492,20,pike,Pike-Market
+2493,14,downtown,Pike-Market
+2494,11,seattle,Pike-Market
+2495,11,market,Pike-Market
+2496,7,apartment,Pike-Market
+2497,6,view,Pike-Market
+2498,6,best,Pike-Market
+2499,6,location,Pike-Market
+2500,5,heart,Pike-Market
+2501,4,block,Pike-Market
+2502,4,modern,Pike-Market
+2503,4,apt,Pike-Market
+2504,4,parking,Pike-Market
+2505,3,hostel,Pike-Market
+2506,3,located,Pike-Market
+2507,3,home,Pike-Market
+2508,3,spacious,Pike-Market
+2509,3,stay,Pike-Market
+2510,2,condo,Pike-Market
+2511,2,right,Pike-Market
+2512,2,walkscore,Pike-Market
+2513,2,loft,Pike-Market
+2514,2,art,Pike-Market
+2515,2,tortoise,Pike-Market
+2516,2,marketside,Pike-Market
+2517,2,next,Pike-Market
+2518,2,goin,Pike-Market
+2519,2,centrally,Pike-Market
+2520,2,amazing,Pike-Market
+2521,2,luxury,Pike-Market
+2522,2,suite,Pike-Market
+2523,2,flats,Pike-Market
+2524,2,style,Pike-Market
+2525,2,one,Pike-Market
+2526,2,stocked,Pike-Market
+2527,2,views,Pike-Market
+2528,2,bedroom,Pike-Market
+2529,2,youre,Pike-Market
+2530,2,green,Pike-Market
+2531,2,high,Pike-Market
+2532,2,pikes,Pike-Market
+2533,2,famous,Pike-Market
+2534,1,ellio,Pike-Market
+2535,1,belltown,Pike-Market
+2536,1,marke,Pike-Market
+2537,1,cozy,Pike-Market
+2538,1,perfect,Pike-Market
+2539,1,score,Pike-Market
+2540,1,lux,Pike-Market
+2541,1,new,Pike-Market
+2542,1,visiting,Pike-Market
+2543,1,available,Pike-Market
+2544,1,th,Pike-Market
+2545,1,venti,Pike-Market
+2546,1,day,Pike-Market
+2547,24,eastlake,Eastlake
+2548,15,lake,Eastlake
+2549,15,union,Eastlake
+2550,10,view,Eastlake
+2551,9,apartment,Eastlake
+2552,9,seattle,Eastlake
+2553,9,location,Eastlake
+2554,8,apt,Eastlake
+2555,8,great,Eastlake
+2556,7,located,Eastlake
+2557,6,close,Eastlake
+2558,6,everything,Eastlake
+2559,6,private,Eastlake
+2560,6,modern,Eastlake
+2561,6,bedroom,Eastlake
+2562,6,studio,Eastlake
+2563,5,condo,Eastlake
+2564,5,cozy,Eastlake
+2565,4,one,Eastlake
+2566,4,floor,Eastlake
+2567,4,place,Eastlake
+2568,4,perfect,Eastlake
+2569,3,bright,Eastlake
+2570,3,eastlakelk,Eastlake
+2571,3,cabin,Eastlake
+2572,3,downtown,Eastlake
+2573,3,ask,Eastlake
+2574,3,spacious,Eastlake
+2575,3,charming,Eastlake
+2576,3,home,Eastlake
+2577,3,top,Eastlake
+2578,2,conveniently,Eastlake
+2579,2,furnished,Eastlake
+2580,2,townhouse,Eastlake
+2581,2,city,Eastlake
+2582,2,renovated,Eastlake
+2583,2,heart,Eastlake
+2584,2,two,Eastlake
+2585,2,blocks,Eastlake
+2586,2,welcome,Eastlake
+2587,2,house,Eastlake
+2588,2,townhome,Eastlake
+2589,2,new,Eastlake
+2590,2,bd,Eastlake
+2591,2,gorgeous,Eastlake
+2592,2,views,Eastlake
+2593,2,sky,Eastlake
+2594,2,summer,Eastlake
+2595,2,vintage,Eastlake
+2596,2,overlooking,Eastlake
+2597,2,uw,Eastlake
+2598,2,carriage,Eastlake
+2599,2,unit,Eastlake
+2600,2,building,Eastlake
+2601,2,beautiful,Eastlake
+2602,2,flat,Eastlake
+2603,2,seattles,Eastlake
+2604,1,entire,Eastlake
+2605,1,prime,Eastlake
+2606,1,description,Eastlake
+2607,1,retreat,Eastlake
+2608,1,coming,Eastlake
+2609,1,stay,Eastlake
+2610,1,central,Eastlake
+2611,1,basement,Eastlake
+2612,1,beaut,Eastlake
+2613,1,bike,Eastlake
+2614,1,betw,Eastlake
+2615,1,fully,Eastlake
+2616,1,amazing,Eastlake
+2617,1,find,Eastlake
+2618,1,sensi,Eastlake
+2619,1,spare,Eastlake
+2620,1,split,Eastlake
+2621,1,bdrm,Eastlake
+2622,1,rms,Eastlake
+2623,1,deck,Eastlake
+2624,1,east,Eastlake
+2625,1,busy,Eastlake
+2626,1,steps,Eastlake
+2627,1,parking,Eastlake
+2628,1,wh,Eastlake
+2629,1,clean,Eastlake
+2630,1,drop,Eastlake
+2631,1,lak,Eastlake
+2632,1,size,Eastlake
+2633,1,centralmodern,Eastlake
+2634,1,amazon,Eastlake
+2635,1,center,Eastlake
+2636,1,lakeunion,Eastlake
+2637,8,apartment,South Lake Union
+2638,6,floor,South Lake Union
+2639,6,location,South Lake Union
+2640,6,modern,South Lake Union
+2641,6,lake,South Lake Union
+2642,6,union,South Lake Union
+2643,5,walkscore,South Lake Union
+2644,5,south,South Lake Union
+2645,5,great,South Lake Union
+2646,5,studio,South Lake Union
+2647,4,unit,South Lake Union
+2648,4,heart,South Lake Union
+2649,4,penthouse,South Lake Union
+2650,4,ave,South Lake Union
+2651,4,top,South Lake Union
+2652,4,westlake,South Lake Union
+2653,4,downtown,South Lake Union
+2654,4,condos,South Lake Union
+2655,4,loft,South Lake Union
+2656,3,space,South Lake Union
+2657,3,needle,South Lake Union
+2658,3,luxury,South Lake Union
+2659,3,situated,South Lake Union
+2660,3,private,South Lake Union
+2661,3,open,South Lake Union
+2662,3,right,South Lake Union
+2663,3,slu,South Lake Union
+2664,3,condo,South Lake Union
+2665,2,upscale,South Lake Union
+2666,2,views,South Lake Union
+2667,2,seattle,South Lake Union
+2668,2,bdrm,South Lake Union
+2669,2,walking,South Lake Union
+2670,2,elegant,South Lake Union
+2671,2,newlybu,South Lake Union
+2672,2,century,South Lake Union
+2673,2,entire,South Lake Union
+2674,2,perfect,South Lake Union
+2675,2,high,South Lake Union
+2676,2,come,South Lake Union
+2677,2,central,South Lake Union
+2678,2,downto,South Lake Union
+2679,2,mobile,South Lake Union
+2680,2,turn,South Lake Union
+2681,2,explore,South Lake Union
+2682,2,eastlake,South Lake Union
+2683,2,amazing,South Lake Union
+2684,2,located,South Lake Union
+2685,2,centrally,South Lake Union
+2686,1,brand,South Lake Union
+2687,1,area,South Lake Union
+2688,1,capitol,South Lake Union
+2689,1,north,South Lake Union
+2690,1,vie,South Lake Union
+2691,7,near,Lawton Park
+2692,6,magnolia,Lawton Park
+2693,6,park,Lawton Park
+2694,6,private,Lawton Park
+2695,6,downtown,Lawton Park
+2696,5,bedroom,Lawton Park
+2697,5,seattle,Lawton Park
+2698,5,steps,Lawton Park
+2699,5,townhouse,Lawton Park
+2700,5,bath,Lawton Park
+2701,4,discovery,Lawton Park
+2702,4,clean,Lawton Park
+2703,4,location,Lawton Park
+2704,4,home,Lawton Park
+2705,4,view,Lawton Park
+2706,4,cozy,Lawton Park
+2707,4,bed,Lawton Park
+2708,3,quiet,Lawton Park
+2709,3,cottage,Lawton Park
+2710,3,magnificent,Lawton Park
+2711,3,heart,Lawton Park
+2712,3,truly,Lawton Park
+2713,3,modern,Lawton Park
+2714,3,bus,Lawton Park
+2715,3,magical,Lawton Park
+2716,2,mt,Lawton Park
+2717,2,house,Lawton Park
+2718,2,oasis,Lawton Park
+2719,2,charming,Lawton Park
+2720,2,like,Lawton Park
+2721,2,space,Lawton Park
+2722,2,comfortable,Lawton Park
+2723,2,apartment,Lawton Park
+2724,2,ride,Lawton Park
+2725,2,bright,Lawton Park
+2726,2,sq,Lawton Park
+2727,2,deck,Lawton Park
+2728,2,rainier,Lawton Park
+2729,2,away,Lawton Park
+2730,2,full,Lawton Park
+2731,2,newly,Lawton Park
+2732,2,ft,Lawton Park
+2733,2,floor,Lawton Park
+2734,2,close,Lawton Park
+2735,2,beautiful,Lawton Park
+2736,2,spacious,Lawton Park
+2737,1,living,Lawton Park
+2738,1,downto,Lawton Park
+2739,1,water,Lawton Park
+2740,1,lightfilled,Lawton Park
+2741,1,new,Lawton Park
+2742,1,free,Lawton Park
+2743,1,enough,Lawton Park
+2744,1,bb,Lawton Park
+2745,1,patio,Lawton Park
+2746,1,fabulous,Lawton Park
+2747,1,remodeled,Lawton Park
+2748,1,mins,Lawton Park
+2749,1,garden,Lawton Park
+2750,1,updated,Lawton Park
+2751,7,seattle,Briarcliff
+2752,6,home,Briarcliff
+2753,5,magnolia,Briarcliff
+2754,4,downtown,Briarcliff
+2755,3,views,Briarcliff
+2756,3,new,Briarcliff
+2757,3,min,Briarcliff
+2758,3,discovery,Briarcliff
+2759,2,brick,Briarcliff
+2760,2,charming,Briarcliff
+2761,2,cozy,Briarcliff
+2762,2,house,Briarcliff
+2763,2,view,Briarcliff
+2764,2,night,Briarcliff
+2765,2,large,Briarcliff
+2766,2,mount,Briarcliff
+2767,2,rainier,Briarcliff
+2768,2,city,Briarcliff
+2769,2,adu,Briarcliff
+2770,2,birdhouse,Briarcliff
+2771,1,private,Briarcliff
+2772,1,bright,Briarcliff
+2773,1,retreat,Briarcliff
+2774,1,efficien,Briarcliff
+2775,1,cod,Briarcliff
+2776,1,cape,Briarcliff
+2777,1,bay,Briarcliff
+2778,1,family,Briarcliff
+2779,26,downtown,Belltown
+2780,19,apartment,Belltown
+2781,19,seattle,Belltown
+2782,18,belltown,Belltown
+2783,16,heart,Belltown
+2784,14,studio,Belltown
+2785,13,walk,Belltown
+2786,11,location,Belltown
+2787,10,bedroom,Belltown
+2788,9,modern,Belltown
+2789,8,located,Belltown
+2790,7,beautiful,Belltown
+2791,7,pike,Belltown
+2792,7,luxury,Belltown
+2793,7,perfect,Belltown
+2794,7,view,Belltown
+2795,6,condo,Belltown
+2796,6,views,Belltown
+2797,6,space,Belltown
+2798,5,water,Belltown
+2799,5,walkscore,Belltown
+2800,5,cozy,Belltown
+2801,5,amazing,Belltown
+2802,5,place,Belltown
+2803,4,needle,Belltown
+2804,4,stay,Belltown
+2805,4,blocks,Belltown
+2806,4,score,Belltown
+2807,4,great,Belltown
+2808,4,center,Belltown
+2809,4,parking,Belltown
+2810,4,market,Belltown
+2811,3,living,Belltown
+2812,3,enjoy,Belltown
+2813,3,free,Belltown
+2814,3,fantastic,Belltown
+2815,3,apt,Belltown
+2816,3,local,Belltown
+2817,3,home,Belltown
+2818,3,city,Belltown
+2819,3,minutes,Belltown
+2820,3,rate,Belltown
+2821,3,bargain,Belltown
+2822,3,like,Belltown
+2823,3,best,Belltown
+2824,3,fr,Belltown
+2825,3,furnished,Belltown
+2826,3,clean,Belltown
+2827,2,bay,Belltown
+2828,2,open,Belltown
+2829,2,spots,Belltown
+2830,2,master,Belltown
+2831,2,fully,Belltown
+2832,2,right,Belltown
+2833,2,historic,Belltown
+2834,2,one,Belltown
+2835,2,centrally,Belltown
+2836,2,oasis,Belltown
+2837,2,building,Belltown
+2838,2,loft,Belltown
+2839,2,luxurious,Belltown
+2840,2,seattles,Belltown
+2841,2,things,Belltown
+2842,2,close,Belltown
+2843,2,near,Belltown
+2844,2,vintage,Belltown
+2845,2,hip,Belltown
+2846,2,experience,Belltown
+2847,2,charming,Belltown
+2848,1,condos,Belltown
+2849,1,new,Belltown
+2850,1,pric,Belltown
+2851,1,away,Belltown
+2852,1,res,Belltown
+2853,1,spectacul,Belltown
+2854,1,lo,Belltown
+2855,1,amazi,Belltown
+2856,1,restaurateurs,Belltown
+2857,1,travele,Belltown
+2858,1,lux,Belltown
+2859,1,play,Belltown
+2860,1,love,Belltown
+2861,1,comfy,Belltown
+2862,1,suite,Belltown
+2863,1,sea,Belltown
+2864,1,bell,Belltown
+2865,1,th,Belltown
+2866,1,private,Belltown
+2867,1,emerald,Belltown
+2868,1,roomy,Belltown
+2869,1,sunny,Belltown
+2870,1,carefully,Belltown
+2871,1,downto,Belltown
+2872,1,belltowndowntown,Belltown
+2873,1,dt,Belltown
+2874,1,take,Belltown
+2875,1,want,Belltown
+2876,1,welcome,Belltown
+2877,1,description,Belltown
+2878,1,find,Belltown
+2879,1,unbeatable,Belltown
+2880,1,urban,Belltown
+2881,1,historicalstylish,Belltown
+2882,1,steps,Belltown
+2883,1,convention,Belltown
+2884,1,betw,Belltown
+2885,1,fabulous,Belltown
+2886,1,newly,Belltown
+2887,1,bright,Belltown
+2888,1,stocked,Belltown
+2889,1,advantage,Belltown
+2890,1,spacious,Belltown
+2891,1,ap,Belltown
+2892,1,square,Belltown
+2893,1,pillo,Belltown
+2894,1,tower,Belltown
+2895,1,stylish,Belltown
+2896,1,large,Belltown
+2897,1,metropolitan,Belltown
+2898,1,court,Belltown
+2899,1,mins,Belltown
+2900,1,youre,Belltown
+2901,1,ave,Belltown
+2902,1,ba,Belltown
+2903,1,centennial,Belltown
+2904,1,walking,Belltown
+2905,1,entireprivate,Belltown
+2906,1,walki,Belltown
+2907,1,ws,Belltown
+2908,1,bath,Belltown
+2909,1,bhk,Belltown
+2910,1,property,Belltown
+2911,1,relax,Belltown
+2912,1,historical,Belltown
+2913,1,rent,Belltown
+2914,1,us,Belltown
+2915,1,work,Belltown
+2916,1,slu,Belltown
+2917,1,bdr,Belltown
+2918,1,apartme,Belltown
+2919,1,shelby,Belltown
+2920,1,comfort,Belltown
+2921,1,paradise,Belltown
+2922,1,sf,Belltown
+2923,1,end,Belltown
+2924,1,ultimate,Belltown
+2925,1,min,Belltown
+2926,1,squarely,Belltown
+2927,1,citystay,Belltown
+2928,1,live,Belltown
+2929,1,classi,Belltown
+2930,1,single,Belltown
+2931,1,lower,Belltown
+2932,1,pool,Belltown
+2933,1,designed,Belltown
+2934,1,skyrise,Belltown
+2935,1,car,Belltown
+2936,1,epic,Belltown
+2937,1,comfortable,Belltown
+2938,1,hirise,Belltown
+2939,1,bel,Belltown
+2940,1,luxurio,Belltown
+2941,1,stays,Belltown
+2942,1,interse,Belltown
+2943,1,fastestgrowin,Belltown
+2944,1,dining,Belltown
+2945,1,inviting,Belltown
+2946,1,sound,Belltown
+2947,1,make,Belltown
+2948,1,uniquely,Belltown
+2949,1,ameniti,Belltown
+2950,1,conveniently,Belltown
+2951,1,oa,Belltown
+2952,1,quiet,Belltown
+2953,1,thanks,Belltown
+2954,1,introductory,Belltown
+2955,1,tuscan,Belltown
+2956,1,queen,Belltown
+2957,1,foot,Belltown
+2958,1,seattleitestudio,Belltown
+2959,1,come,Belltown
+2960,1,spaciousluminous,Belltown
+2961,1,waterfront,Belltown
+2962,1,waterview,Belltown
+2963,1,available,Belltown
+2964,1,brand,Belltown
+2965,1,prkng,Belltown
+2966,1,feel,Belltown
+2967,1,travelers,Belltown
+2968,1,fromyoull,Belltown
+2969,1,hi,Belltown
+2970,1,females,Belltown
+2971,1,mere,Belltown
+2972,1,offer,Belltown
+2973,1,cosmopolitan,Belltown
+2974,1,flat,Belltown
+2975,1,matter,Belltown
+2976,1,livi,Belltown
+2977,1,staying,Belltown
+2978,1,lovely,Belltown
+2979,1,gorgeous,Belltown
+2980,1,wonderful,Belltown
+2981,1,two,Belltown
+2982,1,bcadobject,Belltown
+2983,1,inside,Belltown
+2984,1,bathroom,Belltown
+2985,1,considering,Belltown
+2986,1,annebelltown,Belltown
+2987,1,artist,Belltown
+2988,1,guests,Belltown
+2989,1,north,Belltown
+2990,1,westlake,Belltown
+2991,1,frm,Belltown
+2992,7,apartment,International District
+2993,6,bedroom,International District
+2994,6,downtown,International District
+2995,4,two,International District
+2996,4,view,International District
+2997,4,main,International District
+2998,3,gorgeous,International District
+2999,3,seattle,International District
+3000,3,description,International District
+3001,3,located,International District
+3002,2,entire,International District
+3003,2,hall,International District
+3004,2,beautiful,International District
+3005,2,heart,International District
+3006,2,art,International District
+3007,2,puget,International District
+3008,2,international,International District
+3009,2,private,International District
+3010,2,ensuite,International District
+3011,2,contemporary,International District
+3012,2,apt,International District
+3013,2,privacy,International District
+3014,2,read,International District
+3015,2,one,International District
+3016,2,location,International District
+3017,2,listing,International District
+3018,2,hondo,International District
+3019,2,views,International District
+3020,2,home,International District
+3021,2,cozy,International District
+3022,2,temple,International District
+3023,2,folding,International District
+3024,2,panoramic,International District
+3025,2,hill,International District
+3026,31,downtown,Central Business District
+3027,25,seattle,Central Business District
+3028,24,place,Central Business District
+3029,21,pike,Central Business District
+3030,17,market,Central Business District
+3031,14,located,Central Business District
+3032,12,apartment,Central Business District
+3033,11,heart,Central Business District
+3034,10,location,Central Business District
+3035,9,pikes,Central Business District
+3036,9,view,Central Business District
+3037,8,bedroom,Central Business District
+3038,8,best,Central Business District
+3039,7,blocks,Central Business District
+3040,7,amazing,Central Business District
+3041,7,walkscore,Central Business District
+3042,7,center,Central Business District
+3043,6,luxury,Central Business District
+3044,6,block,Central Business District
+3045,6,condo,Central Business District
+3046,6,one,Central Business District
+3047,5,views,Central Business District
+3048,5,high,Central Business District
+3049,5,lux,Central Business District
+3050,4,living,Central Business District
+3051,4,convention,Central Business District
+3052,4,parking,Central Business District
+3053,4,studio,Central Business District
+3054,4,suite,Central Business District
+3055,4,right,Central Business District
+3056,3,modern,Central Business District
+3057,3,city,Central Business District
+3058,3,looking,Central Business District
+3059,3,away,Central Business District
+3060,3,brand,Central Business District
+3061,3,apt,Central Business District
+3062,3,space,Central Business District
+3063,3,perfect,Central Business District
+3064,3,beautiful,Central Business District
+3065,3,youre,Central Business District
+3066,3,large,Central Business District
+3067,3,enjoy,Central Business District
+3068,3,rise,Central Business District
+3069,3,new,Central Business District
+3070,2,spacious,Central Business District
+3071,2,starbucks,Central Business District
+3072,2,zen,Central Business District
+3073,2,corner,Central Business District
+3074,2,experience,Central Business District
+3075,2,unbeatable,Central Business District
+3076,2,first,Central Business District
+3077,2,live,Central Business District
+3078,2,hi,Central Business District
+3079,2,home,Central Business District
+3080,2,great,Central Business District
+3081,2,capitol,Central Business District
+3082,2,harbor,Central Business District
+3083,2,bath,Central Business District
+3084,2,style,Central Business District
+3085,2,ft,Central Business District
+3086,2,sq,Central Business District
+3087,2,pik,Central Business District
+3088,2,stay,Central Business District
+3089,2,bed,Central Business District
+3090,2,goin,Central Business District
+3091,2,near,Central Business District
+3092,2,two,Central Business District
+3093,2,nice,Central Business District
+3094,2,building,Central Business District
+3095,2,comfortable,Central Business District
+3096,1,welcome,Central Business District
+3097,1,tran,Central Business District
+3098,1,vibrant,Central Business District
+3099,1,fu,Central Business District
+3100,1,spot,Central Business District
+3101,1,stepsbe,Central Business District
+3102,1,gorgeous,Central Business District
+3103,1,waterfront,Central Business District
+3104,1,heaven,Central Business District
+3105,1,steps,Central Business District
+3106,1,small,Central Business District
+3107,1,fabulous,Central Business District
+3108,1,really,Central Business District
+3109,1,nightlife,Central Business District
+3110,1,queen,Central Business District
+3111,1,aptdowntown,Central Business District
+3112,1,retreat,Central Business District
+3113,1,promo,Central Business District
+3114,1,sea,Central Business District
+3115,1,clean,Central Business District
+3116,1,elegant,Central Business District
+3117,1,positioned,Central Business District
+3118,1,conv,Central Business District
+3119,1,old,Central Business District
+3120,1,square,Central Business District
+3121,1,cool,Central Business District
+3122,1,premiere,Central Business District
+3123,1,conven,Central Business District
+3124,1,tallest,Central Business District
+3125,1,tower,Central Business District
+3126,1,prime,Central Business District
+3127,1,spectacular,Central Business District
+3128,1,gem,Central Business District
+3129,1,fr,Central Business District
+3130,1,seatt,Central Business District
+3131,1,wifi,Central Business District
+3132,1,marke,Central Business District
+3133,1,feel,Central Business District
+3134,1,rough,Central Business District
+3135,1,stunning,Central Business District
+3136,1,unit,Central Business District
+3137,1,manages,Central Business District
+3138,1,thoughtful,Central Business District
+3139,1,everything,Central Business District
+3140,1,artistic,Central Business District
+3141,1,description,Central Business District
+3142,1,deck,Central Business District
+3143,1,residential,Central Business District
+3144,1,sky,Central Business District
+3145,1,unique,Central Business District
+3146,1,pool,Central Business District
+3147,1,whopping,Central Business District
+3148,1,stays,Central Business District
+3149,1,cntr,Central Business District
+3150,1,every,Central Business District
+3151,1,historic,Central Business District
+3152,1,llc,Central Business District
+3153,1,authentic,Central Business District
+3154,1,livin,Central Business District
+3155,1,seattles,Central Business District
+3156,1,rhythm,Central Business District
+3157,1,downtow,Central Business District
+3158,1,offers,Central Business District
+3159,1,wife,Central Business District
+3160,1,like,Central Business District
+3161,1,ret,Central Business District
+3162,1,furthe,Central Business District
+3163,1,blend,Central Business District
+3164,1,ultimate,Central Business District
+3165,1,bathroom,Central Business District
+3166,1,open,Central Business District
+3167,1,apa,Central Business District
+3168,1,convince,Central Business District
+3169,1,bdrm,Central Business District
+3170,1,star,Central Business District
+3171,1,privately,Central Business District
+3172,1,ave,Central Business District
+3173,1,wit,Central Business District
+3174,1,plan,Central Business District
+3175,1,core,Central Business District
+3176,1,simple,Central Business District
+3177,1,finest,Central Business District
+3178,1,ac,Central Business District
+3179,1,onebedroom,Central Business District
+3180,1,spa,Central Business District
+3181,1,ultramodern,Central Business District
+3182,1,loc,Central Business District
+3183,1,puget,Central Business District
+3184,1,downton,Central Business District
+3185,1,true,Central Business District
+3186,1,waterview,Central Business District
+3187,1,vacation,Central Business District
+3188,1,mixed,Central Business District
+3189,1,hotel,Central Business District
+3190,1,relax,Central Business District
+3191,1,familyfriendly,Central Business District
+3192,1,design,Central Business District
+3193,1,shopping,Central Business District
+3194,1,life,Central Business District
+3195,1,flat,Central Business District
+3196,1,ha,Central Business District
+3197,1,po,Central Business District
+3198,1,junior,Central Business District
+3199,1,lovely,Central Business District
+3200,1,sound,Central Business District
+3201,1,look,Central Business District
+3202,1,newmark,Central Business District
+3203,1,owned,Central Business District
+3204,1,longer,Central Business District
+3205,1,apar,Central Business District
+3206,1,wi,Central Business District
+3207,1,nights,Central Business District
+3208,1,cozy,Central Business District
+3209,1,winter,Central Business District
+3210,1,available,Central Business District
+3211,1,convtn,Central Business District
+3212,1,vintage,Central Business District
+3213,1,enjoys,Central Business District
+3214,1,hill,Central Business District
+3215,1,midd,Central Business District
+3216,1,score,Central Business District
+3217,1,architectural,Central Business District
+3218,1,pioneer,Central Business District
+3219,1,pine,Central Business District
+3220,1,mixedus,Central Business District
+3221,1,topfloor,Central Business District
+3222,1,story,Central Business District
+3223,1,clawfoot,Central Business District
+3224,1,suites,Central Business District
+3225,1,walk,Central Business District
+3226,1,resides,Central Business District
+3227,1,central,Central Business District
+3228,1,minutes,Central Business District
+3229,1,border,Central Business District
+3230,1,openplan,Central Business District
+3231,1,come,Central Business District
+3232,25,downtown,First Hill
+3233,20,seattle,First Hill
+3234,18,studio,First Hill
+3235,15,apartment,First Hill
+3236,14,hill,First Hill
+3237,13,modern,First Hill
+3238,12,bedroom,First Hill
+3239,11,located,First Hill
+3240,11,condo,First Hill
+3241,10,convention,First Hill
+3242,9,cozy,First Hill
+3243,9,heart,First Hill
+3244,8,capitol,First Hill
+3245,8,center,First Hill
+3246,8,near,First Hill
+3247,7,suites,First Hill
+3248,7,luxury,First Hill
+3249,6,br,First Hill
+3250,6,location,First Hill
+3251,6,walk,First Hill
+3252,6,private,First Hill
+3253,6,first,First Hill
+3254,5,spacious,First Hill
+3255,5,fu,First Hill
+3256,5,llc,First Hill
+3257,5,privately,First Hill
+3258,5,manages,First Hill
+3259,5,next,First Hill
+3260,5,newly,First Hill
+3261,5,owned,First Hill
+3262,4,johns,First Hill
+3263,4,one,First Hill
+3264,4,apartments,First Hill
+3265,4,swedish,First Hill
+3266,4,furnished,First Hill
+3267,4,st,First Hill
+3268,3,open,First Hill
+3269,3,city,First Hill
+3270,3,ave,First Hill
+3271,3,right,First Hill
+3272,3,large,First Hill
+3273,3,comfortable,First Hill
+3274,3,best,First Hill
+3275,3,condos,First Hill
+3276,3,living,First Hill
+3277,3,great,First Hill
+3278,3,view,First Hill
+3279,3,close,First Hill
+3280,3,everything,First Hill
+3281,2,midcentury,First Hill
+3282,2,neighborhooddowntown,First Hill
+3283,2,entire,First Hill
+3284,2,explore,First Hill
+3285,2,bathroom,First Hill
+3286,2,stylish,First Hill
+3287,2,ex,First Hill
+3288,2,parking,First Hill
+3289,2,hillfirst,First Hill
+3290,2,beaut,First Hill
+3291,2,corner,First Hill
+3292,2,promo,First Hill
+3293,2,beautifully,First Hill
+3294,2,apt,First Hill
+3295,2,seattles,First Hill
+3296,2,floor,First Hill
+3297,2,winter,First Hill
+3298,2,stay,First Hill
+3299,2,cute,First Hill
+3300,2,walking,First Hill
+3301,2,suite,First Hill
+3302,2,charming,First Hill
+3303,2,distance,First Hill
+3304,2,walkscore,First Hill
+3305,2,cap,First Hill
+3306,2,fully,First Hill
+3307,2,beautiful,First Hill
+3308,1,thirteenth,First Hill
+3309,1,easy,First Hill
+3310,1,lo,First Hill
+3311,1,hospital,First Hill
+3312,1,vintage,First Hill
+3313,1,brightsweet,First Hill
+3314,1,space,First Hill
+3315,1,rise,First Hill
+3316,1,lots,First Hill
+3317,1,visiting,First Hill
+3318,1,score,First Hill
+3319,1,airbnb,First Hill
+3320,1,shopping,First Hill
+3321,1,foot,First Hill
+3322,1,affordable,First Hill
+3323,1,sunny,First Hill
+3324,1,dt,First Hill
+3325,1,entrance,First Hill
+3326,1,comfy,First Hill
+3327,1,centrally,First Hill
+3328,1,perfect,First Hill
+3329,1,conven,First Hill
+3330,1,neighbo,First Hill
+3331,1,sunrise,First Hill
+3332,1,cool,First Hill
+3333,1,bright,First Hill
+3334,1,street,First Hill
+3335,1,wake,First Hill
+3336,1,colorful,First Hill
+3337,1,sparkling,First Hill
+3338,1,vibrant,First Hill
+3339,1,layout,First Hill
+3340,1,new,First Hill
+3341,1,wbalcony,First Hill
+3342,1,capital,First Hill
+3343,1,bedrooms,First Hill
+3344,1,want,First Hill
+3345,1,cond,First Hill
+3346,1,mod,First Hill
+3347,1,high,First Hill
+3348,1,bathrooms,First Hill
+3349,1,pik,First Hill
+3350,1,conventioncenter,First Hill
+3351,1,border,First Hill
+3352,1,ferry,First Hill
+3353,1,amp,First Hill
+3354,1,take,First Hill
+3355,1,wa,First Hill
+3356,1,flat,First Hill
+3357,1,artfilled,First Hill
+3358,1,ador,First Hill
+3359,1,everywhere,First Hill
+3360,1,bath,First Hill
+3361,1,baths,First Hill
+3362,1,clean,First Hill
+3363,1,sunset,First Hill
+3364,1,place,First Hill
+3365,1,scor,First Hill
+3366,1,sqf,First Hill
+3367,1,sq,First Hill
+3368,1,light,First Hill
+3369,1,description,First Hill
+3370,1,bed,First Hill
+3371,1,capitolfirst,First Hill
+3372,1,extremely,First Hill
+3373,1,convenient,First Hill
+3374,1,beauti,First Hill
+3375,1,pad,First Hill
+3376,1,loft,First Hill
+3377,1,star,First Hill
+3378,1,residence,First Hill
+3379,1,queen,First Hill
+3380,1,bohemianchic,First Hill
+3381,1,amazing,First Hill
+3382,1,sea,First Hill
+3383,1,hi,First Hill
+3384,1,brand,First Hill
+3385,1,overlo,First Hill
+3386,1,launch,First Hill
+3387,1,central,First Hill
+3388,1,downtwnconvention,First Hill
+3389,1,penthouse,First Hill
+3390,1,pike,First Hill
+3391,1,epicenter,First Hill
+3392,1,come,First Hill
+3393,1,pati,First Hill
+3394,1,building,First Hill
+3395,1,retreat,First Hill
+3396,1,oasis,First Hill
+3397,1,conventioncenterexecutive,First Hill
+3398,1,bo,First Hill
+3399,1,well,First Hill
+3400,1,state,First Hill
+3401,1,bd,First Hill
+3402,1,facing,First Hill
+3403,1,across,First Hill
+3404,1,adorable,First Hill
+3405,1,metro,First Hill
+3406,1,univ,First Hill
+3407,1,lightfilled,First Hill
+3408,1,pa,First Hill
+3409,1,apartmen,First Hill
+3410,1,urban,First Hill
+3411,1,cosmo,First Hill
+3412,1,unit,First Hill
+3413,1,stadium,First Hill
+3414,1,highend,First Hill
+3415,1,boren,First Hill
+3416,1,two,First Hill
+3417,1,walkability,First Hill
+3418,1,convent,First Hill
+3419,1,wal,First Hill
+3420,1,traveler,First Hill
+3421,1,ctr,First Hill
+3422,1,renovated,First Hill
+3423,1,simple,First Hill
+3424,1,fantastic,First Hill
+3425,1,host,First Hill
+3426,1,conveniently,First Hill
+3427,1,coppins,First Hill
+3428,1,boyfriend,First Hill
+3429,13,hill,Yesler Terrace
+3430,10,bedroom,Yesler Terrace
+3431,8,capitol,Yesler Terrace
+3432,8,apartment,Yesler Terrace
+3433,7,cozy,Yesler Terrace
+3434,6,located,Yesler Terrace
+3435,6,studio,Yesler Terrace
+3436,4,furnished,Yesler Terrace
+3437,3,parking,Yesler Terrace
+3438,3,downtown,Yesler Terrace
+3439,3,first,Yesler Terrace
+3440,3,location,Yesler Terrace
+3441,2,modern,Yesler Terrace
+3442,2,artsy,Yesler Terrace
+3443,2,one,Yesler Terrace
+3444,2,sunny,Yesler Terrace
+3445,2,apt,Yesler Terrace
+3446,2,full,Yesler Terrace
+3447,2,included,Yesler Terrace
+3448,1,easy,Yesler Terrace
+3449,1,capitolfirst,Yesler Terrace
+3450,1,come,Yesler Terrace
+3451,1,condo,Yesler Terrace
+3452,1,description,Yesler Terrace
+3453,1,top,Yesler Terrace
+3454,1,suite,Yesler Terrace
+3455,1,spaciouscomfy,Yesler Terrace
+3456,1,centrally,Yesler Terrace
+3457,1,comfy,Yesler Terrace
+3458,1,building,Yesler Terrace
+3459,1,perf,Yesler Terrace
+3460,1,bath,Yesler Terrace
+3461,1,clean,Yesler Terrace
+3462,1,moments,Yesler Terrace
+3463,12,apartment,Pioneer Square
+3464,10,downtown,Pioneer Square
+3465,9,historic,Pioneer Square
+3466,8,square,Pioneer Square
+3467,8,pioneer,Pioneer Square
+3468,8,loft,Pioneer Square
+3469,7,bedroom,Pioneer Square
+3470,6,seattle,Pioneer Square
+3471,6,studio,Pioneer Square
+3472,6,one,Pioneer Square
+3473,4,place,Pioneer Square
+3474,3,views,Pioneer Square
+3475,3,amazing,Pioneer Square
+3476,3,home,Pioneer Square
+3477,2,penthouse,Pioneer Square
+3478,2,walkscore,Pioneer Square
+3479,2,view,Pioneer Square
+3480,2,walking,Pioneer Square
+3481,2,brick,Pioneer Square
+3482,2,renovated,Pioneer Square
+3483,2,walls,Pioneer Square
+3484,2,exposed,Pioneer Square
+3485,2,deck,Pioneer Square
+3486,2,br,Pioneer Square
+3487,2,building,Pioneer Square
+3488,2,new,Pioneer Square
+3489,2,pike,Pioneer Square
+3490,2,designer,Pioneer Square
+3491,2,market,Pioneer Square
+3492,2,heart,Pioneer Square
+3493,1,brand,Pioneer Square
+3494,1,marke,Pioneer Square
+3495,1,sunlit,Pioneer Square
+3496,1,dist,Pioneer Square
+3497,1,kitchen,Pioneer Square
+3498,1,wraparound,Pioneer Square
+3499,1,quirky,Pioneer Square
+3500,1,wate,Pioneer Square
+3501,1,waterfront,Pioneer Square
+3502,1,minimum,Pioneer Square
+3503,1,blocks,Pioneer Square
+3504,1,city,Pioneer Square
+3505,1,cute,Pioneer Square
+3506,1,stay,Pioneer Square
+3507,1,hotel,Pioneer Square
+3508,1,fro,Pioneer Square
+3509,14,seattle,Gatewood
+3510,13,west,Gatewood
+3511,13,home,Gatewood
+3512,9,private,Gatewood
+3513,5,bedroom,Gatewood
+3514,5,modern,Gatewood
+3515,4,new,Gatewood
+3516,4,bath,Gatewood
+3517,3,townhouse,Gatewood
+3518,3,spacious,Gatewood
+3519,3,studio,Gatewood
+3520,3,park,Gatewood
+3521,3,bright,Gatewood
+3522,3,beautiful,Gatewood
+3523,3,view,Gatewood
+3524,3,large,Gatewood
+3525,3,craftsman,Gatewood
+3526,2,location,Gatewood
+3527,2,lovely,Gatewood
+3528,2,near,Gatewood
+3529,2,lincoln,Gatewood
+3530,2,one,Gatewood
+3531,2,se,Gatewood
+3532,2,garden,Gatewood
+3533,2,charming,Gatewood
+3534,2,nestled,Gatewood
+3535,2,views,Gatewood
+3536,2,house,Gatewood
+3537,2,condo,Gatewood
+3538,2,waterfront,Gatewood
+3539,2,br,Gatewood
+3540,2,water,Gatewood
+3541,2,midcentury,Gatewood
+3542,2,full,Gatewood
+3543,1,light,Gatewood
+3544,1,outdoor,Gatewood
+3545,1,mtns,Gatewood
+3546,1,wake,Gatewood
+3547,1,family,Gatewood
+3548,1,explore,Gatewood
+3549,1,cl,Gatewood
+3550,1,wviews,Gatewood
+3551,1,area,Gatewood
+3552,1,sweeping,Gatewood
+3553,4,seattle,Arbor Heights
+3554,3,west,Arbor Heights
+3555,2,treehouse,Arbor Heights
+3556,2,quiet,Arbor Heights
+3557,2,near,Arbor Heights
+3558,2,ferry,Arbor Heights
+3559,2,studio,Arbor Heights
+3560,1,downtow,Arbor Heights
+3561,1,min,Arbor Heights
+3562,1,nhood,Arbor Heights
+3563,48,beach,Alki
+3564,45,alki,Alki
+3565,12,home,Alki
+3566,11,seattle,Alki
+3567,10,house,Alki
+3568,8,west,Alki
+3569,8,apartment,Alki
+3570,5,cottage,Alki
+3571,5,bedroom,Alki
+3572,5,view,Alki
+3573,5,located,Alki
+3574,5,beautiful,Alki
+3575,4,charming,Alki
+3576,4,waterfront,Alki
+3577,4,private,Alki
+3578,4,one,Alki
+3579,4,sunset,Alki
+3580,4,close,Alki
+3581,4,views,Alki
+3582,3,park,Alki
+3583,3,comfortable,Alki
+3584,3,stunning,Alki
+3585,3,floor,Alki
+3586,3,top,Alki
+3587,3,blocks,Alki
+3588,3,street,Alki
+3589,2,bungalowapt,Alki
+3590,2,water,Alki
+3591,2,master,Alki
+3592,2,apt,Alki
+3593,2,construction,Alki
+3594,2,new,Alki
+3595,2,beac,Alki
+3596,2,retro,Alki
+3597,2,midcentury,Alki
+3598,2,steps,Alki
+3599,2,townhome,Alki
+3600,2,right,Alki
+3601,2,great,Alki
+3602,2,privacy,Alki
+3603,2,living,Alki
+3604,2,hiking,Alki
+3605,2,villa,Alki
+3606,2,next,Alki
+3607,2,grotto,Alki
+3608,2,wonderful,Alki
+3609,2,across,Alki
+3610,2,play,Alki
+3611,2,field,Alki
+3612,2,remodeled,Alki
+3613,2,perched,Alki
+3614,2,modern,Alki
+3615,2,cute,Alki
+3616,2,getaway,Alki
+3617,2,bath,Alki
+3618,2,friendly,Alki
+3619,2,minutes,Alki
+3620,2,seattles,Alki
+3621,1,newly,Alki
+3622,1,spacious,Alki
+3623,1,please,Alki
+3624,1,meticulously,Alki
+3625,1,best,Alki
+3626,1,genesee,Alki
+3627,1,blk,Alki
+3628,1,less,Alki
+3629,1,area,Alki
+3630,1,cactus,Alki
+3631,1,dynamic,Alki
+3632,1,hill,Alki
+3633,1,pet,Alki
+3634,1,note,Alki
+3635,1,rv,Alki
+3636,1,filled,Alki
+3637,1,location,Alki
+3638,1,front,Alki
+3639,1,endl,Alki
+3640,1,downt,Alki
+3641,1,bedrooms,Alki
+3642,1,entire,Alki
+3643,1,junction,Alki
+3644,1,updated,Alki
+3645,1,cu,Alki
+3646,1,lodge,Alki
+3647,23,west,North Admiral
+3648,23,seattle,North Admiral
+3649,14,home,North Admiral
+3650,13,private,North Admiral
+3651,11,bedroom,North Admiral
+3652,10,view,North Admiral
+3653,8,apartment,North Admiral
+3654,7,modern,North Admiral
+3655,7,admiral,North Admiral
+3656,6,cozy,North Admiral
+3657,6,quiet,North Admiral
+3658,6,studio,North Admiral
+3659,5,bathroom,North Admiral
+3660,4,basement,North Admiral
+3661,4,leaf,North Admiral
+3662,4,alki,North Admiral
+3663,4,located,North Admiral
+3664,4,cottage,North Admiral
+3665,4,spacious,North Admiral
+3666,4,neighborhood,North Admiral
+3667,4,urban,North Admiral
+3668,4,floor,North Admiral
+3669,4,craftsman,North Admiral
+3670,3,bed,North Admiral
+3671,3,large,North Admiral
+3672,3,penthouse,North Admiral
+3673,3,walk,North Admiral
+3674,3,suite,North Admiral
+3675,3,house,North Admiral
+3676,3,come,North Admiral
+3677,3,condo,North Admiral
+3678,3,new,North Admiral
+3679,3,ocean,North Admiral
+3680,3,queen,North Admiral
+3681,3,clean,North Admiral
+3682,3,beach,North Admiral
+3683,2,style,North Admiral
+3684,2,bb,North Admiral
+3685,2,sq,North Admiral
+3686,2,north,North Admiral
+3687,2,charming,North Admiral
+3688,2,gem,North Admiral
+3689,2,unobstructed,North Admiral
+3690,2,stay,North Admiral
+3691,2,master,North Admiral
+3692,2,wonderful,North Admiral
+3693,2,family,North Admiral
+3694,2,bath,North Admiral
+3695,2,thc,North Admiral
+3696,2,townhouse,North Admiral
+3697,2,open,North Admiral
+3698,2,past,North Admiral
+3699,2,enjoy,North Admiral
+3700,2,city,North Admiral
+3701,2,independent,North Admiral
+3702,2,renovated,North Admiral
+3703,2,district,North Admiral
+3704,2,top,North Admiral
+3705,2,sweet,North Admiral
+3706,2,heart,North Admiral
+3707,2,views,North Admiral
+3708,2,spectacular,North Admiral
+3709,2,degree,North Admiral
+3710,2,aptdowntown,North Admiral
+3711,2,anne,North Admiral
+3712,2,lovely,North Admiral
+3713,2,two,North Admiral
+3714,2,ft,North Admiral
+3715,2,comfortable,North Admiral
+3716,2,getaway,North Admiral
+3717,2,luxury,North Admiral
+3718,1,one,North Admiral
+3719,1,cute,North Admiral
+3720,1,walking,North Admiral
+3721,1,penthousewseattle,North Admiral
+3722,1,charm,North Admiral
+3723,1,popular,North Admiral
+3724,1,bungalow,North Admiral
+3725,1,featured,North Admiral
+3726,1,sleepy,North Admiral
+3727,1,away,North Admiral
+3728,1,res,North Admiral
+3729,1,lots,North Admiral
+3730,1,concept,North Admiral
+3731,1,best,North Admiral
+3732,1,vintage,North Admiral
+3733,1,distance,North Admiral
+3734,1,shops,North Admiral
+3735,1,right,North Admiral
+3736,1,desirable,North Admiral
+3737,1,blast,North Admiral
+3738,1,admiralalki,North Admiral
+3739,1,la,North Admiral
+3740,1,size,North Admiral
+3741,1,motherinlaw,North Admiral
+3742,1,stud,North Admiral
+3743,1,working,North Admiral
+3744,1,adjacent,North Admiral
+3745,10,house,Crown Hill
+3746,7,home,Crown Hill
+3747,6,private,Crown Hill
+3748,6,seattle,Crown Hill
+3749,5,north,Crown Hill
+3750,5,ballard,Crown Hill
+3751,4,apartment,Crown Hill
+3752,4,bedroom,Crown Hill
+3753,3,special,Crown Hill
+3754,3,pric,Crown Hill
+3755,3,cozy,Crown Hill
+3756,3,neighborhood,Crown Hill
+3757,3,suite,Crown Hill
+3758,3,crown,Crown Hill
+3759,3,little,Crown Hill
+3760,3,family,Crown Hill
+3761,3,giving,Crown Hill
+3762,2,fun,Crown Hill
+3763,2,comfortable,Crown Hill
+3764,2,rent,Crown Hill
+3765,2,bed,Crown Hill
+3766,2,greenw,Crown Hill
+3767,2,three,Crown Hill
+3768,2,queen,Crown Hill
+3769,2,guest,Crown Hill
+3770,2,spacious,Crown Hill
+3771,2,charming,Crown Hill
+3772,2,comfy,Crown Hill
+3773,2,friendly,Crown Hill
+3774,2,located,Crown Hill
+3775,2,quiet,Crown Hill
+3776,2,great,Crown Hill
+3777,2,red,Crown Hill
+3778,2,hill,Crown Hill
+3779,2,cute,Crown Hill
+3780,2,bath,Crown Hill
+3781,1,foot,Crown Hill
+3782,1,serene,Crown Hill
+3783,1,minimalistinspired,Crown Hill
+3784,1,description,Crown Hill
+3785,1,long,Crown Hill
+3786,1,custom,Crown Hill
+3787,16,seattle,Fairmount Park
+3788,13,west,Fairmount Park
+3789,8,cottage,Fairmount Park
+3790,8,home,Fairmount Park
+3791,7,cozy,Fairmount Park
+3792,7,studio,Fairmount Park
+3793,6,private,Fairmount Park
+3794,4,suite,Fairmount Park
+3795,4,craftsman,Fairmount Park
+3796,4,apartment,Fairmount Park
+3797,4,br,Fairmount Park
+3798,3,night,Fairmount Park
+3799,3,spacious,Fairmount Park
+3800,3,city,Fairmount Park
+3801,3,enjoy,Fairmount Park
+3802,3,quiet,Fairmount Park
+3803,3,clean,Fairmount Park
+3804,3,two,Fairmount Park
+3805,3,family,Fairmount Park
+3806,2,hill,Fairmount Park
+3807,2,sweet,Fairmount Park
+3808,2,new,Fairmount Park
+3809,2,view,Fairmount Park
+3810,2,bedroom,Fairmount Park
+3811,2,top,Fairmount Park
+3812,2,living,Fairmount Park
+3813,2,gorgeous,Fairmount Park
+3814,2,per,Fairmount Park
+3815,2,dream,Fairmount Park
+3816,2,skyline,Fairmount Park
+3817,2,townhome,Fairmount Park
+3818,2,tangerine,Fairmount Park
+3819,2,adorable,Fairmount Park
+3820,2,comfy,Fairmount Park
+3821,2,bath,Fairmount Park
+3822,2,orange,Fairmount Park
+3823,2,close,Fairmount Park
+3824,2,located,Fairmount Park
+3825,2,welcome,Fairmount Park
+3826,2,style,Fairmount Park
+3827,2,main,Fairmount Park
+3828,2,heart,Fairmount Park
+3829,2,classic,Fairmount Park
+3830,1,behind,Fairmount Park
+3831,1,free,Fairmount Park
+3832,1,backyard,Fairmount Park
+3833,1,showcase,Fairmount Park
+3834,1,quite,Fairmount Park
+3835,1,bedroo,Fairmount Park
+3836,1,looking,Fairmount Park
+3837,1,lights,Fairmount Park
+3838,1,august,Fairmount Park
+3839,1,travelers,Fairmount Park
+3840,1,filled,Fairmount Park
+3841,1,nestled,Fairmount Park
+3842,1,patio,Fairmount Park
+3843,1,best,Fairmount Park
+3844,1,level,Fairmount Park
+3845,21,seattle,Genesee
+3846,21,west,Genesee
+3847,9,beautiful,Genesee
+3848,7,junction,Genesee
+3849,6,home,Genesee
+3850,6,house,Genesee
+3851,6,cozy,Genesee
+3852,5,view,Genesee
+3853,5,apartment,Genesee
+3854,5,modern,Genesee
+3855,5,vibrant,Genesee
+3856,5,walk,Genesee
+3857,5,alaska,Genesee
+3858,5,craftsman,Genesee
+3859,4,spacious,Genesee
+3860,4,neighborhoo,Genesee
+3861,4,views,Genesee
+3862,4,private,Genesee
+3863,4,live,Genesee
+3864,4,bedroom,Genesee
+3865,4,new,Genesee
+3866,4,contemporary,Genesee
+3867,3,great,Genesee
+3868,3,cottage,Genesee
+3869,3,midcentury,Genesee
+3870,3,bungalow,Genesee
+3871,3,charming,Genesee
+3872,3,master,Genesee
+3873,3,score,Genesee
+3874,3,suite,Genesee
+3875,2,renovated,Genesee
+3876,2,quiet,Genesee
+3877,2,level,Genesee
+3878,2,downtown,Genesee
+3879,2,space,Genesee
+3880,2,two,Genesee
+3881,2,come,Genesee
+3882,2,located,Genesee
+3883,2,everything,Genesee
+3884,2,nice,Genesee
+3885,2,size,Genesee
+3886,2,stay,Genesee
+3887,2,boeing,Genesee
+3888,2,queen,Genesee
+3889,2,location,Genesee
+3890,2,single,Genesee
+3891,2,bed,Genesee
+3892,2,mins,Genesee
+3893,2,updated,Genesee
+3894,2,box,Genesee
+3895,2,remodel,Genesee
+3896,2,vaulted,Genesee
+3897,1,living,Genesee
+3898,1,preserved,Genesee
+3899,1,patio,Genesee
+3900,1,street,Genesee
+3901,1,easy,Genesee
+3902,1,remodeled,Genesee
+3903,1,residential,Genesee
+3904,1,refinished,Genesee
+3905,1,flow,Genesee
+3906,1,url,Genesee
+3907,1,perfect,Genesee
+3908,1,ground,Genesee
+3909,1,bright,Genesee
+3910,1,twobedroom,Genesee
+3911,1,sleeps,Genesee
+3912,1,centrally,Genesee
+3913,7,modern,Interbay
+3914,6,magnolia,Interbay
+3915,5,seattle,Interbay
+3916,4,great,Interbay
+3917,3,location,Interbay
+3918,3,downtown,Interbay
+3919,3,minutes,Interbay
+3920,3,view,Interbay
+3921,2,condo,Interbay
+3922,2,apartment,Interbay
+3923,2,midcentury,Interbay
+3924,2,loft,Interbay
+3925,2,chic,Interbay
+3926,2,private,Interbay
+3927,1,space,Interbay
+3928,1,bdm,Interbay
+3929,1,mibbett,Interbay
+3930,1,beautifully,Interbay
+3931,1,mother,Interbay
+3932,1,cute,Interbay
+3933,1,seatac,Interbay
+3934,1,deck,Interbay
+3935,2,view,Industrial District
+3936,2,day,Industrial District
+3937,2,red,Industrial District
+3938,2,little,Industrial District
+3939,2,seattle,Industrial District
+3940,2,spa,Industrial District
+3941,2,great,Industrial District
+3942,1,queen,Industrial District
+3943,1,vw,Industrial District
+3944,1,west,Industrial District
+3945,1,one,Industrial District
+3946,1,spot,Industrial District
+3947,14,home,Mid-Beacon Hill
+3948,10,beacon,Mid-Beacon Hill
+3949,10,hill,Mid-Beacon Hill
+3950,10,private,Mid-Beacon Hill
+3951,9,seattle,Mid-Beacon Hill
+3952,8,bed,Mid-Beacon Hill
+3953,8,bedroom,Mid-Beacon Hill
+3954,8,queen,Mid-Beacon Hill
+3955,7,size,Mid-Beacon Hill
+3956,5,suite,Mid-Beacon Hill
+3957,5,warm,Mid-Beacon Hill
+3958,5,commute,Mid-Beacon Hill
+3959,4,single,Mid-Beacon Hill
+3960,4,studio,Mid-Beacon Hill
+3961,4,beautiful,Mid-Beacon Hill
+3962,4,town,Mid-Beacon Hill
+3963,4,cottage,Mid-Beacon Hill
+3964,3,great,Mid-Beacon Hill
+3965,3,easy,Mid-Beacon Hill
+3966,3,easiest,Mid-Beacon Hill
+3967,3,downtown,Mid-Beacon Hill
+3968,3,view,Mid-Beacon Hill
+3969,3,master,Mid-Beacon Hill
+3970,3,cozy,Mid-Beacon Hill
+3971,3,away,Mid-Beacon Hill
+3972,3,georgetown,Mid-Beacon Hill
+3973,2,feel,Mid-Beacon Hill
+3974,2,privacy,Mid-Beacon Hill
+3975,2,fro,Mid-Beacon Hill
+3976,2,hottest,Mid-Beacon Hill
+3977,2,family,Mid-Beacon Hill
+3978,2,thoughtful,Mid-Beacon Hill
+3979,2,small,Mid-Beacon Hill
+3980,2,full,Mid-Beacon Hill
+3981,2,quite,Mid-Beacon Hill
+3982,2,quiet,Mid-Beacon Hill
+3983,2,voted,Mid-Beacon Hill
+3984,2,minutes,Mid-Beacon Hill
+3985,2,location,Mid-Beacon Hill
+3986,2,ride,Mid-Beacon Hill
+3987,2,welcoming,Mid-Beacon Hill
+3988,2,neighborhoods,Mid-Beacon Hill
+3989,2,charming,Mid-Beacon Hill
+3990,2,vintage,Mid-Beacon Hill
+3991,2,clean,Mid-Beacon Hill
+3992,1,house,Mid-Beacon Hill
+3993,1,suit,Mid-Beacon Hill
+3994,1,neasiest,Mid-Beacon Hill
+3995,1,traveler,Mid-Beacon Hill
+3996,1,large,Mid-Beacon Hill
+3997,1,comfortable,Mid-Beacon Hill
+3998,1,pa,Mid-Beacon Hill
+3999,1,stay,Mid-Beacon Hill
+4000,1,nlovely,Mid-Beacon Hill
+4001,1,spot,Mid-Beacon Hill
+4002,1,traveling,Mid-Beacon Hill
+4003,1,welcome,Mid-Beacon Hill
+4004,1,take,Mid-Beacon Hill
+4005,1,description,Mid-Beacon Hill
+4006,1,townhome,Mid-Beacon Hill
+4007,3,clean,South Beacon Hill
+4008,2,house,South Beacon Hill
+4009,2,home,South Beacon Hill
+4010,2,cozy,South Beacon Hill
+4011,2,comfy,South Beacon Hill
+4012,2,private,South Beacon Hill
+4013,1,loaded,South Beacon Hill
+4014,1,bedroombathroomlocated,South Beacon Hill
+4015,22,home,Greenwood
+4016,21,greenwood,Greenwood
+4017,20,private,Greenwood
+4018,16,seattle,Greenwood
+4019,11,house,Greenwood
+4020,10,cozy,Greenwood
+4021,10,bedroom,Greenwood
+4022,6,bungalow,Greenwood
+4023,6,studio,Greenwood
+4024,6,modern,Greenwood
+4025,6,quiet,Greenwood
+4026,6,apt,Greenwood
+4027,6,great,Greenwood
+4028,6,beautiful,Greenwood
+4029,5,floor,Greenwood
+4030,5,neighborhood,Greenwood
+4031,5,bath,Greenwood
+4032,5,comfy,Greenwood
+4033,4,urban,Greenwood
+4034,4,located,Greenwood
+4035,4,updated,Greenwood
+4036,4,phinney,Greenwood
+4037,4,guest,Greenwood
+4038,4,enjoy,Greenwood
+4039,4,welcome,Greenwood
+4040,3,heart,Greenwood
+4041,3,comfortable,Greenwood
+4042,3,homestead,Greenwood
+4043,3,close,Greenwood
+4044,3,area,Greenwood
+4045,3,blocks,Greenwood
+4046,3,newly,Greenwood
+4047,3,sunny,Greenwood
+4048,3,large,Greenwood
+4049,3,vintage,Greenwood
+4050,3,suite,Greenwood
+4051,3,craftsman,Greenwood
+4052,3,quaint,Greenwood
+4053,3,main,Greenwood
+4054,3,ridge,Greenwood
+4055,3,queen,Greenwood
+4056,3,greenlake,Greenwood
+4057,3,north,Greenwood
+4058,3,spacious,Greenwood
+4059,2,charming,Greenwood
+4060,2,cute,Greenwood
+4061,2,renovated,Greenwood
+4062,2,emerald,Greenwood
+4063,2,downtown,Greenwood
+4064,2,treat,Greenwood
+4065,2,cottage,Greenwood
+4066,2,motherinlaw,Greenwood
+4067,2,town,Greenwood
+4068,2,transit,Greenwood
+4069,2,one,Greenwood
+4070,2,vibrant,Greenwood
+4071,2,night,Greenwood
+4072,2,friendly,Greenwood
+4073,2,bathroom,Greenwood
+4074,2,sans,Greenwood
+4075,2,walk,Greenwood
+4076,2,ave,Greenwood
+4077,2,lovely,Greenwood
+4078,2,day,Greenwood
+4079,2,kitchen,Greenwood
+4080,2,northwests,Greenwood
+4081,2,nice,Greenwood
+4082,2,daylight,Greenwood
+4083,2,remodeled,Greenwood
+4084,2,clean,Greenwood
+4085,2,place,Greenwood
+4086,2,bright,Greenwood
+4087,2,souci,Greenwood
+4088,2,bed,Greenwood
+4089,2,bedrooms,Greenwood
+4090,2,stop,Greenwood
+4091,2,pacific,Greenwood
+4092,2,city,Greenwood
+4093,2,situated,Greenwood
+4094,2,spa,Greenwood
+4095,2,restaura,Greenwood
+4096,1,gue,Greenwood
+4097,1,view,Greenwood
+4098,1,joys,Greenwood
+4099,1,bathroomgarden,Greenwood
+4100,1,reststop,Greenwood
+4101,1,bus,Greenwood
+4102,1,back,Greenwood
+4103,1,neig,Greenwood
+4104,1,offer,Greenwood
+4105,1,special,Greenwood
+4106,1,month,Greenwood
+4107,1,completely,Greenwood
+4108,1,basement,Greenwood
+4109,1,wit,Greenwood
+4110,1,cedar,Greenwood
+4111,1,garden,Greenwood
+4112,1,good,Greenwood
+4113,1,pet,Greenwood
+4114,1,equipped,Greenwood
+4115,1,wood,Greenwood
+4116,1,shack,Greenwood
+4117,1,backyard,Greenwood
+4118,1,li,Greenwood
+4119,1,distance,Greenwood
+4120,1,northern,Greenwood
+4121,1,quee,Greenwood
+4122,1,roomy,Greenwood
+4123,1,block,Greenwood
+4124,1,row,Greenwood
+4125,1,mile,Greenwood
+4126,1,four,Greenwood
+4127,1,basemt,Greenwood
+4128,1,gr,Greenwood
+4129,1,perch,Greenwood
+4130,1,crash,Greenwood
+4131,1,colorful,Greenwood
+4132,1,get,Greenwood
+4133,1,two,Greenwood
+4134,1,familyfriendly,Greenwood
+4135,1,popular,Greenwood
+4136,1,access,Greenwood
+4137,1,fully,Greenwood
+4138,1,delightful,Greenwood
+4139,1,artsy,Greenwood
+4140,1,carkeek,Greenwood
+4141,1,inviting,Greenwood
+4142,1,need,Greenwood
+4143,1,greenw,Greenwood
+4144,1,entire,Greenwood
+4145,1,retreat,Greenwood
+4146,1,rental,Greenwood
+4147,1,travelers,Greenwood
+4148,1,got,Greenwood
+4149,1,running,Greenwood
+4150,1,lots,Greenwood
+4151,1,welcomes,Greenwood
+4152,1,big,Greenwood
+4153,1,please,Greenwood
+4154,1,looking,Greenwood
+4155,1,super,Greenwood
+4156,1,mins,Greenwood
+4157,1,tranquil,Greenwood
+4158,1,im,Greenwood
+4159,1,minimum,Greenwood
+4160,1,couples,Greenwood
+4161,1,share,Greenwood
+4162,1,whitman,Greenwood
+4163,1,nurses,Greenwood
+4164,1,dow,Greenwood
+4165,1,low,Greenwood
+4166,1,bridge,Greenwood
+4167,1,happy,Greenwood
+4168,1,restful,Greenwood
+4169,1,trans,Greenwood
+4170,1,relax,Greenwood
+4171,1,maintained,Greenwood
+4172,1,bdrm,Greenwood
+4173,1,amp,Greenwood
+4174,1,near,Greenwood
+4175,1,stu,Greenwood
+4176,1,getaway,Greenwood
+4177,1,hardwoods,Greenwood
+4178,1,available,Greenwood
+4179,1,guests,Greenwood
+4180,1,twouni,Greenwood
+4181,1,description,Greenwood
+4182,1,bedr,Greenwood
+4183,1,spalike,Greenwood
+4184,1,space,Greenwood
+4185,1,th,Greenwood
+4186,1,youre,Greenwood
+4187,1,explore,Greenwood
+4188,1,older,Greenwood
+4189,1,third,Greenwood
+4190,1,pad,Greenwood
+4191,1,ready,Greenwood
+4192,1,luxurious,Greenwood
+4193,3,rv,Holly Park
+4194,2,rent,Holly Park
+4195,2,cozy,Holly Park
+4196,2,apartment,Holly Park
+4197,2,studio,Holly Park
+4198,2,mercedes,Holly Park
+4199,2,comfy,Holly Park
+4200,2,modern,Holly Park
+4201,2,luxury,Holly Park
+4202,1,location,Holly Park
+4203,1,tub,Holly Park
+4204,1,hot,Holly Park
+4205,10,view,Fauntleroy
+4206,6,home,Fauntleroy
+4207,5,seattle,Fauntleroy
+4208,5,suite,Fauntleroy
+4209,5,west,Fauntleroy
+4210,4,private,Fauntleroy
+4211,2,puget,Fauntleroy
+4212,2,lovely,Fauntleroy
+4213,2,spacious,Fauntleroy
+4214,2,enjoy,Fauntleroy
+4215,2,fabulous,Fauntleroy
+4216,2,bedroom,Fauntleroy
+4217,2,amazing,Fauntleroy
+4218,2,sound,Fauntleroy
+4219,2,fauntleroy,Fauntleroy
+4220,2,furnished,Fauntleroy
+4221,2,level,Fauntleroy
+4222,1,location,Fauntleroy
+4223,1,large,Fauntleroy
+4224,1,fully,Fauntleroy
+4225,21,beacon,North Beacon Hill
+4226,20,private,North Beacon Hill
+4227,17,hill,North Beacon Hill
+4228,16,bedroom,North Beacon Hill
+4229,14,home,North Beacon Hill
+4230,11,near,North Beacon Hill
+4231,11,bed,North Beacon Hill
+4232,11,apartment,North Beacon Hill
+4233,10,cozy,North Beacon Hill
+4234,7,downtown,North Beacon Hill
+4235,7,great,North Beacon Hill
+4236,7,located,North Beacon Hill
+4237,6,bathroom,North Beacon Hill
+4238,6,north,North Beacon Hill
+4239,6,house,North Beacon Hill
+4240,6,light,North Beacon Hill
+4241,6,seattle,North Beacon Hill
+4242,6,queen,North Beacon Hill
+4243,6,bath,North Beacon Hill
+4244,5,adorable,North Beacon Hill
+4245,5,sea,North Beacon Hill
+4246,5,parking,North Beacon Hill
+4247,5,rail,North Beacon Hill
+4248,5,quiet,North Beacon Hill
+4249,5,space,North Beacon Hill
+4250,5,townhouse,North Beacon Hill
+4251,5,modern,North Beacon Hill
+4252,5,built,North Beacon Hill
+4253,4,one,North Beacon Hill
+4254,4,cottage,North Beacon Hill
+4255,4,bdrm,North Beacon Hill
+4256,4,two,North Beacon Hill
+4257,4,convenient,North Beacon Hill
+4258,4,full,North Beacon Hill
+4259,4,urban,North Beacon Hill
+4260,4,views,North Beacon Hill
+4261,4,retreat,North Beacon Hill
+4262,3,tub,North Beacon Hill
+4263,3,tent,North Beacon Hill
+4264,3,use,North Beacon Hill
+4265,3,stay,North Beacon Hill
+4266,3,condo,North Beacon Hill
+4267,3,shared,North Beacon Hill
+4268,3,hot,North Beacon Hill
+4269,3,glamping,North Beacon Hill
+4270,3,provided,North Beacon Hill
+4271,3,tents,North Beacon Hill
+4272,3,view,North Beacon Hill
+4273,3,large,North Beacon Hill
+4274,3,apt,North Beacon Hill
+4275,3,bright,North Beacon Hill
+4276,3,town,North Beacon Hill
+4277,3,camping,North Beacon Hill
+4278,3,park,North Beacon Hill
+4279,2,charming,North Beacon Hill
+4280,2,street,North Beacon Hill
+4281,2,musicians,North Beacon Hill
+4282,2,basement,North Beacon Hill
+4283,2,yo,North Beacon Hill
+4284,2,centrally,North Beacon Hill
+4285,2,suite,North Beacon Hill
+4286,2,easy,North Beacon Hill
+4287,2,beautiful,North Beacon Hill
+4288,2,rest,North Beacon Hill
+4289,2,zen,North Beacon Hill
+4290,2,dwntwn,North Beacon Hill
+4291,2,size,North Beacon Hill
+4292,2,public,North Beacon Hill
+4293,2,comfortable,North Beacon Hill
+4294,2,enjoy,North Beacon Hill
+4295,2,make,North Beacon Hill
+4296,2,huge,North Beacon Hill
+4297,2,description,North Beacon Hill
+4298,2,balcony,North Beacon Hill
+4299,2,artists,North Beacon Hill
+4300,2,puget,North Beacon Hill
+4301,2,end,North Beacon Hill
+4302,2,city,North Beacon Hill
+4303,2,high,North Beacon Hill
+4304,2,floor,North Beacon Hill
+4305,2,simple,North Beacon Hill
+4306,2,seattles,North Beacon Hill
+4307,2,hilltop,North Beacon Hill
+4308,2,townhome,North Beacon Hill
+4309,2,unit,North Beacon Hill
+4310,1,best,North Beacon Hill
+4311,1,fully,North Beacon Hill
+4312,1,delightful,North Beacon Hill
+4313,1,amaz,North Beacon Hill
+4314,1,read,North Beacon Hill
+4315,1,oles,North Beacon Hill
+4316,1,ultramodern,North Beacon Hill
+4317,1,nestled,North Beacon Hill
+4318,1,wfull,North Beacon Hill
+4319,1,newer,North Beacon Hill
+4320,1,archit,North Beacon Hill
+4321,1,pri,North Beacon Hill
+4322,1,guaridasanctuarypeacefun,North Beacon Hill
+4323,1,youll,North Beacon Hill
+4324,1,relax,North Beacon Hill
+4325,1,blocks,North Beacon Hill
+4326,1,neighborhood,North Beacon Hill
+4327,1,second,North Beacon Hill
+4328,1,right,North Beacon Hill
+4329,1,individual,North Beacon Hill
+4330,1,kitch,North Beacon Hill
+4331,1,petite,North Beacon Hill
+4332,1,fits,North Beacon Hill
+4333,1,stylish,North Beacon Hill
+4334,1,mariners,North Beacon Hill
+4335,1,guest,North Beacon Hill
+4336,1,fro,North Beacon Hill
+4337,1,st,North Beacon Hill
+4338,1,short,North Beacon Hill
+4339,1,sure,North Beacon Hill
+4340,1,clean,North Beacon Hill
+4341,1,remodeled,North Beacon Hill
+4342,1,distance,North Beacon Hill
+4343,1,duplex,North Beacon Hill
+4344,1,la,North Beacon Hill
+4345,1,rooftop,North Beacon Hill
+4346,1,sou,North Beacon Hill
+4347,1,ground,North Beacon Hill
+4348,1,rambler,North Beacon Hill
+4349,1,wbath,North Beacon Hill
+4350,1,gorgeous,North Beacon Hill
+4351,1,new,North Beacon Hill
+4352,1,green,North Beacon Hill
+4353,1,seatt,North Beacon Hill
+4354,1,thors,North Beacon Hill
+4355,1,sound,North Beacon Hill
+4356,1,sleeps,North Beacon Hill
+4357,1,gr,North Beacon Hill
+4358,1,ideal,North Beacon Hill
+4359,1,artful,North Beacon Hill
+4360,1,th,North Beacon Hill
+4361,1,entire,North Beacon Hill
+4362,1,offers,North Beacon Hill
+4363,1,included,North Beacon Hill
+4364,1,list,North Beacon Hill
+4365,1,hil,North Beacon Hill
+4366,1,long,North Beacon Hill
+4367,1,cheery,North Beacon Hill
+4368,1,hang,North Beacon Hill
+4369,1,motherinlaw,North Beacon Hill
+4370,1,game,North Beacon Hill
+4371,1,rizal,North Beacon Hill
+4372,1,exposure,North Beacon Hill
+4373,1,welcome,North Beacon Hill
+4374,1,amazing,North Beacon Hill
+4375,1,big,North Beacon Hill
+4376,1,minutes,North Beacon Hill
+4377,1,hypoallergenic,North Beacon Hill
+4378,1,garden,North Beacon Hill
+4379,1,newly,North Beacon Hill
+4380,1,hands,North Beacon Hill
+4381,18,private,Mount Baker
+4382,17,home,Mount Baker
+4383,13,baker,Mount Baker
+4384,13,bedroom,Mount Baker
+4385,11,mt,Mount Baker
+4386,10,seattle,Mount Baker
+4387,9,craftsman,Mount Baker
+4388,9,cozy,Mount Baker
+4389,9,apartment,Mount Baker
+4390,8,view,Mount Baker
+4391,8,bath,Mount Baker
+4392,8,lake,Mount Baker
+4393,7,near,Mount Baker
+4394,6,modern,Mount Baker
+4395,6,apt,Mount Baker
+4396,5,bed,Mount Baker
+4397,5,queen,Mount Baker
+4398,5,spacious,Mount Baker
+4399,5,remodeled,Mount Baker
+4400,5,house,Mount Baker
+4401,5,cottage,Mount Baker
+4402,5,sunset,Mount Baker
+4403,5,newly,Mount Baker
+4404,4,charming,Mount Baker
+4405,4,light,Mount Baker
+4406,4,mount,Mount Baker
+4407,4,size,Mount Baker
+4408,4,lightfilled,Mount Baker
+4409,4,guest,Mount Baker
+4410,4,beautiful,Mount Baker
+4411,4,enjoy,Mount Baker
+4412,4,washington,Mount Baker
+4413,3,studio,Mount Baker
+4414,3,quiet,Mount Baker
+4415,3,ethiopian,Mount Baker
+4416,3,new,Mount Baker
+4417,3,garden,Mount Baker
+4418,3,gorgeous,Mount Baker
+4419,3,great,Mount Baker
+4420,3,downtown,Mount Baker
+4421,3,city,Mount Baker
+4422,3,close,Mount Baker
+4423,3,park,Mount Baker
+4424,2,old,Mount Baker
+4425,2,majestic,Mount Baker
+4426,2,wonderful,Mount Baker
+4427,2,located,Mount Baker
+4428,2,lovely,Mount Baker
+4429,2,townhouse,Mount Baker
+4430,2,bathroom,Mount Baker
+4431,2,three,Mount Baker
+4432,2,fully,Mount Baker
+4433,2,olympic,Mount Baker
+4434,2,townhome,Mount Baker
+4435,2,family,Mount Baker
+4436,2,two,Mount Baker
+4437,2,one,Mount Baker
+4438,2,visiting,Mount Baker
+4439,2,splendor,Mount Baker
+4440,2,students,Mount Baker
+4441,2,gem,Mount Baker
+4442,2,comfortable,Mount Baker
+4443,2,single,Mount Baker
+4444,2,clean,Mount Baker
+4445,2,daylight,Mount Baker
+4446,2,rail,Mount Baker
+4447,2,comfy,Mount Baker
+4448,2,views,Mount Baker
+4449,2,priva,Mount Baker
+4450,2,brand,Mount Baker
+4451,2,watch,Mount Baker
+4452,2,town,Mount Baker
+4453,2,medical,Mount Baker
+4454,2,story,Mount Baker
+4455,2,southfacing,Mount Baker
+4456,2,fu,Mount Baker
+4457,1,relaxed,Mount Baker
+4458,1,walk,Mount Baker
+4459,1,sea,Mount Baker
+4460,1,open,Mount Baker
+4461,1,bright,Mount Baker
+4462,1,street,Mount Baker
+4463,1,qwn,Mount Baker
+4464,1,red,Mount Baker
+4465,1,streaming,Mount Baker
+4466,1,less,Mount Baker
+4467,1,bake,Mount Baker
+4468,1,easts,Mount Baker
+4469,1,artfully,Mount Baker
+4470,1,foot,Mount Baker
+4471,1,art,Mount Baker
+4472,1,square,Mount Baker
+4473,1,five,Mount Baker
+4474,1,renovated,Mount Baker
+4475,1,historic,Mount Baker
+4476,1,rental,Mount Baker
+4477,1,minute,Mount Baker
+4478,1,retreat,Mount Baker
+4479,1,privat,Mount Baker
+4480,1,peek,Mount Baker
+4481,6,home,Brighton
+4482,3,studio,Brighton
+4483,3,apartment,Brighton
+4484,3,rail,Brighton
+4485,3,light,Brighton
+4486,2,queen,Brighton
+4487,2,basement,Brighton
+4488,2,quiet,Brighton
+4489,2,please,Brighton
+4490,2,rustic,Brighton
+4491,2,book,Brighton
+4492,2,seattle,Brighton
+4493,2,lightrail,Brighton
+4494,2,modern,Brighton
+4495,2,private,Brighton
+4496,2,bedroom,Brighton
+4497,2,cozy,Brighton
+4498,2,great,Brighton
+4499,2,value,Brighton
+4500,2,clean,Brighton
+4501,2,columbia,Brighton
+4502,2,city,Brighton
+4503,2,instant,Brighton
+4504,1,family,Brighton
+4505,1,ethnic,Brighton
+4506,1,remodele,Brighton
+4507,8,seattle,South Delridge
+4508,7,private,South Delridge
+4509,7,west,South Delridge
+4510,6,studio,South Delridge
+4511,6,cozy,South Delridge
+4512,5,bedroom,South Delridge
+4513,4,home,South Delridge
+4514,3,bed,South Delridge
+4515,3,stylish,South Delridge
+4516,2,comfortable,South Delridge
+4517,2,clean,South Delridge
+4518,2,bath,South Delridge
+4519,2,tiny,South Delridge
+4520,2,one,South Delridge
+4521,2,queen,South Delridge
+4522,2,house,South Delridge
+4523,2,cute,South Delridge
+4524,1,airy,South Delridge
+4525,1,memory,South Delridge
+4526,1,launchpad,South Delridge
+4527,1,livi,South Delridge
+4528,1,wonderful,South Delridge
+4529,1,urban,South Delridge
+4530,1,thelower,South Delridge
+4531,3,private,View Ridge
+4532,3,home,View Ridge
+4533,2,view,View Ridge
+4534,2,apartment,View Ridge
+4535,2,law,View Ridge
+4536,2,uw,View Ridge
+4537,2,mother,View Ridge
+4538,1,huge,View Ridge
+4539,1,scenic,View Ridge
+4540,1,unit,View Ridge
+4541,1,lg,View Ridge
+4542,1,stunning,View Ridge
+4543,1,parking,View Ridge
+4544,1,location,View Ridge
+4545,6,urban,Dunlap
+4546,6,home,Dunlap
+4547,6,seattle,Dunlap
+4548,5,close,Dunlap
+4549,4,guest,Dunlap
+4550,4,welcome,Dunlap
+4551,4,homestead,Dunlap
+4552,4,comfortable,Dunlap
+4553,3,house,Dunlap
+4554,3,comfy,Dunlap
+4555,3,cozy,Dunlap
+4556,3,perfect,Dunlap
+4557,3,city,Dunlap
+4558,3,downtown,Dunlap
+4559,3,quiet,Dunlap
+4560,3,bdr,Dunlap
+4561,2,recently,Dunlap
+4562,2,near,Dunlap
+4563,2,spacious,Dunlap
+4564,2,lake,Dunlap
+4565,2,living,Dunlap
+4566,2,lightrail,Dunlap
+4567,2,treehouse,Dunlap
+4568,2,park,Dunlap
+4569,2,bedrooms,Dunlap
+4570,2,btw,Dunlap
+4571,2,groups,Dunlap
+4572,2,waterfront,Dunlap
+4573,2,decorated,Dunlap
+4574,2,airport,Dunlap
+4575,2,funky,Dunlap
+4576,2,stay,Dunlap
+4577,2,appreciat,Dunlap
+4578,2,sweet,Dunlap
+4579,2,bedroom,Dunlap
+4580,2,full,Dunlap
+4581,1,la,Dunlap
+4582,1,private,Dunlap
+4583,1,warm,Dunlap
+4584,1,ca,Dunlap
+4585,8,view,Rainier Beach
+4586,7,lake,Rainier Beach
+4587,6,quiet,Rainier Beach
+4588,6,bedroom,Rainier Beach
+4589,6,home,Rainier Beach
+4590,5,private,Rainier Beach
+4591,4,comfortable,Rainier Beach
+4592,4,clean,Rainier Beach
+4593,4,seattle,Rainier Beach
+4594,4,comfy,Rainier Beach
+4595,4,queen,Rainier Beach
+4596,3,charming,Rainier Beach
+4597,3,craftsman,Rainier Beach
+4598,3,cozy,Rainier Beach
+4599,3,bed,Rainier Beach
+4600,2,spacious,Rainier Beach
+4601,2,adjacent,Rainier Beach
+4602,2,street,Rainier Beach
+4603,2,one,Rainier Beach
+4604,2,modern,Rainier Beach
+4605,2,house,Rainier Beach
+4606,2,trailer,Rainier Beach
+4607,2,wbreakfast,Rainier Beach
+4608,2,per,Rainier Beach
+4609,2,lower,Rainier Beach
+4610,2,city,Rainier Beach
+4611,2,bathroom,Rainier Beach
+4612,1,luck,Rainier Beach
+4613,1,remodeled,Rainier Beach
+4614,1,main,Rainier Beach
+4615,1,sou,Rainier Beach
+4616,1,lovely,Rainier Beach
+4617,1,abode,Rainier Beach
+4618,1,apar,Rainier Beach
+4619,1,warm,Rainier Beach
+4620,1,comfortably,Rainier Beach
+4621,29,city,Columbia City
+4622,25,columbia,Columbia City
+4623,20,home,Columbia City
+4624,15,bedroom,Columbia City
+4625,12,house,Columbia City
+4626,12,cozy,Columbia City
+4627,12,private,Columbia City
+4628,12,apartment,Columbia City
+4629,8,light,Columbia City
+4630,8,studio,Columbia City
+4631,8,located,Columbia City
+4632,7,bath,Columbia City
+4633,6,modern,Columbia City
+4634,6,bed,Columbia City
+4635,6,rail,Columbia City
+4636,6,seattle,Columbia City
+4637,5,heart,Columbia City
+4638,5,charming,Columbia City
+4639,5,space,Columbia City
+4640,5,spacious,Columbia City
+4641,4,bathroom,Columbia City
+4642,4,built,Columbia City
+4643,4,bright,Columbia City
+4644,4,near,Columbia City
+4645,3,quiet,Columbia City
+4646,3,sweet,Columbia City
+4647,3,seward,Columbia City
+4648,3,neighborhood,Columbia City
+4649,3,relax,Columbia City
+4650,3,beautiful,Columbia City
+4651,3,hillman,Columbia City
+4652,3,apt,Columbia City
+4653,3,entrance,Columbia City
+4654,3,newly,Columbia City
+4655,3,blocks,Columbia City
+4656,3,suite,Columbia City
+4657,3,one,Columbia City
+4658,3,green,Columbia City
+4659,2,close,Columbia City
+4660,2,co,Columbia City
+4661,2,urban,Columbia City
+4662,2,amenities,Columbia City
+4663,2,little,Columbia City
+4664,2,walk,Columbia City
+4665,2,new,Columbia City
+4666,2,darling,Columbia City
+4667,2,ensuite,Columbia City
+4668,2,treehouse,Columbia City
+4669,2,garden,Columbia City
+4670,2,guesthouse,Columbia City
+4671,2,cheerful,Columbia City
+4672,2,contemporary,Columbia City
+4673,2,enjoy,Columbia City
+4674,2,basement,Columbia City
+4675,2,great,Columbia City
+4676,2,br,Columbia City
+4677,2,stay,Columbia City
+4678,2,well,Columbia City
+4679,2,full,Columbia City
+4680,2,inspiring,Columbia City
+4681,2,lovely,Columbia City
+4682,2,away,Columbia City
+4683,2,living,Columbia City
+4684,2,best,Columbia City
+4685,2,level,Columbia City
+4686,2,relaxing,Columbia City
+4687,2,conner,Columbia City
+4688,2,lit,Columbia City
+4689,2,separate,Columbia City
+4690,2,weird,Columbia City
+4691,2,mil,Columbia City
+4692,2,park,Columbia City
+4693,2,comfortable,Columbia City
+4694,2,cottage,Columbia City
+4695,2,clean,Columbia City
+4696,2,place,Columbia City
+4697,1,guaridapeaceful,Columbia City
+4698,1,wars,Columbia City
+4699,1,welcome,Columbia City
+4700,1,old,Columbia City
+4701,1,laundry,Columbia City
+4702,1,retreat,Columbia City
+4703,1,entire,Columbia City
+4704,1,travelers,Columbia City
+4705,1,hotel,Columbia City
+4706,1,bu,Columbia City
+4707,1,around,Columbia City
+4708,1,note,Columbia City
+4709,1,description,Columbia City
+4710,1,parksleeps,Columbia City
+4711,1,neig,Columbia City
+4712,1,vibr,Columbia City
+4713,1,filled,Columbia City
+4714,1,loft,Columbia City
+4715,1,right,Columbia City
+4716,1,farmhouse,Columbia City
+4717,1,kitchenette,Columbia City
+4718,1,downstairs,Columbia City
+4719,1,two,Columbia City
+4720,1,stylish,Columbia City
+4721,1,quick,Columbia City
+4722,1,farm,Columbia City
+4723,1,views,Columbia City
+4724,1,historic,Columbia City
+4725,1,bedbath,Columbia City
+4726,1,apartm,Columbia City
+4727,1,la,Columbia City
+4728,1,rustic,Columbia City
+4729,1,roomarty,Columbia City
+4730,1,excellent,Columbia City
+4731,1,priv,Columbia City
+4732,1,restored,Columbia City
+4733,1,unit,Columbia City
+4734,1,ensingle,Columbia City
+4735,1,fenced,Columbia City
+4736,1,month,Columbia City
+4737,20,home,Seward Park
+4738,17,lake,Seward Park
+4739,11,park,Seward Park
+4740,11,bedroom,Seward Park
+4741,10,private,Seward Park
+4742,10,seward,Seward Park
+4743,9,washington,Seward Park
+4744,7,view,Seward Park
+4745,7,quiet,Seward Park
+4746,7,clean,Seward Park
+4747,7,apartment,Seward Park
+4748,6,city,Seward Park
+4749,6,cozy,Seward Park
+4750,5,charming,Seward Park
+4751,5,studio,Seward Park
+4752,5,seattle,Seward Park
+4753,5,columbia,Seward Park
+4754,4,wbreakfast,Seward Park
+4755,4,seattles,Seward Park
+4756,4,beautiful,Seward Park
+4757,4,light,Seward Park
+4758,4,garden,Seward Park
+4759,4,family,Seward Park
+4760,4,mil,Seward Park
+4761,4,spacious,Seward Park
+4762,4,one,Seward Park
+4763,4,shares,Seward Park
+4764,4,full,Seward Park
+4765,3,mile,Seward Park
+4766,3,basement,Seward Park
+4767,3,updated,Seward Park
+4768,3,motherinlaw,Seward Park
+4769,3,large,Seward Park
+4770,3,close,Seward Park
+4771,3,retreat,Seward Park
+4772,3,bright,Seward Park
+4773,3,place,Seward Park
+4774,3,apt,Seward Park
+4775,3,sleeps,Seward Park
+4776,2,filled,Seward Park
+4777,2,airy,Seward Park
+4778,2,kayaks,Seward Park
+4779,2,located,Seward Park
+4780,2,steps,Seward Park
+4781,2,downtown,Seward Park
+4782,2,dead,Seward Park
+4783,2,renovated,Seward Park
+4784,2,deck,Seward Park
+4785,2,sexy,Seward Park
+4786,2,wi,Seward Park
+4787,2,street,Seward Park
+4788,2,house,Seward Park
+4789,2,neighborhood,Seward Park
+4790,2,bathroom,Seward Park
+4791,2,cheery,Seward Park
+4792,2,modern,Seward Park
+4793,2,swanky,Seward Park
+4794,2,guest,Seward Park
+4795,2,big,Seward Park
+4796,2,daylight,Seward Park
+4797,2,end,Seward Park
+4798,2,nestled,Seward Park
+4799,2,bedrooms,Seward Park
+4800,2,queen,Seward Park
+4801,2,offer,Seward Park
+4802,2,near,Seward Park
+4803,2,treehouse,Seward Park
+4804,2,zen,Seward Park
+4805,1,birds,Seward Park
+4806,1,host,Seward Park
+4807,1,away,Seward Park
+4808,1,alone,Seward Park
+4809,1,level,Seward Park
+4810,1,situated,Seward Park
+4811,1,nei,Seward Park
+4812,1,stunning,Seward Park
+4813,1,best,Seward Park
+4814,1,parklike,Seward Park
+4815,1,everything,Seward Park
+4816,1,sun,Seward Park
+4817,1,access,Seward Park
+4818,1,sui,Seward Park
+4819,1,remodeled,Seward Park
+4820,1,quaint,Seward Park
+4821,1,studiostyle,Seward Park
+4822,1,rate,Seward Park
+4823,1,suite,Seward Park
+4824,1,en,Seward Park
+4825,19,seattle,North Delridge
+4826,16,west,North Delridge
+4827,10,private,North Delridge
+4828,9,bedroom,North Delridge
+4829,8,cozy,North Delridge
+4830,7,suite,North Delridge
+4831,7,apartment,North Delridge
+4832,6,near,North Delridge
+4833,5,house,North Delridge
+4834,5,new,North Delridge
+4835,4,cottage,North Delridge
+4836,4,located,North Delridge
+4837,4,minutes,North Delridge
+4838,4,downtown,North Delridge
+4839,4,home,North Delridge
+4840,4,townhome,North Delridge
+4841,4,green,North Delridge
+4842,4,bathroom,North Delridge
+4843,3,city,North Delridge
+4844,3,urban,North Delridge
+4845,3,level,North Delridge
+4846,3,one,North Delridge
+4847,3,chic,North Delridge
+4848,3,park,North Delridge
+4849,3,min,North Delridge
+4850,3,quiet,North Delridge
+4851,3,small,North Delridge
+4852,3,apt,North Delridge
+4853,2,surrounded,North Delridge
+4854,2,bd,North Delridge
+4855,2,top,North Delridge
+4856,2,close,North Delridge
+4857,2,comfortable,North Delridge
+4858,2,studio,North Delridge
+4859,2,comfy,North Delridge
+4860,2,master,North Delridge
+4861,2,art,North Delridge
+4862,2,bus,North Delridge
+4863,2,enjoy,North Delridge
+4864,2,townhouse,North Delridge
+4865,2,beautiful,North Delridge
+4866,2,modern,North Delridge
+4867,2,queen,North Delridge
+4868,2,middle,North Delridge
+4869,2,bath,North Delridge
+4870,2,convenient,North Delridge
+4871,2,heart,North Delridge
+4872,2,mins,North Delridge
+4873,2,car,North Delridge
+4874,2,garden,North Delridge
+4875,2,access,North Delridge
+4876,2,town,North Delridge
+4877,1,dogfriendly,North Delridge
+4878,1,artsy,North Delridge
+4879,1,zen,North Delridge
+4880,1,away,North Delridge
+4881,1,parking,North Delridge
+4882,1,furnished,North Delridge
+4883,1,situated,North Delridge
+4884,1,bright,North Delridge
+4885,1,awaits,North Delridge
+4886,1,li,North Delridge
+4887,1,vibe,North Delridge
+4888,1,upper,North Delridge
+4889,16,bedroom,Maple Leaf
+4890,14,seattle,Maple Leaf
+4891,14,private,Maple Leaf
+4892,13,apartment,Maple Leaf
+4893,12,cozy,Maple Leaf
+4894,10,home,Maple Leaf
+4895,8,nice,Maple Leaf
+4896,8,maple,Maple Leaf
+4897,6,quiet,Maple Leaf
+4898,6,cottage,Maple Leaf
+4899,5,leaf,Maple Leaf
+4900,5,condo,Maple Leaf
+4901,4,place,Maple Leaf
+4902,4,one,Maple Leaf
+4903,4,bath,Maple Leaf
+4904,4,located,Maple Leaf
+4905,4,living,Maple Leaf
+4906,4,studio,Maple Leaf
+4907,4,big,Maple Leaf
+4908,3,great,Maple Leaf
+4909,3,backyard,Maple Leaf
+4910,3,northgate,Maple Leaf
+4911,3,comfortable,Maple Leaf
+4912,3,clean,Maple Leaf
+4913,3,stay,Maple Leaf
+4914,3,mapleleaf,Maple Leaf
+4915,3,adorable,Maple Leaf
+4916,3,beautiful,Maple Leaf
+4917,3,neighborhood,Maple Leaf
+4918,3,futon,Maple Leaf
+4919,3,spacious,Maple Leaf
+4920,3,house,Maple Leaf
+4921,2,retreat,Maple Leaf
+4922,2,north,Maple Leaf
+4923,2,travelers,Maple Leaf
+4924,2,bathroom,Maple Leaf
+4925,2,full,Maple Leaf
+4926,2,new,Maple Leaf
+4927,2,plaza,Maple Leaf
+4928,2,conveniently,Maple Leaf
+4929,2,love,Maple Leaf
+4930,2,city,Maple Leaf
+4931,2,hotel,Maple Leaf
+4932,2,basement,Maple Leaf
+4933,2,suites,Maple Leaf
+4934,2,perfect,Maple Leaf
+4935,2,luxury,Maple Leaf
+4936,2,ive,Maple Leaf
+4937,2,alternative,Maple Leaf
+4938,2,newly,Maple Leaf
+4939,2,make,Maple Leaf
+4940,2,stayi,Maple Leaf
+4941,1,welllit,Maple Leaf
+4942,1,uni,Maple Leaf
+4943,1,trees,Maple Leaf
+4944,1,recharge,Maple Leaf
+4945,1,spare,Maple Leaf
+4946,1,motherinlaw,Maple Leaf
+4947,1,plea,Maple Leaf
+4948,1,couc,Maple Leaf
+4949,1,rooms,Maple Leaf
+4950,1,enjoy,Maple Leaf
+4951,1,goo,Maple Leaf
+4952,1,contemporary,Maple Leaf
+4953,1,space,Maple Leaf
+4954,1,lots,Maple Leaf
+4955,1,sun,Maple Leaf
+4956,1,please,Maple Leaf
+4957,1,creative,Maple Leaf
+4958,1,per,Maple Leaf
+4959,1,deck,Maple Leaf
+4960,1,bustle,Maple Leaf
+4961,1,business,Maple Leaf
+4962,1,closed,Maple Leaf
+4963,1,zen,Maple Leaf
+4964,1,neig,Maple Leaf
+4965,1,furniture,Maple Leaf
+4966,1,large,Maple Leaf
+4967,1,northwest,Maple Leaf
+4968,1,suite,Maple Leaf
+4969,1,lo,Maple Leaf
+4970,1,small,Maple Leaf
+4971,1,pacific,Maple Leaf
+4972,1,bamboo,Maple Leaf
+4973,25,private,Ravenna
+4974,23,ravenna,Ravenna
+4975,18,bedroom,Ravenna
+4976,14,uw,Ravenna
+4977,12,near,Ravenna
+4978,11,home,Ravenna
+4979,10,apartment,Ravenna
+4980,9,lovely,Ravenna
+4981,9,bright,Ravenna
+4982,8,quiet,Ravenna
+4983,8,house,Ravenna
+4984,8,charming,Ravenna
+4985,7,seattle,Ravenna
+4986,7,garden,Ravenna
+4987,6,cozy,Ravenna
+4988,6,beautiful,Ravenna
+4989,5,nice,Ravenna
+4990,5,udistrict,Ravenna
+4991,5,spacious,Ravenna
+4992,5,welcome,Ravenna
+4993,5,large,Ravenna
+4994,5,view,Ravenna
+4995,4,craftsman,Ravenna
+4996,4,remodeled,Ravenna
+4997,4,neighborhood,Ravenna
+4998,4,studio,Ravenna
+4999,4,backyard,Ravenna
+5000,4,located,Ravenna
+5001,4,modern,Ravenna
+5002,4,suite,Ravenna
+5003,4,students,Ravenna
+5004,4,walking,Ravenna
+5005,3,loca,Ravenna
+5006,3,newly,Ravenna
+5007,3,rm,Ravenna
+5008,3,big,Ravenna
+5009,3,udist,Ravenna
+5010,3,bungalow,Ravenna
+5011,3,villageuw,Ravenna
+5012,3,guest,Ravenna
+5013,3,retreat,Ravenna
+5014,3,level,Ravenna
+5015,3,queen,Ravenna
+5016,3,location,Ravenna
+5017,3,new,Ravenna
+5018,3,cottage,Ravenna
+5019,3,upstairs,Ravenna
+5020,2,full,Ravenna
+5021,2,great,Ravenna
+5022,2,day,Ravenna
+5023,2,little,Ravenna
+5024,2,within,Ravenna
+5025,2,urban,Ravenna
+5026,2,wi,Ravenna
+5027,2,loft,Ravenna
+5028,2,everything,Ravenna
+5029,2,basement,Ravenna
+5030,2,brand,Ravenna
+5031,2,door,Ravenna
+5032,2,downtown,Ravenna
+5033,2,bath,Ravenna
+5034,2,washington,Ravenna
+5035,2,situated,Ravenna
+5036,2,childrens,Ravenna
+5037,2,unit,Ravenna
+5038,2,bathroom,Ravenna
+5039,2,two,Ravenna
+5040,2,sea,Ravenna
+5041,2,adorable,Ravenna
+5042,2,university,Ravenna
+5043,2,long,Ravenna
+5044,2,treelined,Ravenna
+5045,2,released,Ravenna
+5046,2,share,Ravenna
+5047,2,graduate,Ravenna
+5048,2,ideal,Ravenna
+5049,2,newquiet,Ravenna
+5050,2,one,Ravenna
+5051,2,graduatedoctoral,Ravenna
+5052,2,hideaway,Ravenna
+5053,2,light,Ravenna
+5054,2,stay,Ravenna
+5055,2,exploring,Ravenna
+5056,2,greenlake,Ravenna
+5057,2,dist,Ravenna
+5058,2,bed,Ravenna
+5059,2,sunny,Ravenna
+5060,2,den,Ravenna
+5061,2,sunroom,Ravenna
+5062,2,guestroom,Ravenna
+5063,1,space,Ravenna
+5064,1,street,Ravenna
+5065,1,quintessential,Ravenna
+5066,1,elegant,Ravenna
+5067,1,min,Ravenna
+5068,1,floor,Ravenna
+5069,1,basemt,Ravenna
+5070,1,siz,Ravenna
+5071,1,severa,Ravenna
+5072,1,close,Ravenna
+5073,1,furnished,Ravenna
+5074,1,cot,Ravenna
+5075,1,newlyrenov,Ravenna
+5076,1,quietclean,Ravenna
+5077,1,brig,Ravenna
+5078,1,zen,Ravenna
+5079,1,downstairs,Ravenna
+5080,1,yet,Ravenna
+5081,1,list,Ravenna
+5082,1,wood,Ravenna
+5083,1,neoclassical,Ravenna
+5084,1,comfortable,Ravenna
+5085,1,nr,Ravenna
+5086,1,bryant,Ravenna
+5087,1,travelers,Ravenna
+5088,1,habitat,Ravenna
+5089,1,di,Ravenna
+5090,1,furniture,Ravenna
+5091,1,reside,Ravenna
+5092,1,rosies,Ravenna
+5093,1,willkommen,Ravenna
+5094,1,centrally,Ravenna
+5095,1,town,Ravenna
+5096,1,roomy,Ravenna
+5097,1,friendly,Ravenna
+5098,1,keyed,Ravenna
+5099,1,delightful,Ravenna
+5100,1,fully,Ravenna
+5101,1,roost,Ravenna
+5102,1,stylish,Ravenna
+5103,1,lake,Ravenna
+5104,1,guests,Ravenna
+5105,1,enjoy,Ravenna
+5106,1,farmstay,Ravenna
+5107,8,seattle,Riverview
+5108,6,west,Riverview
+5109,4,home,Riverview
+5110,3,house,Riverview
+5111,3,private,Riverview
+5112,3,studio,Riverview
+5113,3,apartment,Riverview
+5114,2,hideaway,Riverview
+5115,2,maxs,Riverview
+5116,2,guest,Riverview
+5117,2,charming,Riverview
+5118,2,quiet,Riverview
+5119,1,windows,Riverview
+5120,1,light,Riverview
+5121,1,story,Riverview
+5122,1,little,Riverview
+5123,9,home,Portage Bay
+5124,5,apartment,Portage Bay
+5125,4,bedroom,Portage Bay
+5126,3,bay,Portage Bay
+5127,3,cozy,Portage Bay
+5128,3,views,Portage Bay
+5129,2,elegant,Portage Bay
+5130,2,seattle,Portage Bay
+5131,2,centrally,Portage Bay
+5132,2,portage,Portage Bay
+5133,2,modern,Portage Bay
+5134,2,beautiful,Portage Bay
+5135,2,square,Portage Bay
+5136,2,view,Portage Bay
+5137,2,bed,Portage Bay
+5138,2,foot,Portage Bay
+5139,2,located,Portage Bay
+5140,2,private,Portage Bay
+5141,2,unit,Portage Bay
+5142,2,remodeled,Portage Bay
+5143,2,wi,Portage Bay
+5144,2,light,Portage Bay
+5145,2,listing,Portage Bay
+5146,2,eastlake,Portage Bay
+5147,2,craftsman,Portage Bay
+5148,2,spacious,Portage Bay
+5149,1,basement,Portage Bay
+5150,1,historic,Portage Bay
+5151,18,uw,Bryant
+5152,13,near,Bryant
+5153,11,childrens,Bryant
+5154,10,home,Bryant
+5155,8,cozy,Bryant
+5156,7,seattle,Bryant
+5157,7,private,Bryant
+5158,5,hosp,Bryant
+5159,5,house,Bryant
+5160,5,located,Bryant
+5161,5,charming,Bryant
+5162,5,university,Bryant
+5163,4,great,Bryant
+5164,4,quiet,Bryant
+5165,4,apt,Bryant
+5166,3,close,Bryant
+5167,3,lovely,Bryant
+5168,3,loft,Bryant
+5169,3,br,Bryant
+5170,3,bryant,Bryant
+5171,2,within,Bryant
+5172,2,bedroom,Bryant
+5173,2,city,Bryant
+5174,2,spacious,Bryant
+5175,2,hospital,Bryant
+5176,2,walking,Bryant
+5177,2,locatio,Bryant
+5178,2,campus,Bryant
+5179,2,distance,Bryant
+5180,2,retreat,Bryant
+5181,2,miles,Bryant
+5182,2,cute,Bryant
+5183,2,tudor,Bryant
+5184,2,cottage,Bryant
+5185,2,called,Bryant
+5186,2,bungalow,Bryant
+5187,2,beautiful,Bryant
+5188,2,ne,Bryant
+5189,1,level,Bryant
+5190,1,fully,Bryant
+5191,1,inviting,Bryant
+5192,1,stay,Bryant
+5193,1,uwchildrens,Bryant
+5194,1,large,Bryant
+5195,1,renovated,Bryant
+5196,1,din,Bryant
+5197,1,bryantuw,Bryant
+5198,1,north,Bryant
+5199,1,stylish,Bryant
+5200,1,clean,Bryant
+5201,1,ft,Bryant
+5202,1,view,Bryant
+5203,1,upper,Bryant
+5204,1,neighborhood,Bryant
+5205,1,ba,Bryant
+5206,1,seattles,Bryant
+5207,1,enjoy,Bryant
+5208,1,daylight,Bryant
+5209,9,hill,Montlake
+5210,8,capitol,Montlake
+5211,7,private,Montlake
+5212,6,studio,Montlake
+5213,6,home,Montlake
+5214,5,montlake,Montlake
+5215,4,quiet,Montlake
+5216,4,spacious,Montlake
+5217,4,uw,Montlake
+5218,4,bedroom,Montlake
+5219,3,location,Montlake
+5220,3,unit,Montlake
+5221,3,great,Montlake
+5222,3,queen,Montlake
+5223,3,seattle,Montlake
+5224,3,guest,Montlake
+5225,3,house,Montlake
+5226,2,city,Montlake
+5227,2,large,Montlake
+5228,2,enjoy,Montlake
+5229,2,bed,Montlake
+5230,2,one,Montlake
+5231,2,inlaw,Montlake
+5232,2,lo,Montlake
+5233,2,district,Montlake
+5234,2,north,Montlake
+5235,2,separate,Montlake
+5236,2,lovely,Montlake
+5237,2,near,Montlake
+5238,2,cozy,Montlake
+5239,2,close,Montlake
+5240,2,northwest,Montlake
+5241,2,comfortable,Montlake
+5242,1,minimum,Montlake
+5243,1,lower,Montlake
+5244,1,pleasant,Montlake
+5245,1,description,Montlake
+5246,1,views,Montlake
+5247,39,hill,Broadway
+5248,34,capitol,Broadway
+5249,27,apartment,Broadway
+5250,19,studio,Broadway
+5251,16,heart,Broadway
+5252,12,bedroom,Broadway
+5253,9,private,Broadway
+5254,9,seattle,Broadway
+5255,8,spacious,Broadway
+5256,7,cap,Broadway
+5257,7,beautiful,Broadway
+5258,7,cozy,Broadway
+5259,6,br,Broadway
+5260,6,home,Broadway
+5261,6,located,Broadway
+5262,5,new,Broadway
+5263,5,apt,Broadway
+5264,4,location,Broadway
+5265,4,capital,Broadway
+5266,4,view,Broadway
+5267,4,enjoy,Broadway
+5268,4,charming,Broadway
+5269,4,bright,Broadway
+5270,4,clean,Broadway
+5271,4,urban,Broadway
+5272,4,vacation,Broadway
+5273,3,gorgeous,Broadway
+5274,3,historic,Broadway
+5275,3,retro,Broadway
+5276,3,duplex,Broadway
+5277,3,broadway,Broadway
+5278,3,lovely,Broadway
+5279,3,quiet,Broadway
+5280,3,modern,Broadway
+5281,3,floor,Broadway
+5282,3,kitchen,Broadway
+5283,3,everything,Broadway
+5284,3,sunny,Broadway
+5285,3,house,Broadway
+5286,3,walkable,Broadway
+5287,3,unit,Broadway
+5288,3,top,Broadway
+5289,3,stay,Broadway
+5290,3,condo,Broadway
+5291,2,tiny,Broadway
+5292,2,penthouse,Broadway
+5293,2,bath,Broadway
+5294,2,live,Broadway
+5295,2,city,Broadway
+5296,2,great,Broadway
+5297,2,close,Broadway
+5298,2,rental,Broadway
+5299,2,townhouse,Broadway
+5300,2,maple,Broadway
+5301,2,micro,Broadway
+5302,2,one,Broadway
+5303,2,garden,Broadway
+5304,2,centrally,Broadway
+5305,2,stylish,Broadway
+5306,2,style,Broadway
+5307,2,furnished,Broadway
+5308,2,renovated,Broadway
+5309,2,lake,Broadway
+5310,2,oasis,Broadway
+5311,2,seattles,Broadway
+5312,2,full,Broadway
+5313,2,blocks,Broadway
+5314,2,retreat,Broadway
+5315,2,neighborhood,Broadway
+5316,2,cute,Broadway
+5317,2,awesome,Broadway
+5318,2,io,Broadway
+5319,2,youre,Broadway
+5320,2,huge,Broadway
+5321,2,sq,Broadway
+5322,2,bed,Broadway
+5323,2,getaway,Broadway
+5324,2,building,Broadway
+5325,2,eastlake,Broadway
+5326,1,university,Broadway
+5327,1,old,Broadway
+5328,1,prime,Broadway
+5329,1,carpenter,Broadway
+5330,1,alex,Broadway
+5331,1,luxurious,Broadway
+5332,1,gem,Broadway
+5333,1,level,Broadway
+5334,1,yo,Broadway
+5335,1,generous,Broadway
+5336,1,look,Broadway
+5337,1,traditiona,Broadway
+5338,1,artsy,Broadway
+5339,1,historica,Broadway
+5340,1,basement,Broadway
+5341,1,bean,Broadway
+5342,1,co,Broadway
+5343,1,choice,Broadway
+5344,1,sf,Broadway
+5345,1,score,Broadway
+5346,1,ft,Broadway
+5347,1,safe,Broadway
+5348,1,apartm,Broadway
+5349,1,comfortable,Broadway
+5350,1,maximum,Broadway
+5351,1,hil,Broadway
+5352,1,nest,Broadway
+5353,1,fully,Broadway
+5354,1,description,Broadway
+5355,1,come,Broadway
+5356,1,feet,Broadway
+5357,1,space,Broadway
+5358,1,welcoming,Broadway
+5359,1,daughter,Broadway
+5360,1,perfect,Broadway
+5361,1,yet,Broadway
+5362,1,abo,Broadway
+5363,1,chair,Broadway
+5364,1,tudor,Broadway
+5365,1,world,Broadway
+5366,1,century,Broadway
+5367,1,contemporary,Broadway
+5368,1,neigh,Broadway
+5369,1,awa,Broadway
+5370,1,furniture,Broadway
+5371,1,deluxe,Broadway
+5372,1,mid,Broadway
+5373,1,exploring,Broadway
+5374,1,hello,Broadway
+5375,1,classic,Broadway
+5376,1,distance,Broadway
+5377,1,mil,Broadway
+5378,1,window,Broadway
+5379,1,stays,Broadway
+5380,1,cultural,Broadway
+5381,1,downtown,Broadway
+5382,1,pocket,Broadway
+5383,1,charm,Broadway
+5384,1,daylight,Broadway
+5385,1,queen,Broadway
+5386,1,unbeatable,Broadway
+5387,1,views,Broadway
+5388,1,spectacular,Broadway
+5389,1,extremely,Broadway
+5390,1,coolest,Broadway
+5391,1,access,Broadway
+5392,1,amazi,Broadway
+5393,1,hillseattle,Broadway
+5394,1,upd,Broadway
+5395,1,itinerant,Broadway
+5396,1,th,Broadway
+5397,1,center,Broadway
+5398,1,away,Broadway
+5399,1,hiil,Broadway
+5400,1,easy,Broadway
+5401,1,lightfilled,Broadway
+5402,1,slu,Broadway
+5403,1,shortterm,Broadway
+5404,1,simple,Broadway
+5405,1,caphill,Broadway
+5406,1,childrens,Broadway
+5407,1,fantastic,Broadway
+5408,1,se,Broadway
+5409,1,hous,Broadway
+5410,1,bldg,Broadway
+5411,1,hippest,Broadway
+5412,1,luxury,Broadway
+5413,1,sunroom,Broadway
+5414,1,quietgreat,Broadway
+5415,1,near,Broadway
+5416,1,funky,Broadway
+5417,1,anywhere,Broadway
+5418,1,hilldowntown,Broadway
+5419,1,bdrm,Broadway
+5420,1,bedrm,Broadway
+5421,1,fun,Broadway
+5422,1,camp,Broadway
+5423,1,olde,Broadway
+5424,1,staying,Broadway
+5425,1,apar,Broadway
+5426,1,separ,Broadway
+5427,1,loft,Broadway
+5428,1,fl,Broadway
+5429,1,union,Broadway
+5430,1,like,Broadway
+5431,1,right,Broadway
+5432,1,thi,Broadway
+5433,1,gre,Broadway
+5434,1,secure,Broadway
+5435,1,overloo,Broadway
+5436,1,adult,Broadway
+5437,1,cottage,Broadway
+5438,1,super,Broadway
+5439,1,could,Broadway
+5440,1,lux,Broadway
+5441,1,ne,Broadway
+5442,1,neig,Broadway
+5443,1,built,Broadway
+5444,1,hammock,Broadway
+5445,1,efficient,Broadway
+5446,1,airbnb,Broadway
+5447,1,corner,Broadway
+5448,1,minutes,Broadway
+5449,1,trendy,Broadway
+5450,1,balcony,Broadway
+5451,1,falcons,Broadway
+5452,1,destination,Broadway
+5453,1,hom,Broadway
+5454,1,brick,Broadway
+5455,1,pikepine,Broadway
+5456,1,amenityfilled,Broadway
+5457,1,capito,Broadway
+5458,1,setting,Broadway
+5459,1,provides,Broadway
+5460,1,epic,Broadway
+5461,1,central,Broadway
+5462,1,hea,Broadway
+5463,1,bag,Broadway
+5464,1,rare,Broadway
+5465,1,looking,Broadway
+5466,1,neighborhoo,Broadway
+5467,1,vi,Broadway
+5468,1,pillowtop,Broadway
+5469,1,middle,Broadway
+5470,1,base,Broadway
+5471,1,courtyard,Broadway
+5472,1,walking,Broadway
+5473,1,build,Broadway
+5474,1,shared,Broadway
+5475,1,walk,Broadway
+5476,1,sized,Broadway
+5477,1,couch,Broadway
+5478,1,large,Broadway
+5479,47,ballard,Loyal Heights
+5480,21,private,Loyal Heights
+5481,20,home,Loyal Heights
+5482,14,bedroom,Loyal Heights
+5483,12,house,Loyal Heights
+5484,8,cozy,Loyal Heights
+5485,7,located,Loyal Heights
+5486,6,craftsman,Loyal Heights
+5487,6,one,Loyal Heights
+5488,6,apartment,Loyal Heights
+5489,5,seattle,Loyal Heights
+5490,5,studio,Loyal Heights
+5491,5,beautiful,Loyal Heights
+5492,5,basement,Loyal Heights
+5493,5,sunny,Loyal Heights
+5494,5,bungalow,Loyal Heights
+5495,5,bright,Loyal Heights
+5496,4,large,Loyal Heights
+5497,4,charming,Loyal Heights
+5498,4,walk,Loyal Heights
+5499,4,upstairs,Loyal Heights
+5500,4,bed,Loyal Heights
+5501,3,lovely,Loyal Heights
+5502,3,floor,Loyal Heights
+5503,3,bath,Loyal Heights
+5504,3,comfortable,Loyal Heights
+5505,3,cottage,Loyal Heights
+5506,3,new,Loyal Heights
+5507,3,rooms,Loyal Heights
+5508,3,suite,Loyal Heights
+5509,3,two,Loyal Heights
+5510,3,enjoy,Loyal Heights
+5511,3,spacious,Loyal Heights
+5512,3,neighborhood,Loyal Heights
+5513,3,cute,Loyal Heights
+5514,2,apt,Loyal Heights
+5515,2,buses,Loyal Heights
+5516,2,minute,Loyal Heights
+5517,2,updated,Loyal Heights
+5518,2,farmlike,Loyal Heights
+5519,2,townhouse,Loyal Heights
+5520,2,renovated,Loyal Heights
+5521,2,tiny,Loyal Heights
+5522,2,entire,Loyal Heights
+5523,2,quiet,Loyal Heights
+5524,2,space,Loyal Heights
+5525,2,lots,Loyal Heights
+5526,2,travelers,Loyal Heights
+5527,2,score,Loyal Heights
+5528,2,heart,Loyal Heights
+5529,2,light,Loyal Heights
+5530,2,guest,Loyal Heights
+5531,2,tub,Loyal Heights
+5532,2,great,Loyal Heights
+5533,2,flat,Loyal Heights
+5534,2,beach,Loyal Heights
+5535,2,available,Loyal Heights
+5536,2,ft,Loyal Heights
+5537,2,rent,Loyal Heights
+5538,2,near,Loyal Heights
+5539,2,salmon,Loyal Heights
+5540,2,urban,Loyal Heights
+5541,2,filled,Loyal Heights
+5542,2,hot,Loyal Heights
+5543,2,bridge,Loyal Heights
+5544,2,entry,Loyal Heights
+5545,2,north,Loyal Heights
+5546,2,deluxe,Loyal Heights
+5547,2,backyard,Loyal Heights
+5548,1,christmasballard,Loyal Heights
+5549,1,lofts,Loyal Heights
+5550,1,charm,Loyal Heights
+5551,1,daylight,Loyal Heights
+5552,1,sofa,Loyal Heights
+5553,1,ballardish,Loyal Heights
+5554,1,qui,Loyal Heights
+5555,1,built,Loyal Heights
+5556,1,stylish,Loyal Heights
+5557,1,separate,Loyal Heights
+5558,1,glam,Loyal Heights
+5559,1,description,Loyal Heights
+5560,1,right,Loyal Heights
+5561,1,ligh,Loyal Heights
+5562,1,beautifully,Loyal Heights
+5563,1,second,Loyal Heights
+5564,1,three,Loyal Heights
+5565,1,airconditioned,Loyal Heights
+5566,1,grand,Loyal Heights
+5567,1,staying,Loyal Heights
+5568,1,motherinlaw,Loyal Heights
+5569,1,retreat,Loyal Heights
+5570,1,su,Loyal Heights
+5571,1,loyal,Loyal Heights
+5572,1,place,Loyal Heights
+5573,1,youll,Loyal Heights
+5574,1,perfect,Loyal Heights
+5575,1,ballardwa,Loyal Heights
+5576,1,windows,Loyal Heights
+5577,1,go,Loyal Heights
+5578,1,green,Loyal Heights
+5579,1,small,Loyal Heights
+5580,1,whole,Loyal Heights
+5581,1,convenience,Loyal Heights
+5582,1,queen,Loyal Heights
+5583,5,private,Victory Heights
+5584,5,north,Victory Heights
+5585,4,secluded,Victory Heights
+5586,4,cozy,Victory Heights
+5587,4,seattle,Victory Heights
+5588,3,house,Victory Heights
+5589,3,spacious,Victory Heights
+5590,2,se,Victory Heights
+5591,2,setting,Victory Heights
+5592,2,offer,Victory Heights
+5593,2,home,Victory Heights
+5594,2,two,Victory Heights
+5595,2,cabin,Victory Heights
+5596,2,garden,Victory Heights
+5597,2,near,Victory Heights
+5598,2,bedroom,Victory Heights
+5599,2,bath,Victory Heights
+5600,2,natural,Victory Heights
+5601,2,rooms,Victory Heights
+5602,2,studio,Victory Heights
+5603,2,condo,Victory Heights
+5604,2,city,Victory Heights
+5605,1,opens,Victory Heights
+5606,1,awake,Victory Heights
+5607,1,finished,Victory Heights
+5608,1,steinway,Victory Heights
+5609,1,cottage,Victory Heights
+5610,1,professionals,Victory Heights
+5611,1,morning,Victory Heights
+5612,1,large,Victory Heights
+5613,9,house,Matthews Beach
+5614,8,lake,Matthews Beach
+5615,6,quiet,Matthews Beach
+5616,6,beach,Matthews Beach
+5617,6,seattle,Matthews Beach
+5618,5,private,Matthews Beach
+5619,4,charming,Matthews Beach
+5620,4,mathews,Matthews Beach
+5621,4,home,Matthews Beach
+5622,4,apartment,Matthews Beach
+5623,3,comfortable,Matthews Beach
+5624,3,peaceful,Matthews Beach
+5625,3,spacious,Matthews Beach
+5626,3,suite,Matthews Beach
+5627,3,bedroom,Matthews Beach
+5628,3,near,Matthews Beach
+5629,2,new,Matthews Beach
+5630,2,mother,Matthews Beach
+5631,2,cottage,Matthews Beach
+5632,2,sunny,Matthews Beach
+5633,2,availabl,Matthews Beach
+5634,2,next,Matthews Beach
+5635,2,guest,Matthews Beach
+5636,2,view,Matthews Beach
+5637,2,matthews,Matthews Beach
+5638,2,architectural,Matthews Beach
+5639,2,ne,Matthews Beach
+5640,2,cozy,Matthews Beach
+5641,2,kitchen,Matthews Beach
+5642,2,wa,Matthews Beach
+5643,2,mil,Matthews Beach
+5644,2,serene,Matthews Beach
+5645,1,beautiful,Matthews Beach
+5646,1,master,Matthews Beach
+5647,1,aptby,Matthews Beach
+5648,1,law,Matthews Beach
+5649,1,shy,Matthews Beach
+5650,1,bright,Matthews Beach
+5651,20,ballard,Whittier Heights
+5652,8,modern,Whittier Heights
+5653,6,home,Whittier Heights
+5654,6,cozy,Whittier Heights
+5655,5,house,Whittier Heights
+5656,5,large,Whittier Heights
+5657,5,bed,Whittier Heights
+5658,4,bath,Whittier Heights
+5659,4,private,Whittier Heights
+5660,4,cottage,Whittier Heights
+5661,4,townhouse,Whittier Heights
+5662,4,apartment,Whittier Heights
+5663,4,basement,Whittier Heights
+5664,4,beautiful,Whittier Heights
+5665,3,new,Whittier Heights
+5666,3,comfortable,Whittier Heights
+5667,3,stay,Whittier Heights
+5668,3,loft,Whittier Heights
+5669,3,bedroom,Whittier Heights
+5670,3,friendly,Whittier Heights
+5671,3,mil,Whittier Heights
+5672,3,apt,Whittier Heights
+5673,3,craftsman,Whittier Heights
+5674,2,enjoy,Whittier Heights
+5675,2,suite,Whittier Heights
+5676,2,vintage,Whittier Heights
+5677,2,construction,Whittier Heights
+5678,2,daylight,Whittier Heights
+5679,2,sunny,Whittier Heights
+5680,2,charming,Whittier Heights
+5681,2,ensuite,Whittier Heights
+5682,2,motherinlaw,Whittier Heights
+5683,2,backyard,Whittier Heights
+5684,2,open,Whittier Heights
+5685,2,come,Whittier Heights
+5686,2,great,Whittier Heights
+5687,2,bright,Whittier Heights
+5688,2,furnished,Whittier Heights
+5689,2,design,Whittier Heights
+5690,2,newly,Whittier Heights
+5691,2,guest,Whittier Heights
+5692,2,renovated,Whittier Heights
+5693,1,little,Whittier Heights
+5694,1,quaint,Whittier Heights
+5695,1,delighted,Whittier Heights
+5696,1,every,Whittier Heights
+5697,1,desirable,Whittier Heights
+5698,1,size,Whittier Heights
+5699,1,several,Whittier Heights
+5700,1,thoroughfare,Whittier Heights
+5701,1,desk,Whittier Heights
+5702,1,location,Whittier Heights
+5703,3,house,Meadowbrook
+5704,3,home,Meadowbrook
+5705,3,tiny,Meadowbrook
+5706,3,retreat,Meadowbrook
+5707,2,seattle,Meadowbrook
+5708,2,beautiful,Meadowbrook
+5709,2,urban,Meadowbrook
+5710,2,abode,Meadowbrook
+5711,2,artists,Meadowbrook
+5712,2,private,Meadowbrook
+5713,2,meadowbrook,Meadowbrook
+5714,2,located,Meadowbrook
+5715,1,outdoor,Meadowbrook
+5716,1,guest,Meadowbrook
+5717,1,living,Meadowbrook
+5718,1,perfect,Meadowbrook
+5719,1,peace,Meadowbrook
+5720,1,large,Meadowbrook
+5721,8,seattle,Olympic Hills
+5722,7,bedroom,Olympic Hills
+5723,6,home,Olympic Hills
+5724,4,cozy,Olympic Hills
+5725,3,north,Olympic Hills
+5726,3,bed,Olympic Hills
+5727,3,single,Olympic Hills
+5728,3,one,Olympic Hills
+5729,3,private,Olympic Hills
+5730,3,simple,Olympic Hills
+5731,3,family,Olympic Hills
+5732,2,garden,Olympic Hills
+5733,2,comfy,Olympic Hills
+5734,2,spacious,Olympic Hills
+5735,2,comfortable,Olympic Hills
+5736,2,small,Olympic Hills
+5737,2,sunny,Olympic Hills
+5738,2,welcoming,Olympic Hills
+5739,2,guest,Olympic Hills
+5740,2,apt,Olympic Hills
+5741,2,queen,Olympic Hills
+5742,1,sweet,Olympic Hills
+5743,1,relax,Olympic Hills
+5744,1,spare,Olympic Hills
+5745,1,yet,Olympic Hills
+5746,1,clean,Olympic Hills
+5747,1,treehouse,Olympic Hills
+5748,1,ap,Olympic Hills
+5749,1,mother,Olympic Hills
+5750,1,charming,Olympic Hills
+5751,1,drenched,Olympic Hills
+5752,1,great,Olympic Hills
+5753,11,apartment,Roosevelt
+5754,8,bedroom,Roosevelt
+5755,7,home,Roosevelt
+5756,6,cozy,Roosevelt
+5757,6,roosevelt,Roosevelt
+5758,6,basement,Roosevelt
+5759,5,private,Roosevelt
+5760,5,charming,Roosevelt
+5761,5,spacious,Roosevelt
+5762,4,house,Roosevelt
+5763,4,studio,Roosevelt
+5764,3,greenlake,Roosevelt
+5765,3,beautiful,Roosevelt
+5766,3,suite,Roosevelt
+5767,3,seattle,Roosevelt
+5768,3,bathroom,Roosevelt
+5769,3,near,Roosevelt
+5770,3,newly,Roosevelt
+5771,3,craftsman,Roosevelt
+5772,3,leaf,Roosevelt
+5773,3,master,Roosevelt
+5774,3,floor,Roosevelt
+5775,2,separate,Roosevelt
+5776,2,two,Roosevelt
+5777,2,great,Roosevelt
+5778,2,spot,Roosevelt
+5779,2,stay,Roosevelt
+5780,2,rooms,Roosevelt
+5781,2,one,Roosevelt
+5782,2,unit,Roosevelt
+5783,2,adjoining,Roosevelt
+5784,2,uw,Roosevelt
+5785,2,bed,Roosevelt
+5786,2,maple,Roosevelt
+5787,2,lake,Roosevelt
+5788,2,workroomstudio,Roosevelt
+5789,2,green,Roosevelt
+5790,2,comfortable,Roosevelt
+5791,2,modern,Roosevelt
+5792,2,third,Roosevelt
+5793,2,sunny,Roosevelt
+5794,1,ravennagreenlakeudistrict,Roosevelt
+5795,1,away,Roosevelt
+5796,1,luxu,Roosevelt
+5797,1,closet,Roosevelt
+5798,1,heres,Roosevelt
+5799,1,walking,Roosevelt
+5800,1,sunrise,Roosevelt
+5801,1,new,Roosevelt
+5802,1,passion,Roosevelt
+5803,1,cute,Roosevelt
+5804,1,living,Roosevelt
+5805,1,couch,Roosevelt
+5806,1,travelers,Roosevelt
+5807,1,welcomes,Roosevelt
+5808,1,year,Roosevelt
+5809,1,contemporary,Roosevelt
+5810,1,stroll,Roosevelt
+5811,1,get,Roosevelt
+5812,1,colorful,Roosevelt
+5813,25,queen,Lower Queen Anne
+5814,22,anne,Lower Queen Anne
+5815,17,space,Lower Queen Anne
+5816,17,needle,Lower Queen Anne
+5817,16,bedroom,Lower Queen Anne
+5818,15,seattle,Lower Queen Anne
+5819,14,apartment,Lower Queen Anne
+5820,10,location,Lower Queen Anne
+5821,10,studio,Lower Queen Anne
+5822,10,center,Lower Queen Anne
+5823,10,view,Lower Queen Anne
+5824,10,lower,Lower Queen Anne
+5825,9,located,Lower Queen Anne
+5826,9,condo,Lower Queen Anne
+5827,8,cozy,Lower Queen Anne
+5828,8,one,Lower Queen Anne
+5829,8,heart,Lower Queen Anne
+5830,7,beautiful,Lower Queen Anne
+5831,7,private,Lower Queen Anne
+5832,7,apt,Lower Queen Anne
+5833,6,great,Lower Queen Anne
+5834,6,modern,Lower Queen Anne
+5835,6,spacious,Lower Queen Anne
+5836,6,near,Lower Queen Anne
+5837,5,next,Lower Queen Anne
+5838,5,downtown,Lower Queen Anne
+5839,5,new,Lower Queen Anne
+5840,5,walking,Lower Queen Anne
+5841,5,city,Lower Queen Anne
+5842,5,bath,Lower Queen Anne
+5843,5,large,Lower Queen Anne
+5844,4,top,Lower Queen Anne
+5845,4,floor,Lower Queen Anne
+5846,4,home,Lower Queen Anne
+5847,4,seattles,Lower Queen Anne
+5848,4,neighborhood,Lower Queen Anne
+5849,4,right,Lower Queen Anne
+5850,3,sq,Lower Queen Anne
+5851,3,block,Lower Queen Anne
+5852,3,bed,Lower Queen Anne
+5853,3,newly,Lower Queen Anne
+5854,3,bright,Lower Queen Anne
+5855,3,brand,Lower Queen Anne
+5856,3,amazing,Lower Queen Anne
+5857,3,suite,Lower Queen Anne
+5858,3,distance,Lower Queen Anne
+5859,2,uptown,Lower Queen Anne
+5860,2,loft,Lower Queen Anne
+5861,2,steps,Lower Queen Anne
+5862,2,renovated,Lower Queen Anne
+5863,2,renting,Lower Queen Anne
+5864,2,super,Lower Queen Anne
+5865,2,br,Lower Queen Anne
+5866,2,hi,Lower Queen Anne
+5867,2,bd,Lower Queen Anne
+5868,2,centrally,Lower Queen Anne
+5869,2,hill,Lower Queen Anne
+5870,2,house,Lower Queen Anne
+5871,2,within,Lower Queen Anne
+5872,2,cute,Lower Queen Anne
+5873,2,love,Lower Queen Anne
+5874,2,master,Lower Queen Anne
+5875,2,walk,Lower Queen Anne
+5876,2,ensuite,Lower Queen Anne
+5877,2,close,Lower Queen Anne
+5878,2,roomy,Lower Queen Anne
+5879,2,vista,Lower Queen Anne
+5880,2,wake,Lower Queen Anne
+5881,2,century,Lower Queen Anne
+5882,2,puget,Lower Queen Anne
+5883,2,bdrm,Lower Queen Anne
+5884,2,arena,Lower Queen Anne
+5885,2,key,Lower Queen Anne
+5886,2,urban,Lower Queen Anne
+5887,2,clean,Lower Queen Anne
+5888,2,mid,Lower Queen Anne
+5889,2,historic,Lower Queen Anne
+5890,2,classic,Lower Queen Anne
+5891,1,masterbedbath,Lower Queen Anne
+5892,1,wlks,Lower Queen Anne
+5893,1,dista,Lower Queen Anne
+5894,1,floors,Lower Queen Anne
+5895,1,prime,Lower Queen Anne
+5896,1,welcome,Lower Queen Anne
+5897,1,quirks,Lower Queen Anne
+5898,1,entire,Lower Queen Anne
+5899,1,foot,Lower Queen Anne
+5900,1,west,Lower Queen Anne
+5901,1,morning,Lower Queen Anne
+5902,1,come,Lower Queen Anne
+5903,1,best,Lower Queen Anne
+5904,1,description,Lower Queen Anne
+5905,1,airbnb,Lower Queen Anne
+5906,1,world,Lower Queen Anne
+5907,1,inviting,Lower Queen Anne
+5908,1,lux,Lower Queen Anne
+5909,1,fully,Lower Queen Anne
+5910,1,sights,Lower Queen Anne
+5911,1,away,Lower Queen Anne
+5912,1,slope,Lower Queen Anne
+5913,1,needledwntwn,Lower Queen Anne
+5914,1,wgreat,Lower Queen Anne
+5915,1,refuge,Lower Queen Anne
+5916,1,deck,Lower Queen Anne
+5917,1,di,Lower Queen Anne
+5918,1,roombath,Lower Queen Anne
+5919,1,bottom,Lower Queen Anne
+5920,1,townhome,Lower Queen Anne
+5921,1,coffee,Lower Queen Anne
+5922,1,enjoy,Lower Queen Anne
+5923,1,garden,Lower Queen Anne
+5924,1,card,Lower Queen Anne
+5925,1,half,Lower Queen Anne
+5926,1,hardwood,Lower Queen Anne
+5927,1,window,Lower Queen Anne
+5928,1,wes,Lower Queen Anne
+5929,1,sparkling,Lower Queen Anne
+5930,1,airstream,Lower Queen Anne
+5931,1,perfect,Lower Queen Anne
+5932,1,excit,Lower Queen Anne
+5933,1,famous,Lower Queen Anne
+5934,1,special,Lower Queen Anne
+5935,1,midsized,Lower Queen Anne
+5936,1,annes,Lower Queen Anne
+5937,1,situated,Lower Queen Anne
+5938,1,rooftop,Lower Queen Anne
+5939,1,lo,Lower Queen Anne
+5940,1,small,Lower Queen Anne
+5941,1,st,Lower Queen Anne
+5942,1,si,Lower Queen Anne
+5943,1,refreshed,Lower Queen Anne
+5944,1,flat,Lower Queen Anne
+5945,1,age,Lower Queen Anne
+5946,1,comfortable,Lower Queen Anne
+5947,1,balcony,Lower Queen Anne
+5948,1,note,Lower Queen Anne
+5949,1,ava,Lower Queen Anne
+5950,1,minutes,Lower Queen Anne
+5951,1,chic,Lower Queen Anne
+5952,1,ba,Lower Queen Anne
+5953,1,ceilings,Lower Queen Anne
+5954,1,middle,Lower Queen Anne
+5955,1,high,Lower Queen Anne
+5956,1,waterfrontspace,Lower Queen Anne
+5957,1,mind,Lower Queen Anne
+5958,1,vi,Lower Queen Anne
+5959,1,sought,Lower Queen Anne
+5960,1,meet,Lower Queen Anne
+5961,1,style,Lower Queen Anne
+5962,1,comforts,Lower Queen Anne
+5963,1,old,Lower Queen Anne
+5964,1,victorian,Lower Queen Anne
+5965,1,redressed,Lower Queen Anne
+5966,1,landscaped,Lower Queen Anne
+5967,1,sqft,Lower Queen Anne
+5968,1,min,Lower Queen Anne
+5969,1,inquire,Lower Queen Anne
+5970,1,queenanne,Lower Queen Anne
+5971,1,fe,Lower Queen Anne
+5972,1,heres,Lower Queen Anne
+5973,1,sized,Lower Queen Anne
+5974,1,entry,Lower Queen Anne
+5975,1,superclean,Lower Queen Anne
+5976,1,available,Lower Queen Anne
+5977,1,ocean,Lower Queen Anne
+5978,1,everyt,Lower Queen Anne
+5979,1,restaurant,Lower Queen Anne
+5980,1,charm,Lower Queen Anne
+5981,1,pla,Lower Queen Anne
+5982,1,chance,Lower Queen Anne
+5983,1,getting,Lower Queen Anne
+5984,1,ft,Lower Queen Anne
+5985,1,accommoda,Lower Queen Anne
+5986,1,many,Lower Queen Anne
+5987,1,eleva,Lower Queen Anne
+5988,1,luxury,Lower Queen Anne
+5989,1,pad,Lower Queen Anne
+5990,1,mile,Lower Queen Anne
+5991,1,bella,Lower Queen Anne
+5992,1,que,Lower Queen Anne
+5993,1,prices,Lower Queen Anne
+5994,1,bdfull,Lower Queen Anne
+5995,1,feet,Lower Queen Anne
+5996,1,sweet,Lower Queen Anne
+5997,1,extra,Lower Queen Anne
+5998,1,dont,Lower Queen Anne
+5999,1,industrial,Lower Queen Anne
+6000,1,patio,Lower Queen Anne
+6001,9,house,Wedgwood
+6002,6,seattle,Wedgwood
+6003,6,bedroom,Wedgwood
+6004,5,maple,Wedgwood
+6005,5,private,Wedgwood
+6006,5,creek,Wedgwood
+6007,5,home,Wedgwood
+6008,4,artistic,Wedgwood
+6009,4,cozy,Wedgwood
+6010,3,bungalow,Wedgwood
+6011,3,large,Wedgwood
+6012,3,tranquil,Wedgwood
+6013,2,bath,Wedgwood
+6014,2,sunny,Wedgwood
+6015,2,beautiful,Wedgwood
+6016,2,clean,Wedgwood
+6017,2,wedgwood,Wedgwood
+6018,2,bed,Wedgwood
+6019,2,northwest,Wedgwood
+6020,2,floor,Wedgwood
+6021,2,comfortable,Wedgwood
+6022,2,quite,Wedgwood
+6023,2,studio,Wedgwood
+6024,2,townhouse,Wedgwood
+6025,2,rooms,Wedgwood
+6026,2,quiet,Wedgwood
+6027,2,craftsman,Wedgwood
+6028,2,guest,Wedgwood
+6029,2,one,Wedgwood
+6030,2,full,Wedgwood
+6031,2,apartment,Wedgwood
+6032,1,forest,Wedgwood
+6033,1,lovely,Wedgwood
+6034,1,easy,Wedgwood
+6035,1,equipped,Wedgwood
+6036,1,area,Wedgwood
+6037,6,view,North Beach/Blue Ridge
+6038,6,north,North Beach/Blue Ridge
+6039,5,home,North Beach/Blue Ridge
+6040,5,beach,North Beach/Blue Ridge
+6041,4,private,North Beach/Blue Ridge
+6042,4,water,North Beach/Blue Ridge
+6043,4,seattle,North Beach/Blue Ridge
+6044,4,ballard,North Beach/Blue Ridge
+6045,3,bedroom,North Beach/Blue Ridge
+6046,3,backyard,North Beach/Blue Ridge
+6047,3,cottage,North Beach/Blue Ridge
+6048,2,bungalow,North Beach/Blue Ridge
+6049,2,sylvan,North Beach/Blue Ridge
+6050,2,sunny,North Beach/Blue Ridge
+6051,2,blue,North Beach/Blue Ridge
+6052,2,ridge,North Beach/Blue Ridge
+6053,2,views,North Beach/Blue Ridge
+6054,2,bed,North Beach/Blue Ridge
+6055,2,miles,North Beach/Blue Ridge
+6056,2,enjoy,North Beach/Blue Ridge
+6057,2,modern,North Beach/Blue Ridge
+6058,2,charming,North Beach/Blue Ridge
+6059,2,studio,North Beach/Blue Ridge
+6060,2,bath,North Beach/Blue Ridge
+6061,2,setting,North Beach/Blue Ridge
+6062,2,apartment,North Beach/Blue Ridge
+6063,2,offer,North Beach/Blue Ridge
+6064,1,spacious,North Beach/Blue Ridge
+6065,6,seattle,Cedar Park
+6066,5,private,Cedar Park
+6067,4,beautiful,Cedar Park
+6068,4,home,Cedar Park
+6069,3,suite,Cedar Park
+6070,2,enjoy,Cedar Park
+6071,2,lake,Cedar Park
+6072,2,bath,Cedar Park
+6073,2,ne,Cedar Park
+6074,2,condo,Cedar Park
+6075,2,large,Cedar Park
+6076,2,artist,Cedar Park
+6077,2,modern,Cedar Park
+6078,1,neighborhood,Cedar Park
+6079,1,comfortable,Cedar Park
+6080,1,one,Cedar Park
+6081,6,private,Bitter Lake
+6082,5,home,Bitter Lake
+6083,4,greenwood,Bitter Lake
+6084,4,house,Bitter Lake
+6085,3,large,Bitter Lake
+6086,3,seattle,Bitter Lake
+6087,3,apartment,Bitter Lake
+6088,3,bedroom,Bitter Lake
+6089,3,quiet,Bitter Lake
+6090,3,bath,Bitter Lake
+6091,2,bungalow,Bitter Lake
+6092,2,shared,Bitter Lake
+6093,2,bedrooms,Bitter Lake
+6094,2,trees,Bitter Lake
+6095,2,north,Bitter Lake
+6096,2,queen,Bitter Lake
+6097,2,cozy,Bitter Lake
+6098,2,family,Bitter Lake
+6099,2,nice,Bitter Lake
+6100,1,apt,Bitter Lake
+6101,1,tons,Bitter Lake
+6102,1,basement,Bitter Lake
+6103,1,reclaimed,Bitter Lake
+6104,1,visiting,Bitter Lake
+6105,1,rooms,Bitter Lake
+6106,1,charming,Bitter Lake
+6107,11,ballard,Sunset Hill
+6108,10,home,Sunset Hill
+6109,6,private,Sunset Hill
+6110,4,hill,Sunset Hill
+6111,4,apartment,Sunset Hill
+6112,4,sunset,Sunset Hill
+6113,3,view,Sunset Hill
+6114,3,bath,Sunset Hill
+6115,3,garden,Sunset Hill
+6116,3,bed,Sunset Hill
+6117,3,sunny,Sunset Hill
+6118,3,cozy,Sunset Hill
+6119,2,comfort,Sunset Hill
+6120,2,min,Sunset Hill
+6121,2,pa,Sunset Hill
+6122,2,spacious,Sunset Hill
+6123,2,new,Sunset Hill
+6124,2,modern,Sunset Hill
+6125,2,beautiful,Sunset Hill
+6126,2,luxury,Sunset Hill
+6127,2,delightful,Sunset Hill
+6128,2,bedroom,Sunset Hill
+6129,2,studio,Sunset Hill
+6130,2,bright,Sunset Hill
+6131,1,brand,Sunset Hill
+6132,1,contemporary,Sunset Hill
+6133,1,three,Sunset Hill
+6134,1,jus,Sunset Hill
+6135,1,beautif,Sunset Hill
+6136,1,vie,Sunset Hill
+6137,1,dramatic,Sunset Hill
+6138,1,family,Sunset Hill
+6139,1,park,Sunset Hill
+6140,1,thi,Sunset Hill
+6141,1,people,Sunset Hill
+6142,1,hood,Sunset Hill
+6143,5,home,Haller Lake
+6144,4,floor,Haller Lake
+6145,4,spacious,Haller Lake
+6146,4,modern,Haller Lake
+6147,4,townhouse,Haller Lake
+6148,4,near,Haller Lake
+6149,4,seattle,Haller Lake
+6150,4,min,Haller Lake
+6151,3,northgate,Haller Lake
+6152,3,bedroom,Haller Lake
+6153,2,location,Haller Lake
+6154,2,bright,Haller Lake
+6155,2,living,Haller Lake
+6156,2,city,Haller Lake
+6157,2,area,Haller Lake
+6158,2,house,Haller Lake
+6159,2,bd,Haller Lake
+6160,2,large,Haller Lake
+6161,2,main,Haller Lake
+6162,2,cottage,Haller Lake
+6163,2,first,Haller Lake
+6164,2,light,Haller Lake
+6165,2,beautifully,Haller Lake
+6166,2,everything,Haller Lake
+6167,2,great,Haller Lake
+6168,1,remodeled,Haller Lake
+6169,1,lake,Haller Lake
+6170,1,located,Haller Lake
+6171,1,late,Haller Lake
+6172,1,url,Haller Lake
+6173,3,contemporary,Pinehurst
+6174,3,apartment,Pinehurst
+6175,2,seattle,Pinehurst
+6176,2,creekside,Pinehurst
+6177,2,home,Pinehurst
+6178,1,stay,Pinehurst
+6179,1,bright,Pinehurst
+6180,1,town,Pinehurst
+6181,8,house,North College Park
+6182,6,seattle,North College Park
+6183,5,north,North College Park
+6184,5,bedroom,North College Park
+6185,4,open,North College Park
+6186,4,clean,North College Park
+6187,4,quiet,North College Park
+6188,3,new,North College Park
+6189,3,charming,North College Park
+6190,3,suite,North College Park
+6191,3,cozy,North College Park
+6192,3,bed,North College Park
+6193,3,well,North College Park
+6194,3,brand,North College Park
+6195,3,bath,North College Park
+6196,3,private,North College Park
+6197,2,home,North College Park
+6198,2,spacious,North College Park
+6199,2,lovely,North College Park
+6200,2,end,North College Park
+6201,2,lake,North College Park
+6202,2,full,North College Park
+6203,2,green,North College Park
+6204,2,cottage,North College Park
+6205,2,sized,North College Park
+6206,2,condo,North College Park
+6207,2,sunny,North College Park
+6208,1,stay,North College Park
+6209,1,posts,North College Park
+6210,1,greenlake,North College Park
+6211,1,cedar,North College Park
+6212,1,dcor,North College Park
+6213,1,bedrooms,North College Park
+6214,1,wit,North College Park
+6215,1,urban,North College Park
+6216,1,unusual,North College Park
+6217,1,sits,North College Park
+6218,1,deck,North College Park
+6219,30,phinney,Phinney Ridge
+6220,22,ridge,Phinney Ridge
+6221,19,private,Phinney Ridge
+6222,18,home,Phinney Ridge
+6223,13,bedroom,Phinney Ridge
+6224,12,seattle,Phinney Ridge
+6225,12,apartment,Phinney Ridge
+6226,9,craftsman,Phinney Ridge
+6227,8,apt,Phinney Ridge
+6228,7,greenlake,Phinney Ridge
+6229,7,charming,Phinney Ridge
+6230,7,located,Phinney Ridge
+6231,7,quiet,Phinney Ridge
+6232,7,suite,Phinney Ridge
+6233,7,modern,Phinney Ridge
+6234,6,spacious,Phinney Ridge
+6235,6,view,Phinney Ridge
+6236,6,new,Phinney Ridge
+6237,5,neighborhood,Phinney Ridge
+6238,5,large,Phinney Ridge
+6239,5,cottage,Phinney Ridge
+6240,5,green,Phinney Ridge
+6241,4,beautiful,Phinney Ridge
+6242,4,townhouse,Phinney Ridge
+6243,4,sweet,Phinney Ridge
+6244,4,studio,Phinney Ridge
+6245,4,house,Phinney Ridge
+6246,4,cozy,Phinney Ridge
+6247,3,woodland,Phinney Ridge
+6248,3,enjoy,Phinney Ridge
+6249,3,park,Phinney Ridge
+6250,3,bungalow,Phinney Ridge
+6251,3,sq,Phinney Ridge
+6252,3,blocks,Phinney Ridge
+6253,3,classic,Phinney Ridge
+6254,3,renovated,Phinney Ridge
+6255,3,stay,Phinney Ridge
+6256,3,ballard,Phinney Ridge
+6257,3,furnished,Phinney Ridge
+6258,3,walk,Phinney Ridge
+6259,3,newly,Phinney Ridge
+6260,3,location,Phinney Ridge
+6261,3,sunny,Phinney Ridge
+6262,3,lovely,Phinney Ridge
+6263,2,wonderful,Phinney Ridge
+6264,2,lake,Phinney Ridge
+6265,2,top,Phinney Ridge
+6266,2,experience,Phinney Ridge
+6267,2,great,Phinney Ridge
+6268,2,block,Phinney Ridge
+6269,2,another,Phinney Ridge
+6270,2,oasis,Phinney Ridge
+6271,2,retreat,Phinney Ridge
+6272,2,basement,Phinney Ridge
+6273,2,garden,Phinney Ridge
+6274,2,friendly,Phinney Ridge
+6275,2,perfectly,Phinney Ridge
+6276,2,duplex,Phinney Ridge
+6277,2,perfect,Phinney Ridge
+6278,2,bright,Phinney Ridge
+6279,2,level,Phinney Ridge
+6280,2,midcentury,Phinney Ridge
+6281,2,fully,Phinney Ridge
+6282,2,king,Phinney Ridge
+6283,2,away,Phinney Ridge
+6284,2,special,Phinney Ridge
+6285,2,daylight,Phinney Ridge
+6286,2,right,Phinney Ridge
+6287,2,wallingford,Phinney Ridge
+6288,2,immaculate,Phinney Ridge
+6289,2,one,Phinney Ridge
+6290,2,getaway,Phinney Ridge
+6291,2,bed,Phinney Ridge
+6292,2,near,Phinney Ridge
+6293,2,heart,Phinney Ridge
+6294,2,december,Phinney Ridge
+6295,2,city,Phinney Ridge
+6296,2,ft,Phinney Ridge
+6297,2,law,Phinney Ridge
+6298,2,zoo,Phinney Ridge
+6299,2,convenient,Phinney Ridge
+6300,2,brand,Phinney Ridge
+6301,2,mother,Phinney Ridge
+6302,2,bedbath,Phinney Ridge
+6303,1,studioballardphinne,Phinney Ridge
+6304,1,parking,Phinney Ridge
+6305,1,incl,Phinney Ridge
+6306,1,including,Phinney Ridge
+6307,1,many,Phinney Ridge
+6308,1,phinneywood,Phinney Ridge
+6309,1,delightful,Phinney Ridge
+6310,1,welcomed,Phinney Ridge
+6311,1,fraser,Phinney Ridge
+6312,1,artsy,Phinney Ridge
+6313,1,ball,Phinney Ridge
+6314,1,description,Phinney Ridge
+6315,1,largest,Phinney Ridge
+6316,1,separate,Phinney Ridge
+6317,1,east,Phinney Ridge
+6318,1,bal,Phinney Ridge
+6319,1,entry,Phinney Ridge
+6320,1,views,Phinney Ridge
+6321,1,pricing,Phinney Ridge
+6322,1,every,Phinney Ridge
+6323,1,daylit,Phinney Ridge
+6324,1,comfort,Phinney Ridge
+6325,1,elegant,Phinney Ridge
+6326,1,accommodation,Phinney Ridge
+6327,1,easy,Phinney Ridge
+6328,1,ballar,Phinney Ridge
+6329,1,urban,Phinney Ridge
+6330,1,bus,Phinney Ridge
+6331,1,rooftop,Phinney Ridge
+6332,1,mammoth,Phinney Ridge
+6333,1,woodlawn,Phinney Ridge
+6334,1,olympic,Phinney Ridge
+6335,1,upper,Phinney Ridge
+6336,1,cant,Phinney Ridge
+6337,1,pan,Phinney Ridge
+6338,1,openfloorplan,Phinney Ridge
+6339,1,solar,Phinney Ridge
+6340,1,cond,Phinney Ridge
+6341,1,lower,Phinney Ridge
+6342,1,seattles,Phinney Ridge
+6343,1,ste,Phinney Ridge
+6344,1,table,Phinney Ridge
+6345,1,escape,Phinney Ridge
+6346,1,topfloor,Phinney Ridge
+6347,1,su,Phinney Ridge
+6348,1,fr,Phinney Ridge
+6349,1,bike,Phinney Ridge
+6350,1,small,Phinney Ridge
+6351,1,better,Phinney Ridge
+6352,1,light,Phinney Ridge
+6353,1,west,Phinney Ridge
+6354,1,acros,Phinney Ridge
+6355,1,floods,Phinney Ridge
+6356,1,lk,Phinney Ridge
+6357,1,foot,Phinney Ridge
+6358,1,end,Phinney Ridge
+6359,1,desi,Phinney Ridge
+6360,1,cedar,Phinney Ridge
+6361,1,historic,Phinney Ridge
+6362,1,cool,Phinney Ridge
+6363,1,commute,Phinney Ridge
+6364,1,nightly,Phinney Ridge
+6365,4,quiet,Windermere
+6366,4,seattle,Windermere
+6367,3,home,Windermere
+6368,3,uw,Windermere
+6369,2,charming,Windermere
+6370,2,cozy,Windermere
+6371,2,apartment,Windermere
+6372,2,lakefront,Windermere
+6373,2,house,Windermere
+6374,2,easy,Windermere
+6375,2,neighborhood,Windermere
+6376,2,childrens,Windermere
+6377,2,modern,Windermere
+6378,2,near,Windermere
+6379,2,retreat,Windermere
+6380,2,access,Windermere
+6381,2,garden,Windermere
+6382,1,ecofriendly,Windermere
+6383,1,feels,Windermere
+6384,1,situated,Windermere
+6385,8,private,Laurelhurst
+6386,4,spacious,Laurelhurst
+6387,3,uw,Laurelhurst
+6388,3,apartment,Laurelhurst
+6389,3,bathroom,Laurelhurst
+6390,2,hideaway,Laurelhurst
+6391,2,stay,Laurelhurst
+6392,2,sunny,Laurelhurst
+6393,2,bedroom,Laurelhurst
+6394,2,laurelhurst,Laurelhurst
+6395,2,studio,Laurelhurst
+6396,2,living,Laurelhurst
+6397,2,close,Laurelhurst
+6398,2,warm,Laurelhurst
+6399,2,near,Laurelhurst
+6400,1,want,Laurelhurst
+6401,1,large,Laurelhurst
+6402,1,wa,Laurelhurst
+6403,1,space,Laurelhurst
+6404,1,priv,Laurelhurst
+6405,7,modern,Southeast Magnolia
+6406,7,home,Southeast Magnolia
+6407,5,private,Southeast Magnolia
+6408,5,magnolia,Southeast Magnolia
+6409,4,quiet,Southeast Magnolia
+6410,4,located,Southeast Magnolia
+6411,4,studio,Southeast Magnolia
+6412,3,bedroom,Southeast Magnolia
+6413,3,beautiful,Southeast Magnolia
+6414,3,neighborhood,Southeast Magnolia
+6415,2,urban,Southeast Magnolia
+6416,2,apt,Southeast Magnolia
+6417,2,seattle,Southeast Magnolia
+6418,2,views,Southeast Magnolia
+6419,2,enjoy,Southeast Magnolia
+6420,2,view,Southeast Magnolia
+6421,2,near,Southeast Magnolia
+6422,2,bath,Southeast Magnolia
+6423,2,sleep,Southeast Magnolia
+6424,2,building,Southeast Magnolia
+6425,2,townhouse,Southeast Magnolia
+6426,2,cozy,Southeast Magnolia
+6427,2,stay,Southeast Magnolia
+6428,2,apartment,Southeast Magnolia
+6429,2,midcentury,Southeast Magnolia
+6430,2,downtown,Southeast Magnolia
+6431,2,city,Southeast Magnolia
+6432,2,spacious,Southeast Magnolia
+6433,1,motherinlaw,Southeast Magnolia
+6434,1,kind,Southeast Magnolia
+6435,1,tudor,Southeast Magnolia
+6436,1,town,Southeast Magnolia
+6437,1,homestead,Southeast Magnolia
+6438,1,beachf,Southeast Magnolia
+6439,14,seattle,High Point
+6440,13,west,High Point
+6441,5,cozy,High Point
+6442,3,quiet,High Point
+6443,3,rent,High Point
+6444,3,close,High Point
+6445,3,private,High Point
+6446,3,bedroom,High Point
+6447,2,location,High Point
+6448,2,guest,High Point
+6449,2,secluded,High Point
+6450,2,beautiful,High Point
+6451,2,enjoy,High Point
+6452,2,downtown,High Point
+6453,2,entire,High Point
+6454,2,great,High Point
+6455,2,stay,High Point
+6456,2,suitelouis,High Point
+6457,1,cottage,High Point
+6458,1,part,High Point
+6459,1,sanctuary,High Point
+6460,1,sleeps,High Point
+6461,1,turqu,High Point
+6462,1,partial,High Point
+6463,1,alki,High Point
+6464,1,beac,High Point
+6465,1,bathroom,High Point
+6466,1,turquoise,High Point
+6467,6,private,Seaview
+6468,5,seattle,Seaview
+6469,4,apartment,Seaview
+6470,4,modern,Seaview
+6471,4,west,Seaview
+6472,3,home,Seaview
+6473,3,retreat,Seaview
+6474,3,clean,Seaview
+6475,3,view,Seaview
+6476,2,sound,Seaview
+6477,2,water,Seaview
+6478,2,cottage,Seaview
+6479,2,floor,Seaview
+6480,2,sauna,Seaview
+6481,2,mountain,Seaview
+6482,2,beautiful,Seaview
+6483,2,quiet,Seaview
+6484,2,bright,Seaview
+6485,1,warm,Seaview
+6486,1,downtown,Seaview
+6487,1,like,Seaview
+6488,1,basement,Seaview
+6489,1,welcoming,Seaview
+6490,1,alaska,Seaview
+6491,3,vintage,Georgetown
+6492,2,roadhouse,Georgetown
+6493,2,beauty,Georgetown
+6494,2,loft,Georgetown
+6495,2,georgetown,Georgetown
+6496,2,bedroom,Georgetown
+6497,2,modern,Georgetown
+6498,2,building,Georgetown
+6499,2,retreat,Georgetown
+6500,2,classic,Georgetown
+6501,2,apartment,Georgetown
+6502,2,craftsman,Georgetown
+6503,1,former,Georgetown
+6504,1,renovated,Georgetown
+6505,1,completely,Georgetown
+6506,1,artists,Georgetown
+6507,2,farmhouse,South Park
+6508,2,home,South Park
+6509,2,modern,South Park
+6510,1,description,South Park
+6511,1,bedroom,South Park
+6512,1,cabin,South Park
+6513,2,seattle,Roxhill
+6514,2,west,Roxhill
+6515,2,home,Roxhill
+6516,1,fe,Roxhill
+6517,7,seattle,Highland Park
+6518,7,west,Highland Park
+6519,5,beautiful,Highland Park
+6520,4,home,Highland Park
+6521,4,cozy,Highland Park
+6522,3,studio,Highland Park
+6523,3,bathroom,Highland Park
+6524,2,private,Highland Park
+6525,2,basement,Highland Park
+6526,2,apartment,Highland Park
+6527,2,bedroom,Highland Park
+6528,1,lovely,Highland Park
+6529,1,suite,Highland Park
+6530,1,park,Highland Park
+6531,1,mod,Highland Park
+6532,1,store,Highland Park
+6533,1,get,Highland Park
+6534,1,accessible,Highland Park
+6535,1,justfinished,Highland Park
+6536,1,peaceful,Highland Park
+6537,1,renovated,Highland Park
+6538,1,ciao,Highland Park
+6539,9,madison,Madison Park
+6540,8,apartment,Madison Park
+6541,7,park,Madison Park
+6542,7,cozy,Madison Park
+6543,6,lake,Madison Park
+6544,5,bedroom,Madison Park
+6545,4,private,Madison Park
+6546,3,near,Madison Park
+6547,3,lakeside,Madison Park
+6548,3,home,Madison Park
+6549,3,condo,Madison Park
+6550,3,seattle,Madison Park
+6551,3,beach,Madison Park
+6552,2,enjoy,Madison Park
+6553,2,heart,Madison Park
+6554,2,modern,Madison Park
+6555,2,lakefront,Madison Park
+6556,2,apt,Madison Park
+6557,2,bedrooms,Madison Park
+6558,2,views,Madison Park
+6559,2,perfect,Madison Park
+6560,2,view,Madison Park
+6561,2,space,Madison Park
+6562,2,clean,Madison Park
+6563,2,quiet,Madison Park
+6564,2,overlooking,Madison Park
+6565,2,best,Madison Park
+6566,2,cute,Madison Park
+6567,1,pe,Madison Park
+6568,1,description,Madison Park
+6569,1,extremely,Madison Park
+6570,1,retro,Madison Park
+6571,1,location,Madison Park
+6572,1,listing,Madison Park
+6573,1,special,Madison Park
+6574,1,one,Madison Park
+6575,35,home,Stevens
+6576,32,hill,Stevens
+6577,26,capitol,Stevens
+6578,12,bedroom,Stevens
+6579,12,bed,Stevens
+6580,11,hostel,Stevens
+6581,11,mix,Stevens
+6582,11,crayola,Stevens
+6583,10,space,Stevens
+6584,9,apartment,Stevens
+6585,9,private,Stevens
+6586,9,located,Stevens
+6587,8,quiet,Stevens
+6588,8,studio,Stevens
+6589,7,green,Stevens
+6590,7,townhome,Stevens
+6591,7,street,Stevens
+6592,6,seattle,Stevens
+6593,6,roombunk,Stevens
+6594,5,spacious,Stevens
+6595,5,cozy,Stevens
+6596,5,bunk,Stevens
+6597,5,cap,Stevens
+6598,4,valley,Stevens
+6599,4,large,Stevens
+6600,4,bath,Stevens
+6601,4,sunny,Stevens
+6602,4,one,Stevens
+6603,4,purple,Stevens
+6604,4,bright,Stevens
+6605,4,madison,Stevens
+6606,3,clean,Stevens
+6607,3,apt,Stevens
+6608,3,comfortable,Stevens
+6609,3,stylish,Stevens
+6610,3,top,Stevens
+6611,3,jus,Stevens
+6612,3,charming,Stevens
+6613,3,floor,Stevens
+6614,3,location,Stevens
+6615,3,vintage,Stevens
+6616,3,parking,Stevens
+6617,3,modern,Stevens
+6618,3,beautifully,Stevens
+6619,3,seattles,Stevens
+6620,3,garden,Stevens
+6621,3,classic,Stevens
+6622,3,nestled,Stevens
+6623,2,area,Stevens
+6624,2,two,Stevens
+6625,2,walk,Stevens
+6626,2,rm,Stevens
+6627,2,centrally,Stevens
+6628,2,capital,Stevens
+6629,2,airy,Stevens
+6630,2,craftsman,Stevens
+6631,2,full,Stevens
+6632,2,basement,Stevens
+6633,2,great,Stevens
+6634,2,house,Stevens
+6635,2,bathroom,Stevens
+6636,2,free,Stevens
+6637,2,view,Stevens
+6638,2,size,Stevens
+6639,2,wview,Stevens
+6640,2,guesthouse,Stevens
+6641,2,suite,Stevens
+6642,2,shared,Stevens
+6643,2,spa,Stevens
+6644,2,balcony,Stevens
+6645,2,extra,Stevens
+6646,2,luxury,Stevens
+6647,2,queen,Stevens
+6648,2,bdrm,Stevens
+6649,2,views,Stevens
+6650,2,beautiful,Stevens
+6651,2,heart,Stevens
+6652,1,perfect,Stevens
+6653,1,furnished,Stevens
+6654,1,sanctuary,Stevens
+6655,1,energetic,Stevens
+6656,1,trendy,Stevens
+6657,1,firepl,Stevens
+6658,1,awaits,Stevens
+6659,1,floors,Stevens
+6660,1,ideal,Stevens
+6661,1,coffee,Stevens
+6662,1,story,Stevens
+6663,1,priv,Stevens
+6664,1,caphill,Stevens
+6665,1,lair,Stevens
+6666,1,nicknamed,Stevens
+6667,1,living,Stevens
+6668,1,mansion,Stevens
+6669,1,foxglove,Stevens
+6670,1,dreams,Stevens
+6671,1,little,Stevens
+6672,1,spectacular,Stevens
+6673,1,colorful,Stevens
+6674,1,interlaken,Stevens
+6675,1,overlooks,Stevens
+6676,1,air,Stevens
+6677,1,ample,Stevens
+6678,1,li,Stevens
+6679,1,entire,Stevens
+6680,1,single,Stevens
+6681,1,nook,Stevens
+6682,1,updated,Stevens
+6683,1,peck,Stevens
+6684,1,mountainlake,Stevens
+6685,1,residentia,Stevens
+6686,1,features,Stevens
+6687,1,designed,Stevens
+6688,1,lake,Stevens
+6689,1,leafy,Stevens
+6690,1,locale,Stevens
+6691,1,neighborhood,Stevens
+6692,1,entrance,Stevens
+6693,1,upper,Stevens
+6694,1,offers,Stevens
+6695,1,enjoy,Stevens
+6696,1,welcoming,Stevens
+6697,1,pvt,Stevens
+6698,1,se,Stevens
+6699,1,access,Stevens
+6700,1,distance,Stevens
+6701,1,amazing,Stevens
+6702,1,hom,Stevens
+6703,1,diego,Stevens
+6704,1,famil,Stevens
+6705,1,walking,Stevens
+6706,1,high,Stevens
+6707,1,city,Stevens
+6708,1,next,Stevens
+6709,1,san,Stevens
+6710,1,provides,Stevens
+6711,1,ac,Stevens
+6712,1,minutes,Stevens
+6713,1,fun,Stevens
+6714,1,getaway,Stevens
+6715,1,victorian,Stevens
+6716,1,mt,Stevens
+6717,1,metro,Stevens
+6718,1,tree,Stevens
+6719,1,double,Stevens
+6720,1,best,Stevens
+6721,1,crafstman,Stevens
+6722,1,retreat,Stevens
+6723,1,ft,Stevens
+6724,1,moder,Stevens
+6725,1,gardeny,Stevens
+6726,1,tucke,Stevens
+6727,1,walkable,Stevens
+6728,1,st,Stevens
+6729,1,quaint,Stevens
+6730,1,transplants,Stevens
+6731,1,sq,Stevens
+6732,1,description,Stevens
+6733,1,explorer,Stevens
+6734,1,aerodrome,Stevens
+6735,1,airportinspired,Stevens
+6736,1,east,Stevens
+6737,1,mad,Stevens
+6738,1,nei,Stevens
+6739,1,endless,Stevens
+6740,1,includes,Stevens
+6741,1,separate,Stevens
+6742,1,hideaway,Stevens
+6743,1,flat,Stevens
+6744,1,ha,Stevens
+6745,1,score,Stevens
+6746,1,hot,Stevens
+6747,1,historic,Stevens
+6748,1,desirabl,Stevens
+6749,1,much,Stevens
+6750,1,hens,Stevens
+6751,1,windowsso,Stevens
+6752,1,central,Stevens
+6753,1,outside,Stevens
+6754,1,kitchen,Stevens
+6755,1,incity,Stevens
+6756,1,come,Stevens
+6757,1,condo,Stevens
+6758,1,restauran,Stevens
+6759,1,br,Stevens
+6760,1,enough,Stevens
+6761,1,oasis,Stevens
+6762,1,triplex,Stevens
+6763,1,intimate,Stevens
+6764,1,king,Stevens
+6765,1,available,Stevens
+6766,1,dreamy,Stevens
+6767,1,aptcapitol,Stevens
+6768,1,lovely,Stevens
+6769,1,master,Stevens
+6770,1,maker,Stevens
+6771,1,midcity,Stevens
+6772,1,sleeping,Stevens
+6773,1,hillarbo,Stevens
+6774,1,still,Stevens
+6775,1,cute,Stevens
+6776,1,relax,Stevens
+6777,1,north,Stevens
+6778,1,ceiling,Stevens
+6779,1,urban,Stevens
+6780,1,midcentury,Stevens
+6781,1,desk,Stevens
+6782,1,art,Stevens
+6783,1,via,Stevens
+6784,1,craf,Stevens
+6785,1,gourmet,Stevens
+6786,1,val,Stevens
+6787,1,apa,Stevens
+6788,1,townhouse,Stevens
+6789,1,heated,Stevens
+6790,1,ca,Stevens
+6791,1,sweet,Stevens
+6792,1,renting,Stevens
+6793,10,seattle,Broadview
+6794,7,private,Broadview
+6795,7,bedroom,Broadview
+6796,5,beautiful,Broadview
+6797,4,cozy,Broadview
+6798,3,spacious,Broadview
+6799,3,quiet,Broadview
+6800,3,near,Broadview
+6801,3,bright,Broadview
+6802,2,bed,Broadview
+6803,2,house,Broadview
+6804,2,guestroom,Broadview
+6805,2,quarters,Broadview
+6806,2,home,Broadview
+6807,2,ballard,Broadview
+6808,2,apt,Broadview
+6809,2,north,Broadview
+6810,2,suite,Broadview
+6811,2,master,Broadview
+6812,2,guest,Broadview
+6813,2,bathroom,Broadview
+6814,2,bath,Broadview
+6815,2,queen,Broadview
+6816,2,park,Broadview
+6817,2,great,Broadview
+6818,2,carriage,Broadview
+6819,2,midcentury,Broadview
+6820,1,weekend,Broadview
+6821,1,bus,Broadview
+6822,1,incity,Broadview
+6823,1,elvis,Broadview
+6824,1,complete,Broadview
+6825,1,broadview,Broadview
+6826,1,entrance,Broadview
+6827,39,fremont,Fremont
+6828,20,apartment,Fremont
+6829,10,house,Fremont
+6830,10,cozy,Fremont
+6831,10,home,Fremont
+6832,10,bedroom,Fremont
+6833,9,seattle,Fremont
+6834,9,private,Fremont
+6835,8,heart,Fremont
+6836,7,studio,Fremont
+6837,6,located,Fremont
+6838,5,clean,Fremont
+6839,5,suite,Fremont
+6840,5,cottage,Fremont
+6841,5,city,Fremont
+6842,5,comfortable,Fremont
+6843,5,modern,Fremont
+6844,4,apt,Fremont
+6845,4,location,Fremont
+6846,4,enjoy,Fremont
+6847,4,craftsman,Fremont
+6848,4,bed,Fremont
+6849,4,upper,Fremont
+6850,4,tree,Fremont
+6851,4,great,Fremont
+6852,4,stay,Fremont
+6853,4,clouds,Fremont
+6854,3,lovely,Fremont
+6855,3,bungalow,Fremont
+6856,3,fun,Fremont
+6857,3,bath,Fremont
+6858,3,charming,Fremont
+6859,3,beautiful,Fremont
+6860,3,urban,Fremont
+6861,3,artist,Fremont
+6862,3,townhome,Fremont
+6863,3,view,Fremont
+6864,3,spacious,Fremont
+6865,2,super,Fremont
+6866,2,relax,Fremont
+6867,2,loft,Fremont
+6868,2,cool,Fremont
+6869,2,light,Fremont
+6870,2,nestled,Fremont
+6871,2,fremontballard,Fremont
+6872,2,level,Fremont
+6873,2,bright,Fremont
+6874,2,bathroom,Fremont
+6875,2,one,Fremont
+6876,2,simple,Fremont
+6877,2,lower,Fremont
+6878,2,area,Fremont
+6879,2,top,Fremont
+6880,2,new,Fremont
+6881,2,centrally,Fremont
+6882,2,center,Fremont
+6883,2,floor,Fremont
+6884,2,convenient,Fremont
+6885,2,seattles,Fremont
+6886,2,blocks,Fremont
+6887,2,garden,Fremont
+6888,2,deck,Fremont
+6889,2,near,Fremont
+6890,2,motherinlaw,Fremont
+6891,2,place,Fremont
+6892,2,townhouse,Fremont
+6893,2,ensuite,Fremont
+6894,2,bdr,Fremont
+6895,2,come,Fremont
+6896,2,incredible,Fremont
+6897,1,unbeatable,Fremont
+6898,1,airstream,Fremont
+6899,1,olympics,Fremont
+6900,1,decorate,Fremont
+6901,1,farmhouse,Fremont
+6902,1,primely,Fremont
+6903,1,lovingly,Fremont
+6904,1,perfect,Fremont
+6905,1,adorable,Fremont
+6906,1,sun,Fremont
+6907,1,lots,Fremont
+6908,1,sophistication,Fremont
+6909,1,desirable,Fremont
+6910,1,smoke,Fremont
+6911,1,guesthouse,Fremont
+6912,1,business,Fremont
+6913,1,story,Fremont
+6914,1,teeny,Fremont
+6915,1,spirit,Fremont
+6916,1,sleep,Fremont
+6917,1,away,Fremont
+6918,1,everything,Fremont
+6919,1,hills,Fremont
+6920,1,lake,Fremont
+6921,1,lightfilled,Fremont
+6922,1,sunny,Fremont
+6923,1,get,Fremont
+6924,1,fremontwallingford,Fremont
+6925,1,miles,Fremont
+6926,1,northwest,Fremont
+6927,1,big,Fremont
+6928,1,de,Fremont
+6929,1,brother,Fremont
+6930,1,shoeless,Fremont
+6931,1,relaxing,Fremont
+6932,1,excitement,Fremont
+6933,1,anywhere,Fremont
+6934,1,oas,Fremont
+6935,1,minimalist,Fremont
+6936,1,maybelline,Fremont
+6937,1,airy,Fremont
+6938,1,cedar,Fremont
+6939,1,wallingmont,Fremont
+6940,1,colorful,Fremont
+6941,1,romantic,Fremont
+6942,1,timber,Fremont
+6943,1,th,Fremont
+6944,1,fabulous,Fremont
+6945,1,lo,Fremont
+6946,1,chef,Fremont
+6947,1,seat,Fremont
+6948,1,artsy,Fremont
+6949,1,sunroomlaundry,Fremont
+6950,1,quee,Fremont
+6951,1,offers,Fremont
+6952,1,avai,Fremont
+6953,1,trailer,Fremont
+6954,1,urbanchic,Fremont
+6955,1,people,Fremont
+6956,1,comfort,Fremont
+6957,1,bat,Fremont
+6958,1,derelict,Fremont
+6959,1,chet,Fremont
+6960,1,hideout,Fremont
+6961,1,friendly,Fremont
+6962,1,good,Fremont
+6963,1,roomshared,Fremont
+6964,1,views,Fremont
+6965,1,newly,Fremont
+6966,1,pad,Fremont
+6967,1,beautifully,Fremont
+6968,1,sized,Fremont
+6969,1,six,Fremont
+6970,1,things,Fremont
+6971,1,mountain,Fremont
+6972,1,balcony,Fremont
+6973,1,lit,Fremont
+6974,1,bathr,Fremont
+6975,1,breakfast,Fremont
+6976,1,upscale,Fremont
+6977,1,green,Fremont
+6978,1,true,Fremont
+6979,1,califor,Fremont
+6980,1,style,Fremont
+6981,1,fremontba,Fremont
+6982,1,grea,Fremont
+6983,1,plus,Fremont
+6984,1,rest,Fremont
+6985,1,feel,Fremont
+6986,1,ballard,Fremont
+6987,1,flat,Fremont
+6988,1,double,Fremont
+6989,1,luxury,Fremont
+6990,1,recent,Fremont
+6991,1,bedbath,Fremont
+6992,1,sunset,Fremont
+6993,1,sweet,Fremont
+6994,1,casa,Fremont
+6995,1,beds,Fremont
+6996,1,st,Fremont
+6997,1,artful,Fremont
+6998,1,onebedroom,Fremont
+6999,1,purchase,Fremont
+7000,1,kid,Fremont
+7001,1,structure,Fremont
+7002,1,extremely,Fremont
+7003,1,maj,Fremont
+7004,1,fremonts,Fremont
+7005,1,charm,Fremont
+7006,1,pet,Fremont
+7007,1,gardenlevel,Fremont
+7008,1,hazel,Fremont
+7009,1,veiw,Fremont
+7010,1,fantastic,Fremont
+7011,1,description,Fremont
+7012,1,parking,Fremont
+7013,1,highly,Fremont
+7014,1,queen,Fremont
+7015,1,across,Fremont
+7016,1,eclectic,Fremont
+7017,1,digs,Fremont
+7018,1,couch,Fremont
+7019,1,quickly,Fremont
+7020,1,neig,Fremont
+7021,1,sits,Fremont
+7022,1,life,Fremont
+7023,1,quaint,Fremont
+7024,1,amazing,Fremont
+7025,1,fabulou,Fremont
+7026,1,conveniently,Fremont
+7027,1,funky,Fremont
+7028,1,awesome,Fremont
+7029,1,un,Fremont
+7030,1,accommodates,Fremont
+7031,1,viewyard,Fremont
+7032,1,kitchen,Fremont
+7033,1,rare,Fremont
+7034,1,affectionately,Fremont
+7035,1,br,Fremont
+7036,1,oasis,Fremont
+7037,1,roots,Fremont
+7038,1,free,Fremont
+7039,1,roof,Fremont
+7040,1,ba,Fremont
+7041,1,unit,Fremont
+7042,1,construct,Fremont
+7043,1,number,Fremont
+7044,1,construction,Fremont
+7045,1,framed,Fremont
+7046,1,downtown,Fremont
+7047,1,right,Fremont
+7048,1,retreat,Fremont
+7049,1,drenched,Fremont
+7050,1,chestnut,Fremont
+7051,1,little,Fremont
+7052,1,traveling,Fremont
+7053,1,hottest,Fremont
+7054,1,part,Fremont
+7055,1,peaceful,Fremont
+7056,1,ow,Fremont
+7057,1,airbnb,Fremont
+7058,1,master,Fremont
+7059,1,quie,Fremont
+7060,1,heights,Fremont
+7061,1,tiny,Fremont
+7062,1,tow,Fremont
+7063,1,elegant,Fremont
+7064,1,pull,Fremont
+7065,1,jet,Fremont
+7066,1,vacationing,Fremont
+7067,1,lighthouse,Fremont
+7068,1,boasts,Fremont
+7069,1,rustic,Fremont
+7070,1,wit,Fremont
+7071,1,bathro,Fremont
+7072,1,frem,Fremont
