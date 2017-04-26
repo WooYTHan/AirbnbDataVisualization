@@ -506,7 +506,7 @@ function map(map_number) {
                         return "translate(" + projection([d.longitude, d.latitude]) + ")";
                     })
                     .on("mouseover", function(d) {
-                        tooltip2.html("<div class=\"details\"><p class=\"des\">scroll down to read more</p><h3>" + d.name + "</h3>" + "<hr><h4>Room Type: " + d.room_type + "</h4>" +
+                        tooltip2.html("<div class=\"details\"><p class=\"des\">Click the pin to fix tooltip position</p><p class=\"des\">scroll down to read more</p><h3>" + d.name + "</h3>" + "<hr><h4>Room Type: " + d.room_type + "</h4>" +
                             "<hr><h4>Availability In 365 Days: </h4><div class=\"pie\"></div>" +
                             "<hr><h4>Price: <div class=\"text\">0</div><div class=\"lineChart\"></div></h4><hr><h4 id=\"rateText\">Rating</h4><svg id=\"fill\"></svg></div><button type=\"button\" id=\"close\">close</button></div>");
                         custype[0].value = d.availability_365;
