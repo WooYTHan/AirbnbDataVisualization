@@ -18,7 +18,7 @@ var filterPrice;
 
 var curRange;
 var interval;
-$("#" + 0).css('color', '#fff');
+$("#" + 0).css('color', '#fd5c63');
 
 //Tooltip
 var tooltip = d3.select("body").append("div").style("position", "absolute").style("z-index", "10")
@@ -32,20 +32,17 @@ var tooltip = d3.select("body").append("div").style("position", "absolute").styl
     .text("tooltip");
 var tooltip2 = d3.select("body").append("div").style("position", "absolute").style("z-index", "10")
     .style("visibility", "hidden")
-    .attr("class", "tooltip")
-    .style("color", "white")
-    .style("padding", "8px")
-    .style("background-color", "rgba(196, 196, 196, 0.85)")
-    .style("border-radius", "6px")
-    .style("font-size", "20px")
+    .attr("class", "tooltip2")
     .text("tooltip");
 //Change City Map Function
 $(".typeOne").click(function() {
+    $(".getPrice").val('0');
+    $(".getType").val('0');
     d3.selectAll('.map svg').remove();
     d3.selectAll('.wc svg').remove();
     d3.select('#polygon svg').remove();
-    $("#" + pre_number).css('color', '#fd5c63');
-    $(this).css('color', '#fff');
+    $("#" + pre_number).css('color', '#000000');
+    $(this).css('color', '#fd5c63');
     map_number = $(this).attr("id");
     map(map_number);
     pre_number = map_number;
@@ -74,7 +71,7 @@ map(map_number);
 var color = d3.scaleLinear()
     .domain([0, 20])
     .clamp(true)
-    .range(['#fff', '#fd5c63']);
+    .range(['#f7eded', '#fd5c63']);
 
 
 function map(map_number) {
@@ -91,11 +88,11 @@ function map(map_number) {
             var projection = d3.geoMercator()
                 .scale(scale[map_number])
                 .center(center[map_number])
-                .translate([width / 2, height / 2]);
+                .translate([(width + 100) / 2, (height + 100) / 2]);
 
             var path = d3.geoPath().projection(projection);
 
-            var svg = d3.select(".map").append("svg").attr("width", width).attr("height", height);
+            var svg = d3.select(".map").append("svg").attr("width", width).attr("height", height).attr('y', '50');
 
             /* ----------------------------------------------------Draw Word Cloud--------------------------------------------*/
             var wc_postfix = "";
@@ -120,24 +117,25 @@ function map(map_number) {
                 .attr('width', width)
                 .attr('height', height)
                 .on('click', clicked);
-
+            
+            $(".background").click(function(){
+                tooltip2.style("visibility", "hidden");
+            })
             var g = svg.append('g');
 
             var mapLayer = g.append('g')
                 .classed('map-layer', true);
+
             $("button").css('cursor', 'pointer');
             $(".map-layer").css('cursor', 'pointer');
             /* ----------------------------------------------------Filter Data Based on Type and Price--------------------------------------------*/
-            $(".filterClicker").click(function() {
+            $("select").on('change', function (e){
                 filterType = $(".getType").val();
                 filterPrice = $(".getPrice").val() * 200;
                 var listing2 = listing;
                 listing2 = filterData(listing2, listing);
                 count(listing2);
                 changeMapColor(listing2);
-                console.log(listing2);
-                console.log(filterType);
-                console.log(filterPrice);
             });
              /* ----------------------------------------------------Here will return a filtered list--------------------------------------------*/
             function filterData(listing2, listing) {
@@ -219,7 +217,7 @@ function map(map_number) {
 
                 linearGradient.append("stop")
                     .attr("offset", "0%")
-                    .attr("stop-color", "#fff");
+                    .attr("stop-color", "#f7eded");
 
                 linearGradient.append("stop")
                     .attr("offset", "100%")
@@ -277,7 +275,7 @@ function map(map_number) {
                     if (countObj[nameFn(d)] >= 0) {
                         return color(countObj[nameFn(d)]);
                     } else {
-                        return '#fff';
+                        return '#f7eded';
                     }
                 })
                 .on('click', clicked)
@@ -359,7 +357,7 @@ function map(map_number) {
                     if (countObj[nameFn(d)] >= 0) {
                         return color(countObj[nameFn(d)]);
                     } else {
-                        return '#fff';
+                        return '#f7eded';
                     }
                 })
                 d3.selectAll('.axis').remove();
@@ -447,7 +445,7 @@ function map(map_number) {
                         if (countObj[nameFn(d)] >= 0) {
                             return color(countObj[nameFn(d)]);
                         } else {
-                            return '#fff';
+                            return '#f7eded';
                         }
                     });
                 g.transition()
@@ -506,9 +504,9 @@ function map(map_number) {
                         return "translate(" + projection([d.longitude, d.latitude]) + ")";
                     })
                     .on("mouseover", function(d) {
-                        tooltip2.html("<div class=\"details\"><p class=\"des\">Click the pin to fix tooltip position</p><p class=\"des\">scroll down to read more</p><h3>" + d.name + "</h3>" + "<hr><h4>Room Type: " + d.room_type + "</h4>" +
-                            "<hr><h4>Availability In 365 Days: </h4><div class=\"pie\"></div>" +
-                            "<hr><h4>Price: <div class=\"text\">0</div><div class=\"lineChart\"></div></h4><hr><h4 id=\"rateText\">Rating</h4><svg id=\"fill\"></svg></div><button type=\"button\" id=\"close\">close</button></div>");
+                        tooltip2.html("<div class=\"details\"><p class=\"des\">Click the pin to fix tooltip position</p><p class=\"des\">scroll down to read more</p><h3>" + d.name + "</h3>" + "<p>Room Type: " + d.room_type + "</p>" +
+                            "<h4>Availability In 365 Days: </h4><div class=\"pie\"></div>" +
+                            "<h4>Price: <div class=\"text\">0</div><div class=\"lineChart\"></div></h4><h4 id=\"rateText\">Rating</h4><svg id=\"fill\"></svg></div><button type=\"button\" id=\"close\">close</button></div>");
                         custype[0].value = d.availability_365;
                         custype[1].value = 365 - custype[0].value;
                         d3.select("#close").style("margin-top", "15px");
@@ -531,14 +529,6 @@ function map(map_number) {
                         } else {
                             click = 0;
                             $("#" + id).attr("r", 1.2).attr("fill", "rgba(104, 108, 112,0.7)");
-                        }
-                        closeTooltip();
-                    })
-                    .on("mousemove", function() {
-                        if (click == 0) {
-                            return tooltip2.style("top", (d3.event.pageY - 200) + "px").style("left", (d3.event.pageX + 10) + "px");
-                        } else if (click == 1) {
-                            tooltip2.style("visibility", "visible");
                         }
                         closeTooltip();
                     })
@@ -621,12 +611,12 @@ function map(map_number) {
                         return a.range - b.range
                     });
                     console.log(array);
-                    var width = 400;
-                    var height = 350;
-                    var margin = 80;
+                    var width = 200;
+                    var height = 200;
+                    var margin = 50;
                     var svg3 = d3.select(".lineChart").append("svg")
-                        .attr("width", width + 40 + 40)
-                        .attr("height", height + 40 + 40)
+                        .attr("width", width + 80)
+                        .attr("height", height + 80)
                         .append("g")
                         .attr("transform",
                             "translate(" + 40 + "," + 40 + ")");
@@ -649,7 +639,7 @@ function map(map_number) {
                         .call(d3.axisBottom(x))
                         .selectAll("text")
                         .attr("y", 0)
-                        .attr("x", 9)
+                        .attr("x", 4)
                         .attr("dy", ".35em")
                         .attr("transform", "rotate(38)")
                         .style("text-anchor", "start");
@@ -780,7 +770,7 @@ function map(map_number) {
 
                 var layout = d3.layout.cloud()
                     .timeInterval(10000)
-                    .size([380, 180])
+                    .size([350, 150])
                     .words(wcData)
                     .rotate(function(d) {
                         return 0;
@@ -1008,7 +998,7 @@ function map(map_number) {
                 /* ----------------------------------------------------Add Text--------------------------------------------*/
                 poly_g.append("text")
                     .attr("transform", "translate(200,160)")
-                    .attr("fill", "#fff")
+                    .attr("fill", "#00000")
                     .attr("text-anchor", "middle")
                     .style("font-size", "50px")
                     .style("font-weight", "bold")
@@ -1016,65 +1006,65 @@ function map(map_number) {
 
                 poly_g.append("text")
                     .attr("transform", "translate(200,12)")
-                    .attr("fill", "#fff")
+                    .attr("fill", "#00000")
                     .attr("text-anchor", "middle")
                     .style("font-size", "16px")
                     .text("Accuracy");
                 poly_g.append("text")
                     .attr("transform", "translate(200,30)")
-                    .attr("fill", "#fff")
+                    .attr("fill", "#00000")
                     .attr("text-anchor", "middle")
                     .style("font-size", "16px")
                     .text(rating_accu.toFixed(2) + "/10");
 
                 poly_g.append("text")
                     .attr("transform", "translate(60,100)")
-                    .attr("fill", "#fff")
+                    .attr("fill", "#00000")
                     .attr("text-anchor", "middle")
                     .style("font-size", "16px")
                     .text("Cleanliness");
                 poly_g.append("text")
                     .attr("transform", "translate(60,118)")
-                    .attr("fill", "#fff")
+                    .attr("fill", "#00000")
                     .attr("text-anchor", "middle")
                     .style("font-size", "16px")
                     .text(rating_clean.toFixed(2) + "/10");
 
                 poly_g.append("text")
                     .attr("transform", "translate(90,230)")
-                    .attr("fill", "#fff")
+                    .attr("fill", "#00000")
                     .attr("text-anchor", "middle")
                     .style("font-size", "16px")
                     .text("Checkin");
                 poly_g.append("text")
                     .attr("transform", "translate(90,248)")
-                    .attr("fill", "#fff")
+                    .attr("fill", "#00000")
                     .attr("text-anchor", "middle")
                     .style("font-size", "16px")
                     .text(rating_checkin.toFixed(2) + "/10");
 
                 poly_g.append("text")
                     .attr("transform", "translate(340,230)")
-                    .attr("fill", "#fff")
+                    .attr("fill", "#00000")
                     .attr("text-anchor", "middle")
                     .style("font-size", "16px")
                     .text("Communication");
                 poly_g.append("text")
                     .attr("transform", "translate(340,248)")
-                    .attr("fill", "#fff")
+                    .attr("fill", "#00000")
                     .attr("text-anchor", "middle")
                     .style("font-size", "16px")
                     .text(rating_comm.toFixed(2) + "/10");
 
                 poly_g.append("text")
                     .attr("transform", "translate(340,100)")
-                    .attr("fill", "#fff")
+                    .attr("fill", "#00000")
                     .attr("text-anchor", "middle")
                     .style("font-size", "16px")
                     .text("Location");
                 poly_g.append("text")
                     .attr("transform", "translate(340,118)")
-                    .attr("fill", "#fff")
+                    .attr("fill", "#00000")
                     .attr("text-anchor", "middle")
                     .style("font-size", "16px")
                     .text(rating_loc.toFixed(2) + "/10");
